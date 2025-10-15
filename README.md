@@ -98,8 +98,7 @@ cd ../Regression
 ├── Evaluation/                      # Machine learning models
 │   ├── Classification/             # Classification models and analysis
 │   ├── Regression/                 # Regression models and calibration
-│   └── compilated/                # Results aggregation and reporting
-└── Phase3/                          # Final analysis and documentation
+└── └── compilated/                # Results aggregation and reporting
 ```
 
 ## Technical Highlights
