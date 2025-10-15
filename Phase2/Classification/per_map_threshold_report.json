@@ -1,0 +1,258 @@
+{
+  "Mirage": {
+    "global": {
+      "threshold": 0.5,
+      "confusion_matrix": [
+        [
+          34,
+          0
+        ],
+        [
+          30,
+          0
+        ]
+      ],
+      "fp": 0,
+      "fn": 30
+    },
+    "per_map": {
+      "threshold": 0.5649701141756426,
+      "confusion_matrix": [
+        [
+          16,
+          18
+        ],
+        [
+          11,
+          19
+        ]
+      ],
+      "fp": 18,
+      "fn": 11
+    }
+  },
+  "Nuke": {
+    "global": {
+      "threshold": 0.5,
+      "confusion_matrix": [
+        [
+          29,
+          0
+        ],
+        [
+          22,
+          0
+        ]
+      ],
+      "fp": 0,
+      "fn": 22
+    },
+    "per_map": {
+      "threshold": 0.5102569754084257,
+      "confusion_matrix": [
+        [
+          14,
+          15
+        ],
+        [
+          5,
+          17
+        ]
+      ],
+      "fp": 15,
+      "fn": 5
+    }
+  },
+  "Dust2": {
+    "global": {
+      "threshold": 0.5,
+      "confusion_matrix": [
+        [
+          25,
+          0
+        ],
+        [
+          34,
+          0
+        ]
+      ],
+      "fp": 0,
+      "fn": 34
+    },
+    "per_map": {
+      "threshold": 0.5864313516492228,
+      "confusion_matrix": [
+        [
+          14,
+          11
+        ],
+        [
+          18,
+          16
+        ]
+      ],
+      "fp": 11,
+      "fn": 18
+    }
+  },
+  "Ancient": {
+    "global": {
+      "threshold": 0.5,
+      "confusion_matrix": [
+        [
+          31,
+          0
+        ],
+        [
+          24,
+          0
+        ]
+      ],
+      "fp": 0,
+      "fn": 24
+    },
+    "per_map": {
+      "threshold": 0.6947153200189303,
+      "confusion_matrix": [
+        [
+          28,
+          3
+        ],
+        [
+          21,
+          3
+        ]
+      ],
+      "fp": 3,
+      "fn": 21
+    }
+  },
+  "Inferno": {
+    "global": {
+      "threshold": 0.5,
+      "confusion_matrix": [
+        [
+          24,
+          0
+        ],
+        [
+          29,
+          0
+        ]
+      ],
+      "fp": 0,
+      "fn": 29
+    },
+    "per_map": {
+      "threshold": 0.6177859581812851,
+      "confusion_matrix": [
+        [
+          13,
+          11
+        ],
+        [
+          15,
+          14
+        ]
+      ],
+      "fp": 11,
+      "fn": 15
+    }
+  },
+  "Train": {
+    "global": {
+      "threshold": 0.5,
+      "confusion_matrix": [
+        [
+          17,
+          0
+        ],
+        [
+          22,
+          0
+        ]
+      ],
+      "fp": 0,
+      "fn": 22
+    },
+    "per_map": {
+      "threshold": 0.4683800735779324,
+      "confusion_matrix": [
+        [
+          5,
+          12
+        ],
+        [
+          4,
+          18
+        ]
+      ],
+      "fp": 12,
+      "fn": 4
+    }
+  },
+  "Anubis": {
+    "global": {
+      "threshold": 0.5,
+      "confusion_matrix": [
+        [
+          10,
+          0
+        ],
+        [
+          16,
+          0
+        ]
+      ],
+      "fp": 0,
+      "fn": 16
+    },
+    "per_map": {
+      "threshold": 0.8892765165119095,
+      "confusion_matrix": [
+        [
+          6,
+          4
+        ],
+        [
+          11,
+          5
+        ]
+      ],
+      "fp": 4,
+      "fn": 11
+    }
+  },
+  "Overpass": {
+    "global": {
+      "threshold": 0.5,
+      "confusion_matrix": [
+        [
+          3,
+          0
+        ],
+        [
+          13,
+          0
+        ]
+      ],
+      "fp": 0,
+      "fn": 13
+    },
+    "per_map": {
+      "threshold": 0.4240719601895718,
+      "confusion_matrix": [
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          11
+        ]
+      ],
+      "fp": 2,
+      "fn": 2
+    }
+  }
+}

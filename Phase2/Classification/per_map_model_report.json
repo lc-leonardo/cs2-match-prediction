@@ -1,0 +1,122 @@
+{
+  "Mirage": {
+    "per_map_test_count": 64,
+    "per_map_train_count": 314,
+    "per_map_val_count": 62,
+    "per_map_model": {
+      "accuracy": 0.53125,
+      "roc_auc": 0.5911764705882353,
+      "brier": 0.245650766828723
+    },
+    "global_model_on_map": {
+      "accuracy": 0.53125,
+      "roc_auc": NaN,
+      "brier": NaN
+    }
+  },
+  "Nuke": {
+    "per_map_test_count": 51,
+    "per_map_train_count": 268,
+    "per_map_val_count": 67,
+    "per_map_model": {
+      "accuracy": 0.5294117647058824,
+      "roc_auc": 0.7084639498432602,
+      "brier": 0.2684145538515649
+    },
+    "global_model_on_map": {
+      "accuracy": 0.5686274509803921,
+      "roc_auc": NaN,
+      "brier": NaN
+    }
+  },
+  "Dust2": {
+    "per_map_test_count": 59,
+    "per_map_train_count": 251,
+    "per_map_val_count": 57,
+    "per_map_model": {
+      "accuracy": 0.4915254237288136,
+      "roc_auc": 0.4541176470588235,
+      "brier": 0.2684775790804274
+    },
+    "global_model_on_map": {
+      "accuracy": 0.423728813559322,
+      "roc_auc": NaN,
+      "brier": NaN
+    }
+  },
+  "Ancient": {
+    "per_map_test_count": 55,
+    "per_map_train_count": 253,
+    "per_map_val_count": 57,
+    "per_map_model": {
+      "accuracy": 0.5636363636363636,
+      "roc_auc": 0.603494623655914,
+      "brier": 0.2460539739282167
+    },
+    "global_model_on_map": {
+      "accuracy": 0.5636363636363636,
+      "roc_auc": NaN,
+      "brier": NaN
+    }
+  },
+  "Inferno": {
+    "per_map_test_count": 53,
+    "per_map_train_count": 251,
+    "per_map_val_count": 55,
+    "per_map_model": {
+      "accuracy": 0.5471698113207547,
+      "roc_auc": 0.49856321839080464,
+      "brier": 0.2698152956253331
+    },
+    "global_model_on_map": {
+      "accuracy": 0.4528301886792453,
+      "roc_auc": NaN,
+      "brier": NaN
+    }
+  },
+  "Train": {
+    "per_map_test_count": 39,
+    "per_map_train_count": 157,
+    "per_map_val_count": 28,
+    "per_map_model": {
+      "accuracy": 0.46153846153846156,
+      "roc_auc": 0.5267379679144385,
+      "brier": 0.2559765702762914
+    },
+    "global_model_on_map": {
+      "accuracy": 0.4358974358974359,
+      "roc_auc": NaN,
+      "brier": NaN
+    }
+  },
+  "Anubis": {
+    "per_map_test_count": 26,
+    "per_map_train_count": 110,
+    "per_map_val_count": 23,
+    "per_map_model": {
+      "accuracy": 0.6153846153846154,
+      "roc_auc": 0.50625,
+      "brier": 0.2388178962798462
+    },
+    "global_model_on_map": {
+      "accuracy": 0.38461538461538464,
+      "roc_auc": NaN,
+      "brier": NaN
+    }
+  },
+  "Overpass": {
+    "per_map_test_count": 16,
+    "per_map_train_count": 84,
+    "per_map_val_count": 12,
+    "per_map_model": {
+      "accuracy": 0.8125,
+      "roc_auc": 0.6410256410256411,
+      "brier": 0.2235555719256079
+    },
+    "global_model_on_map": {
+      "accuracy": 0.1875,
+      "roc_auc": NaN,
+      "brier": NaN
+    }
+  }
+}

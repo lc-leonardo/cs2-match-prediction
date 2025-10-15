@@ -1,0 +1,82 @@
+[
+  {
+    "map": "Ancient",
+    "test_count": 55,
+    "global_logloss": 0.7081512926158928,
+    "per_map_logloss": 0.7262717036286161,
+    "mean_diff": -0.019374503746412555,
+    "ci_low": -0.17404517348291515,
+    "ci_high": 0.11804978294118855,
+    "p_value": 0.575
+  },
+  {
+    "map": "Anubis",
+    "test_count": 26,
+    "global_logloss": 0.660025611517756,
+    "per_map_logloss": 0.8263027715411169,
+    "mean_diff": -0.16058478331423465,
+    "ci_low": -0.44547622974604173,
+    "ci_high": 0.08571904837761958,
+    "p_value": 0.892
+  },
+  {
+    "map": "Dust2",
+    "test_count": 59,
+    "global_logloss": 0.6567595157756619,
+    "per_map_logloss": 0.7046846653707067,
+    "mean_diff": -0.05136519882628137,
+    "ci_low": -0.22961375783889243,
+    "ci_high": 0.09037846472800844,
+    "p_value": 0.715
+  },
+  {
+    "map": "Inferno",
+    "test_count": 53,
+    "global_logloss": 0.7053210680213112,
+    "per_map_logloss": 0.9482285970971206,
+    "mean_diff": -0.24434126918534954,
+    "ci_low": -0.44213020016658006,
+    "ci_high": -0.07144142597820097,
+    "p_value": 0.996
+  },
+  {
+    "map": "Mirage",
+    "test_count": 64,
+    "global_logloss": 0.6936139931743319,
+    "per_map_logloss": 1.0168762749381373,
+    "mean_diff": -0.32779842571992046,
+    "ci_low": -0.5820096284168625,
+    "ci_high": -0.10210159946263986,
+    "p_value": 1.0
+  },
+  {
+    "map": "Nuke",
+    "test_count": 51,
+    "global_logloss": 0.6837321082321821,
+    "per_map_logloss": 0.8634052190593379,
+    "mean_diff": -0.18223761051163467,
+    "ci_low": -0.4140862051101608,
+    "ci_high": 0.04275361067648858,
+    "p_value": 0.939
+  },
+  {
+    "map": "Overpass",
+    "test_count": 16,
+    "global_logloss": 0.5767836652764634,
+    "per_map_logloss": 0.5245071309725261,
+    "mean_diff": 0.05459484422902649,
+    "ci_low": -0.1233154537019745,
+    "ci_high": 0.22412008965526142,
+    "p_value": 0.2698744769874477
+  },
+  {
+    "map": "Train",
+    "test_count": 39,
+    "global_logloss": 0.6726875657556435,
+    "per_map_logloss": 0.7596513375135558,
+    "mean_diff": -0.09009810691084608,
+    "ci_low": -0.2731984445160117,
+    "ci_high": 0.08281568807357838,
+    "p_value": 0.84
+  }
+]

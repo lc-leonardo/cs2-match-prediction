@@ -1,0 +1,2413 @@
+match_id,date,map,map_order,picked_by,team_A,team_B,team_A_rank,team_B_rank,winner
+97266,2025-09-01,Mirage,3,G2,Spirit,G2,1,15,Spirit
+97266,2025-09-01,Dust2,4,Spirit,Spirit,G2,1,15,G2
+97266,2025-09-01,Ancient,7,decider,Spirit,G2,1,15,G2
+97263,2025-08-31,Dust2,3,Liquid,Spirit,Liquid,1,27,Spirit
+97263,2025-08-31,Mirage,4,Spirit,Spirit,Liquid,1,27,Spirit
+97262,2025-08-30,Mirage,3,FURIA,Spirit,FURIA,1,10,FURIA
+97262,2025-08-30,Nuke,4,Spirit,Spirit,FURIA,1,10,FURIA
+96246,2025-08-20,Ancient,3,HEROIC,Spirit,HEROIC,1,14,Spirit
+96246,2025-08-20,Nuke,4,Spirit,Spirit,HEROIC,1,14,HEROIC
+96246,2025-08-20,Mirage,7,decider,Spirit,HEROIC,1,14,HEROIC
+96225,2025-08-17,Nuke,3,Spirit,Spirit,The MongolZ,1,3,Spirit
+96225,2025-08-17,Mirage,4,The MongolZ,Spirit,The MongolZ,1,3,Spirit
+96225,2025-08-17,Ancient,5,Spirit,Spirit,The MongolZ,1,3,Spirit
+96223,2025-08-16,Ancient,3,Spirit,MOUZ,Spirit,4,1,Spirit
+96223,2025-08-16,Mirage,4,MOUZ,MOUZ,Spirit,4,1,Spirit
+96222,2025-08-15,Ancient,3,Spirit,Spirit,Virtus.pro,1,18,Spirit
+96222,2025-08-15,Overpass,4,Virtus.pro,Spirit,Virtus.pro,1,18,Spirit
+94823,2025-08-09,Mirage,3,G2,G2,Spirit,15,1,Spirit
+94823,2025-08-09,Ancient,4,Spirit,G2,Spirit,15,1,G2
+94823,2025-08-09,Dust2,7,decider,G2,Spirit,15,1,Spirit
+94811,2025-08-06,Dust2,3,Spirit,Passion UA,Spirit,32,1,Passion UA
+94811,2025-08-06,Mirage,4,Passion UA,Passion UA,Spirit,32,1,Spirit
+94811,2025-08-06,Ancient,7,decider,Passion UA,Spirit,32,1,Spirit
+93978,2025-08-03,Mirage,3,MOUZ,MOUZ,Spirit,4,1,Spirit
+93978,2025-08-03,Ancient,4,Spirit,MOUZ,Spirit,4,1,Spirit
+93978,2025-08-03,Nuke,5,MOUZ,MOUZ,Spirit,4,1,Spirit
+93977,2025-08-02,Mirage,3,Natus Vincere,Spirit,Natus Vincere,1,7,Spirit
+93977,2025-08-02,Nuke,4,Spirit,Spirit,Natus Vincere,1,7,Natus Vincere
+93977,2025-08-02,Ancient,7,decider,Spirit,Natus Vincere,1,7,Spirit
+93956,2025-07-28,Dust2,3,Aurora,Aurora,Spirit,6,1,Spirit
+93956,2025-07-28,Nuke,4,Spirit,Aurora,Spirit,6,1,Spirit
+89097,2025-06-19,Mirage,3,MOUZ,Spirit,MOUZ,1,4,Spirit
+89097,2025-06-19,Dust2,4,Spirit,Spirit,MOUZ,1,4,MOUZ
+89097,2025-06-19,Nuke,7,decider,Spirit,MOUZ,1,4,MOUZ
+89084,2025-06-13,Anubis,3,Spirit,Spirit,Natus Vincere,1,7,Spirit
+89084,2025-06-13,Train,4,Natus Vincere,Spirit,Natus Vincere,1,7,Spirit
+89042,2025-06-12,Dust2,7,decider,Spirit,paiN,1,17,Spirit
+88394,2025-05-18,Dust2,3,Spirit,Astralis,Spirit,11,1,Spirit
+88394,2025-05-18,Nuke,4,Astralis,Astralis,Spirit,11,1,Spirit
+88394,2025-05-18,Mirage,5,Spirit,Astralis,Spirit,11,1,Astralis
+88394,2025-05-18,Train,6,Astralis,Astralis,Spirit,11,1,Spirit
+88392,2025-05-17,Train,3,FURIA,FURIA,Spirit,10,1,FURIA
+88392,2025-05-17,Nuke,4,Spirit,FURIA,Spirit,10,1,Spirit
+88392,2025-05-17,Mirage,7,decider,FURIA,Spirit,10,1,Spirit
+88390,2025-05-16,Train,3,Ninjas in Pyjamas,Spirit,Ninjas in Pyjamas,1,24,Spirit
+88390,2025-05-16,Dust2,4,Spirit,Spirit,Ninjas in Pyjamas,1,24,Spirit
+88361,2025-05-12,Dust2,3,Spirit,Astralis,Spirit,11,1,Spirit
+88361,2025-05-12,Ancient,4,Astralis,Astralis,Spirit,11,1,Spirit
+88353,2025-05-11,Train,3,Ninjas in Pyjamas,Spirit,Ninjas in Pyjamas,1,24,Spirit
+88353,2025-05-11,Dust2,4,Spirit,Spirit,Ninjas in Pyjamas,1,24,Spirit
+87631,2025-05-03,Mirage,3,Spirit,Spirit,Vitality,1,2,Vitality
+87631,2025-05-03,Nuke,4,Vitality,Spirit,Vitality,1,2,Vitality
+87629,2025-05-02,Anubis,3,Wildcard,Spirit,Wildcard,1,61,Spirit
+87629,2025-05-02,Dust2,4,Spirit,Spirit,Wildcard,1,61,Spirit
+87627,2025-05-01,Mirage,3,Falcons,Spirit,Falcons,1,5,Spirit
+87627,2025-05-01,Ancient,4,Spirit,Spirit,Falcons,1,5,Falcons
+87627,2025-05-01,Dust2,7,decider,Spirit,Falcons,1,5,Falcons
+87620,2025-04-30,Mirage,3,FlyQuest,Spirit,FlyQuest,1,51,Spirit
+87620,2025-04-30,Nuke,4,Spirit,Spirit,FlyQuest,1,51,Spirit
+82534,2025-03-29,Anubis,3,Spirit,Vitality,Spirit,2,1,Vitality
+82534,2025-03-29,Nuke,4,Vitality,Vitality,Spirit,2,1,Spirit
+82534,2025-03-29,Mirage,7,decider,Vitality,Spirit,2,1,Vitality
+82532,2025-03-28,Dust2,3,Spirit,Natus Vincere,Spirit,7,1,Spirit
+82532,2025-03-28,Anubis,4,Natus Vincere,Natus Vincere,Spirit,7,1,Spirit
+97254,2025-09-07,Dust2,3,Vitality,Vitality,G2,2,15,G2
+97254,2025-09-07,Mirage,4,G2,Vitality,G2,2,15,Vitality
+97254,2025-09-07,Overpass,5,Vitality,Vitality,G2,2,15,Vitality
+97254,2025-09-07,Inferno,6,G2,Vitality,G2,2,15,G2
+97254,2025-09-07,Train,7,decider,Vitality,G2,2,15,G2
+97252,2025-09-06,Mirage,3,MOUZ,Vitality,MOUZ,2,4,Vitality
+97252,2025-09-06,Inferno,4,Vitality,Vitality,MOUZ,2,4,Vitality
+97277,2025-09-01,Mirage,3,FaZe,Vitality,FaZe,2,12,FaZe
+97277,2025-09-01,Nuke,4,Vitality,Vitality,FaZe,2,12,Vitality
+97277,2025-09-01,Inferno,7,decider,Vitality,FaZe,2,12,Vitality
+97273,2025-08-29,Train,3,GamerLegion,Vitality,GamerLegion,2,16,Vitality
+97273,2025-08-29,Inferno,4,Vitality,Vitality,GamerLegion,2,16,GamerLegion
+97273,2025-08-29,Nuke,7,decider,Vitality,GamerLegion,2,16,Vitality
+97267,2025-08-27,Overpass,3,M80,Vitality,M80,2,37,M80
+97267,2025-08-27,Dust2,4,Vitality,Vitality,M80,2,37,Vitality
+97267,2025-08-27,Inferno,7,decider,Vitality,M80,2,37,Vitality
+96254,2025-08-24,Inferno,3,Vitality,Vitality,Falcons,2,5,Vitality
+96254,2025-08-24,Train,4,Falcons,Vitality,Falcons,2,5,Falcons
+96254,2025-08-24,Nuke,7,decider,Vitality,Falcons,2,5,Falcons
+96252,2025-08-23,Mirage,3,The MongolZ,Vitality,The MongolZ,2,3,The MongolZ
+96252,2025-08-23,Dust2,4,Vitality,Vitality,The MongolZ,2,3,Vitality
+96252,2025-08-23,Nuke,7,decider,Vitality,The MongolZ,2,3,The MongolZ
+96248,2025-08-21,Inferno,3,TYLOO,Vitality,TYLOO,2,9,Vitality
+96248,2025-08-21,Nuke,4,Vitality,Vitality,TYLOO,2,9,Vitality
+96241,2025-08-20,Mirage,3,Liquid,Vitality,Liquid,2,27,Vitality
+96241,2025-08-20,Dust2,4,Vitality,Vitality,Liquid,2,27,Vitality
+96224,2025-08-16,Mirage,3,The MongolZ,Vitality,The MongolZ,2,3,The MongolZ
+96224,2025-08-16,Inferno,4,Vitality,Vitality,The MongolZ,2,3,The MongolZ
+94828,2025-08-10,Mirage,3,Legacy,Legacy,Vitality,19,2,Vitality
+94828,2025-08-10,Dust2,4,Vitality,Legacy,Vitality,19,2,Vitality
+94819,2025-08-08,Mirage,3,NRG,NRG,Vitality,51,2,Vitality
+94819,2025-08-08,Dust2,4,Vitality,NRG,Vitality,51,2,Vitality
+93976,2025-08-02,Mirage,3,MOUZ,Vitality,MOUZ,2,4,MOUZ
+93976,2025-08-02,Train,4,Vitality,Vitality,MOUZ,2,4,MOUZ
+93972,2025-07-29,Mirage,3,The MongolZ,Vitality,The MongolZ,2,3,Vitality
+93972,2025-07-29,Inferno,4,Vitality,Vitality,The MongolZ,2,3,Vitality
+93969,2025-07-27,Inferno,3,G2,Vitality,G2,2,15,Vitality
+93969,2025-07-27,Train,4,Vitality,Vitality,G2,2,15,Vitality
+93963,2025-07-26,Nuke,3,Astralis,Vitality,Astralis,2,11,Vitality
+93963,2025-07-26,Overpass,4,Vitality,Vitality,Astralis,2,11,Vitality
+89102,2025-06-22,Mirage,3,The MongolZ,The MongolZ,Vitality,3,2,The MongolZ
+89102,2025-06-22,Dust2,4,Vitality,The MongolZ,Vitality,3,2,Vitality
+89102,2025-06-22,Inferno,7,decider,The MongolZ,Vitality,3,2,Vitality
+89101,2025-06-21,Mirage,3,MOUZ,Vitality,MOUZ,2,4,Vitality
+89101,2025-06-21,Inferno,4,Vitality,Vitality,MOUZ,2,4,MOUZ
+89101,2025-06-21,Train,7,decider,Vitality,MOUZ,2,4,Vitality
+89091,2025-06-14,Train,3,Vitality,Virtus.pro,Vitality,18,2,Vitality
+89091,2025-06-14,Dust2,4,Virtus.pro,Virtus.pro,Vitality,18,2,Vitality
+89080,2025-06-13,Nuke,7,decider,3DMAX,Vitality,8,2,Vitality
+89076,2025-06-12,Dust2,7,decider,Vitality,Nemiga,2,41,Vitality
+89450,2025-05-25,Dust2,3,Vitality,Vitality,MOUZ,2,4,Vitality
+89450,2025-05-25,Mirage,4,MOUZ,Vitality,MOUZ,2,4,Vitality
+89450,2025-05-25,Inferno,5,Vitality,Vitality,MOUZ,2,4,Vitality
+89448,2025-05-24,Dust2,3,Falcons,Vitality,Falcons,2,5,Vitality
+89448,2025-05-24,Train,4,Vitality,Vitality,Falcons,2,5,Falcons
+89448,2025-05-24,Inferno,7,decider,Vitality,Falcons,2,5,Vitality
+89465,2025-05-22,Inferno,3,The MongolZ,Vitality,The MongolZ,2,3,Vitality
+89465,2025-05-22,Nuke,4,Vitality,Vitality,The MongolZ,2,3,The MongolZ
+89465,2025-05-22,Mirage,7,decider,Vitality,The MongolZ,2,3,Vitality
+89459,2025-05-20,Mirage,3,GamerLegion,Vitality,GamerLegion,2,16,Vitality
+89459,2025-05-20,Nuke,4,Vitality,Vitality,GamerLegion,2,16,Vitality
+88676,2025-05-19,Inferno,3,Legacy,Vitality,Legacy,2,19,Vitality
+88676,2025-05-19,Dust2,4,Vitality,Vitality,Legacy,2,19,Vitality
+87632,2025-05-04,Inferno,3,Vitality,Falcons,Vitality,5,2,Falcons
+87632,2025-05-04,Dust2,4,Falcons,Falcons,Vitality,5,2,Vitality
+87632,2025-05-04,Train,5,Vitality,Falcons,Vitality,5,2,Vitality
+87632,2025-05-04,Mirage,6,Falcons,Falcons,Vitality,5,2,Falcons
+87632,2025-05-04,Nuke,7,decider,Falcons,Vitality,5,2,Vitality
+87626,2025-05-01,Mirage,3,MOUZ,Vitality,MOUZ,2,4,MOUZ
+87626,2025-05-01,Inferno,4,Vitality,Vitality,MOUZ,2,4,Vitality
+87626,2025-05-01,Train,7,decider,Vitality,MOUZ,2,4,Vitality
+87623,2025-04-30,Inferno,3,Wildcard,Vitality,Wildcard,2,61,Vitality
+87623,2025-04-30,Dust2,4,Vitality,Vitality,Wildcard,2,61,Vitality
+87308,2025-04-27,Inferno,3,Vitality,Falcons,Vitality,5,2,Vitality
+87308,2025-04-27,Dust2,4,Falcons,Falcons,Vitality,5,2,Falcons
+87308,2025-04-27,Train,5,Vitality,Falcons,Vitality,5,2,Vitality
+87308,2025-04-27,Mirage,6,Falcons,Falcons,Vitality,5,2,Falcons
+87308,2025-04-27,Nuke,7,decider,Falcons,Vitality,5,2,Vitality
+87307,2025-04-26,Mirage,3,The MongolZ,Vitality,The MongolZ,2,3,Vitality
+87307,2025-04-26,Nuke,4,Vitality,Vitality,The MongolZ,2,3,Vitality
+87291,2025-04-23,Mirage,3,Falcons,Vitality,Falcons,2,5,Vitality
+87291,2025-04-23,Inferno,4,Vitality,Vitality,Falcons,2,5,Vitality
+87287,2025-04-22,Mirage,3,Liquid,Vitality,Liquid,2,27,Vitality
+87287,2025-04-22,Nuke,4,Vitality,Vitality,Liquid,2,27,Vitality
+87280,2025-04-21,Anubis,3,FlyQuest,Vitality,FlyQuest,2,51,Vitality
+87280,2025-04-21,Nuke,4,Vitality,Vitality,FlyQuest,2,51,Vitality
+82536,2025-03-30,Inferno,3,Vitality,Vitality,MOUZ,2,4,Vitality
+82536,2025-03-30,Mirage,4,MOUZ,Vitality,MOUZ,2,4,MOUZ
+82536,2025-03-30,Dust2,5,Vitality,Vitality,MOUZ,2,4,MOUZ
+82536,2025-03-30,Nuke,6,MOUZ,Vitality,MOUZ,2,4,Vitality
+82536,2025-03-30,Train,7,decider,Vitality,MOUZ,2,4,Vitality
+98762,2025-09-12,Inferno,3,3DMAX,The MongolZ,3DMAX,3,8,3DMAX
+98762,2025-09-12,Ancient,4,The MongolZ,The MongolZ,3DMAX,3,8,The MongolZ
+98762,2025-09-12,Nuke,7,decider,The MongolZ,3DMAX,3,8,3DMAX
+96249,2025-08-21,Ancient,3,3DMAX,3DMAX,The MongolZ,8,3,The MongolZ
+96249,2025-08-21,Inferno,4,The MongolZ,3DMAX,The MongolZ,8,3,3DMAX
+96249,2025-08-21,Nuke,7,decider,3DMAX,The MongolZ,8,3,The MongolZ
+96220,2025-08-14,Dust2,3,Aurora,The MongolZ,Aurora,3,6,The MongolZ
+96220,2025-08-14,Mirage,4,The MongolZ,The MongolZ,Aurora,3,6,The MongolZ
+94825,2025-08-10,Dust2,3,paiN,paiN,The MongolZ,17,3,The MongolZ
+94825,2025-08-10,Ancient,4,The MongolZ,paiN,The MongolZ,17,3,The MongolZ
+94817,2025-08-08,Mirage,3,The MongolZ,ENCE,The MongolZ,29,3,The MongolZ
+94817,2025-08-08,Dust2,4,ENCE,ENCE,The MongolZ,29,3,ENCE
+94817,2025-08-08,Nuke,7,decider,ENCE,The MongolZ,29,3,The MongolZ
+93975,2025-08-01,Inferno,3,Natus Vincere,The MongolZ,Natus Vincere,3,7,Natus Vincere
+93975,2025-08-01,Ancient,4,The MongolZ,The MongolZ,Natus Vincere,3,7,Natus Vincere
+93968,2025-07-27,Dust2,3,Falcons,Falcons,The MongolZ,5,3,The MongolZ
+93968,2025-07-27,Mirage,4,The MongolZ,Falcons,The MongolZ,5,3,The MongolZ
+93962,2025-07-26,Nuke,3,3DMAX,The MongolZ,3DMAX,3,8,The MongolZ
+93962,2025-07-26,Ancient,4,The MongolZ,The MongolZ,3DMAX,3,8,The MongolZ
+89100,2025-06-21,Mirage,3,The MongolZ,The MongolZ,paiN,3,17,The MongolZ
+89100,2025-06-21,Anubis,4,paiN,The MongolZ,paiN,3,17,The MongolZ
+89098,2025-06-20,Mirage,3,The MongolZ,FaZe,The MongolZ,12,3,The MongolZ
+89098,2025-06-20,Anubis,4,FaZe,FaZe,The MongolZ,12,3,The MongolZ
+89081,2025-06-13,Nuke,7,decider,The MongolZ,Lynn Vision,3,13,The MongolZ
+89077,2025-06-12,Ancient,7,decider,The MongolZ,Liquid,3,27,The MongolZ
+89043,2025-06-12,Inferno,7,decider,The MongolZ,FURIA,3,10,FURIA
+89447,2025-05-23,Dust2,3,Aurora,The MongolZ,Aurora,3,6,The MongolZ
+89447,2025-05-23,Mirage,4,The MongolZ,The MongolZ,Aurora,3,6,The MongolZ
+89462,2025-05-20,Inferno,3,The MongolZ,The MongolZ,G2,3,15,The MongolZ
+89462,2025-05-20,Dust2,4,G2,The MongolZ,G2,3,15,The MongolZ
+88678,2025-05-20,Anubis,3,FURIA,The MongolZ,FURIA,3,10,The MongolZ
+88678,2025-05-20,Mirage,4,The MongolZ,The MongolZ,FURIA,3,10,The MongolZ
+88387,2025-05-16,Mirage,3,The MongolZ,The MongolZ,Aurora,3,6,Aurora
+88387,2025-05-16,Anubis,4,Aurora,The MongolZ,Aurora,3,6,Aurora
+88347,2025-05-11,Mirage,3,The MongolZ,The MongolZ,MIBR,3,28,The MongolZ
+88347,2025-05-11,Anubis,4,MIBR,The MongolZ,MIBR,3,28,The MongolZ
+88341,2025-05-10,Mirage,3,The MongolZ,The MongolZ,FURIA,3,10,The MongolZ
+88341,2025-05-10,Anubis,4,FURIA,The MongolZ,FURIA,3,10,FURIA
+88341,2025-05-10,Inferno,7,decider,The MongolZ,FURIA,3,10,The MongolZ
+87305,2025-04-25,Anubis,3,Liquid,The MongolZ,Liquid,3,27,Liquid
+87305,2025-04-25,Ancient,4,The MongolZ,The MongolZ,Liquid,3,27,The MongolZ
+87305,2025-04-25,Inferno,7,decider,The MongolZ,Liquid,3,27,The MongolZ
+87302,2025-04-23,Mirage,3,The MongolZ,MOUZ,The MongolZ,4,3,MOUZ
+87302,2025-04-23,Nuke,4,MOUZ,MOUZ,The MongolZ,4,3,MOUZ
+87298,2025-04-22,Dust2,3,FaZe,FaZe,The MongolZ,12,3,The MongolZ
+87298,2025-04-22,Ancient,4,The MongolZ,FaZe,The MongolZ,12,3,The MongolZ
+85859,2025-04-10,Mirage,3,The MongolZ,Falcons,The MongolZ,5,3,The MongolZ
+85859,2025-04-10,Dust2,4,Falcons,Falcons,The MongolZ,5,3,Falcons
+85859,2025-04-10,Ancient,7,decider,Falcons,The MongolZ,5,3,Falcons
+85855,2025-04-09,Mirage,3,The MongolZ,FURIA,The MongolZ,10,3,The MongolZ
+85855,2025-04-09,Nuke,4,FURIA,FURIA,The MongolZ,10,3,The MongolZ
+85840,2025-04-07,Ancient,3,The MongolZ,The MongolZ,Betclic,3,51,Betclic
+85840,2025-04-07,Nuke,4,Betclic,The MongolZ,Betclic,3,51,Betclic
+85820,2025-04-06,Ancient,3,The MongolZ,The MongolZ,3DMAX,3,8,The MongolZ
+85820,2025-04-06,Inferno,4,3DMAX,The MongolZ,3DMAX,3,8,3DMAX
+85820,2025-04-06,Anubis,7,decider,The MongolZ,3DMAX,3,8,3DMAX
+97250,2025-09-05,Ancient,3,M80,MOUZ,M80,4,37,MOUZ
+97250,2025-09-05,Mirage,4,MOUZ,MOUZ,M80,4,37,M80
+97250,2025-09-05,Inferno,7,decider,MOUZ,M80,4,37,MOUZ
+97265,2025-09-01,Inferno,3,FURIA,MOUZ,FURIA,4,10,FURIA
+97265,2025-09-01,Mirage,4,MOUZ,MOUZ,FURIA,4,10,FURIA
+97261,2025-08-30,Ancient,3,G2,MOUZ,G2,4,15,MOUZ
+97261,2025-08-30,Mirage,4,MOUZ,MOUZ,G2,4,15,MOUZ
+97255,2025-08-28,Overpass,3,Imperial,MOUZ,Imperial,4,34,Imperial
+97255,2025-08-28,Mirage,4,MOUZ,MOUZ,Imperial,4,34,MOUZ
+97255,2025-08-28,Nuke,7,decider,MOUZ,Imperial,4,34,MOUZ
+96250,2025-08-22,Ancient,3,Falcons,MOUZ,Falcons,4,5,Falcons
+96250,2025-08-22,Inferno,4,MOUZ,MOUZ,Falcons,4,5,MOUZ
+96250,2025-08-22,Nuke,7,decider,MOUZ,Falcons,4,5,Falcons
+96244,2025-08-21,Inferno,3,Virtus.pro,MOUZ,Virtus.pro,4,18,Virtus.pro
+96244,2025-08-21,Mirage,4,MOUZ,MOUZ,Virtus.pro,4,18,MOUZ
+96244,2025-08-21,Overpass,7,decider,MOUZ,Virtus.pro,4,18,MOUZ
+96219,2025-08-14,Nuke,3,Astralis,MOUZ,Astralis,4,11,MOUZ
+96219,2025-08-14,Mirage,4,MOUZ,MOUZ,Astralis,4,11,MOUZ
+94826,2025-08-10,Ancient,3,B8,B8,MOUZ,23,4,MOUZ
+94826,2025-08-10,Train,4,MOUZ,B8,MOUZ,23,4,MOUZ
+94814,2025-08-07,Nuke,3,OG,OG,MOUZ,30,4,OG
+94814,2025-08-07,Inferno,4,MOUZ,OG,MOUZ,30,4,MOUZ
+94814,2025-08-07,Mirage,7,decider,OG,MOUZ,30,4,MOUZ
+93974,2025-08-01,Train,3,FURIA,MOUZ,FURIA,4,10,MOUZ
+93974,2025-08-01,Mirage,4,MOUZ,MOUZ,FURIA,4,10,FURIA
+93974,2025-08-01,Inferno,7,decider,MOUZ,FURIA,4,10,MOUZ
+93957,2025-07-28,Mirage,3,Natus Vincere,MOUZ,Natus Vincere,4,7,MOUZ
+93957,2025-07-28,Nuke,4,MOUZ,MOUZ,Natus Vincere,4,7,MOUZ
+89089,2025-06-14,Train,3,MOUZ,Aurora,MOUZ,6,4,MOUZ
+89089,2025-06-14,Inferno,4,Aurora,Aurora,MOUZ,6,4,Aurora
+89089,2025-06-14,Mirage,7,decider,Aurora,MOUZ,6,4,MOUZ
+89085,2025-06-13,Dust2,3,Liquid,MOUZ,Liquid,4,27,MOUZ
+89085,2025-06-13,Nuke,4,MOUZ,MOUZ,Liquid,4,27,Liquid
+89085,2025-06-13,Mirage,7,decider,MOUZ,Liquid,4,27,MOUZ
+89075,2025-06-12,Ancient,7,decider,MOUZ,FaZe,4,12,FaZe
+89457,2025-05-21,Dust2,3,Falcons,MOUZ,Falcons,4,5,MOUZ
+89457,2025-05-21,Mirage,4,MOUZ,MOUZ,Falcons,4,5,MOUZ
+89451,2025-05-20,Inferno,3,Liquid,MOUZ,Liquid,4,27,MOUZ
+89451,2025-05-20,Train,4,MOUZ,MOUZ,Liquid,4,27,MOUZ
+87630,2025-05-03,Nuke,3,MOUZ,MOUZ,Falcons,4,5,Falcons
+87630,2025-05-03,Dust2,4,Falcons,MOUZ,Falcons,4,5,Falcons
+87628,2025-05-02,Dust2,3,FaZe,MOUZ,FaZe,4,12,MOUZ
+87628,2025-05-02,Mirage,4,MOUZ,MOUZ,FaZe,4,12,MOUZ
+87624,2025-04-30,Nuke,3,paiN,MOUZ,paiN,4,17,MOUZ
+87624,2025-04-30,Inferno,4,MOUZ,MOUZ,paiN,4,17,paiN
+87624,2025-04-30,Dust2,7,decider,MOUZ,paiN,4,17,MOUZ
+87306,2025-04-26,Dust2,3,Falcons,MOUZ,Falcons,4,5,Falcons
+87306,2025-04-26,Nuke,4,MOUZ,MOUZ,Falcons,4,5,Falcons
+87299,2025-04-22,Inferno,3,GamerLegion,MOUZ,GamerLegion,4,16,MOUZ
+87299,2025-04-22,Nuke,4,MOUZ,MOUZ,GamerLegion,4,16,MOUZ
+87295,2025-04-21,Inferno,3,BIG,MOUZ,BIG,4,45,BIG
+87295,2025-04-21,Mirage,4,MOUZ,MOUZ,BIG,4,45,MOUZ
+87295,2025-04-21,Ancient,7,decider,MOUZ,BIG,4,45,MOUZ
+82535,2025-03-29,Nuke,3,MOUZ,Eternal Fire,MOUZ,87,4,MOUZ
+82535,2025-03-29,Dust2,4,Eternal Fire,Eternal Fire,MOUZ,87,4,MOUZ
+82533,2025-03-28,Inferno,3,G2,MOUZ,G2,4,15,MOUZ
+82533,2025-03-28,Nuke,4,MOUZ,MOUZ,G2,4,15,MOUZ
+98763,2025-09-12,Mirage,3,Virtus.pro,Falcons,Virtus.pro,5,18,Falcons
+98763,2025-09-12,Ancient,4,Falcons,Falcons,Virtus.pro,5,18,Falcons
+96253,2025-08-23,Inferno,3,Aurora,Falcons,Aurora,5,6,Aurora
+96253,2025-08-23,Train,4,Falcons,Falcons,Aurora,5,6,Aurora
+96245,2025-08-21,Ancient,3,G2,G2,Falcons,15,5,Falcons
+96245,2025-08-21,Train,4,Falcons,G2,Falcons,15,5,Falcons
+93970,2025-07-28,Train,3,FURIA,Falcons,FURIA,5,10,Falcons
+93970,2025-07-28,Mirage,4,Falcons,Falcons,FURIA,5,10,FURIA
+93970,2025-07-28,Dust2,7,decider,Falcons,FURIA,5,10,FURIA
+93965,2025-07-26,Nuke,3,GamerLegion,Falcons,GamerLegion,5,16,Falcons
+93965,2025-07-26,Mirage,4,Falcons,Falcons,GamerLegion,5,16,Falcons
+89033,2025-06-09,Ancient,3,MIBR,Falcons,MIBR,5,28,Falcons
+89033,2025-06-09,Nuke,4,Falcons,Falcons,MIBR,5,28,MIBR
+89033,2025-06-09,Inferno,7,decider,Falcons,MIBR,5,28,MIBR
+89007,2025-06-07,Ancient,7,decider,Falcons,B8,5,23,B8
+89446,2025-05-23,Ancient,3,GamerLegion,Falcons,GamerLegion,5,16,Falcons
+89446,2025-05-23,Nuke,4,Falcons,Falcons,GamerLegion,5,16,GamerLegion
+89446,2025-05-23,Inferno,7,decider,Falcons,GamerLegion,5,16,Falcons
+87621,2025-04-30,Dust2,3,Falcons,FaZe,Falcons,12,5,Falcons
+87621,2025-04-30,Ancient,4,FaZe,FaZe,Falcons,12,5,Falcons
+87304,2025-04-25,Train,3,GamerLegion,GamerLegion,Falcons,16,5,Falcons
+87304,2025-04-25,Nuke,4,Falcons,GamerLegion,Falcons,16,5,Falcons
+87286,2025-04-22,Inferno,3,Falcons,Falcons,Natus Vincere,5,7,Natus Vincere
+87286,2025-04-22,Mirage,4,Natus Vincere,Falcons,Natus Vincere,5,7,Falcons
+87286,2025-04-22,Dust2,7,decider,Falcons,Natus Vincere,5,7,Falcons
+87282,2025-04-21,Nuke,3,SAW,Falcons,SAW,5,22,Falcons
+87282,2025-04-21,Dust2,4,Falcons,Falcons,SAW,5,22,Falcons
+85867,2025-04-13,Mirage,3,G2,Falcons,G2,5,15,Falcons
+85867,2025-04-13,Nuke,4,Falcons,Falcons,G2,5,15,Falcons
+85867,2025-04-13,Ancient,5,G2,Falcons,G2,5,15,Falcons
+85864,2025-04-12,Nuke,3,FaZe,Falcons,FaZe,5,12,Falcons
+85864,2025-04-12,Ancient,4,Falcons,Falcons,FaZe,5,12,FaZe
+85864,2025-04-12,Mirage,7,decider,Falcons,FaZe,5,12,Falcons
+85860,2025-04-11,Train,3,Falcons,GamerLegion,Falcons,16,5,GamerLegion
+85860,2025-04-11,Inferno,4,GamerLegion,GamerLegion,Falcons,16,5,Falcons
+85860,2025-04-11,Ancient,7,decider,GamerLegion,Falcons,16,5,Falcons
+85853,2025-04-09,Inferno,3,Rare Atom,Rare Atom,Falcons,36,5,Rare Atom
+85853,2025-04-09,Train,4,Falcons,Rare Atom,Falcons,36,5,Falcons
+85848,2025-04-08,Nuke,3,paiN,Falcons,paiN,5,17,paiN
+85848,2025-04-08,Train,4,Falcons,Falcons,paiN,5,17,Falcons
+85848,2025-04-08,Inferno,7,decider,Falcons,paiN,5,17,Falcons
+85822,2025-04-06,Train,3,Complexity,Falcons,Complexity,5,51,Complexity
+85822,2025-04-06,Dust2,4,Falcons,Falcons,Complexity,5,51,Complexity
+98764,2025-09-12,Nuke,3,Astralis,Aurora,Astralis,6,11,Astralis
+98764,2025-09-12,Dust2,4,Aurora,Aurora,Astralis,6,11,Aurora
+98764,2025-09-12,Overpass,7,decider,Aurora,Astralis,6,11,Aurora
+96251,2025-08-22,Mirage,3,HEROIC,Aurora,HEROIC,6,14,Aurora
+96251,2025-08-22,Dust2,4,Aurora,Aurora,HEROIC,6,14,Aurora
+96247,2025-08-20,Inferno,3,Aurora,FaZe,Aurora,12,6,FaZe
+96247,2025-08-20,Mirage,4,FaZe,FaZe,Aurora,12,6,Aurora
+96247,2025-08-20,Overpass,7,decider,FaZe,Aurora,12,6,Aurora
+94827,2025-08-10,Overpass,3,HEROIC,HEROIC,Aurora,14,6,Aurora
+94827,2025-08-10,Dust2,4,Aurora,HEROIC,Aurora,14,6,Aurora
+93958,2025-07-29,Nuke,3,FaZe,Aurora,FaZe,6,12,FaZe
+93958,2025-07-29,Mirage,4,Aurora,Aurora,FaZe,6,12,FaZe
+93953,2025-07-26,Dust2,3,Aurora,Aurora,Ninjas in Pyjamas,6,24,Aurora
+93953,2025-07-26,Train,4,Ninjas in Pyjamas,Aurora,Ninjas in Pyjamas,6,24,Aurora
+89082,2025-06-13,Inferno,7,decider,Aurora,G2,6,15,G2
+89044,2025-06-12,Anubis,7,decider,Aurora,FaZe,6,12,Aurora
+89458,2025-05-21,Train,3,HEROIC,HEROIC,Aurora,14,6,HEROIC
+89458,2025-05-21,Dust2,4,Aurora,HEROIC,Aurora,14,6,Aurora
+89458,2025-05-21,Mirage,7,decider,HEROIC,Aurora,14,6,Aurora
+89456,2025-05-21,Inferno,3,Liquid,Liquid,Aurora,27,6,Aurora
+89456,2025-05-21,Dust2,4,Aurora,Liquid,Aurora,27,6,Aurora
+89453,2025-05-20,Inferno,3,NRG,Aurora,NRG,6,51,Aurora
+89453,2025-05-20,Nuke,4,Aurora,Aurora,NRG,6,51,Aurora
+88673,2025-05-20,Dust2,3,HEROIC,Aurora,HEROIC,6,14,Aurora
+88673,2025-05-20,Anubis,4,Aurora,Aurora,HEROIC,6,14,HEROIC
+88673,2025-05-20,Mirage,7,decider,Aurora,HEROIC,6,14,HEROIC
+88393,2025-05-18,Anubis,3,Aurora,Aurora,FURIA,6,10,FURIA
+88393,2025-05-18,Inferno,4,FURIA,Aurora,FURIA,6,10,Aurora
+88393,2025-05-18,Dust2,7,decider,Aurora,FURIA,6,10,Aurora
+88391,2025-05-17,Mirage,3,Aurora,Aurora,Astralis,6,11,Aurora
+88391,2025-05-17,Nuke,4,Astralis,Aurora,Astralis,6,11,Astralis
+88391,2025-05-17,Train,7,decider,Aurora,Astralis,6,11,Astralis
+88370,2025-05-14,Dust2,3,Aurora,ODDIK,Aurora,51,6,Aurora
+88370,2025-05-14,Anubis,4,ODDIK,ODDIK,Aurora,51,6,Aurora
+88368,2025-05-13,Train,3,Natus Vincere,Natus Vincere,Aurora,7,6,Natus Vincere
+88368,2025-05-13,Inferno,4,Aurora,Natus Vincere,Aurora,7,6,Natus Vincere
+88357,2025-05-12,Anubis,3,Aurora,Ninjas in Pyjamas,Aurora,24,6,Aurora
+88357,2025-05-12,Train,4,Ninjas in Pyjamas,Ninjas in Pyjamas,Aurora,24,6,Ninjas in Pyjamas
+88357,2025-05-12,Inferno,7,decider,Ninjas in Pyjamas,Aurora,24,6,Aurora
+88351,2025-05-11,Mirage,3,HOTU,Aurora,HOTU,6,51,Aurora
+88351,2025-05-11,Anubis,4,Aurora,Aurora,HOTU,6,51,HOTU
+88351,2025-05-11,Nuke,7,decider,Aurora,HOTU,6,51,Aurora
+88339,2025-05-10,Mirage,3,BIG,Aurora,BIG,6,45,Aurora
+88339,2025-05-10,Inferno,4,Aurora,Aurora,BIG,6,45,BIG
+88339,2025-05-10,Dust2,7,decider,Aurora,BIG,6,45,BIG
+85862,2025-04-11,Anubis,3,Aurora,Complexity,Aurora,51,6,Aurora
+85862,2025-04-11,Train,4,Complexity,Complexity,Aurora,51,6,Complexity
+85862,2025-04-11,Nuke,7,decider,Complexity,Aurora,51,6,Complexity
+85856,2025-04-09,Mirage,3,Betclic,Aurora,Betclic,6,51,Aurora
+85856,2025-04-09,Anubis,4,Aurora,Aurora,Betclic,6,51,Aurora
+85849,2025-04-08,Inferno,3,3DMAX,Aurora,3DMAX,6,8,3DMAX
+85849,2025-04-08,Anubis,4,Aurora,Aurora,3DMAX,6,8,Aurora
+85849,2025-04-08,Dust2,7,decider,Aurora,3DMAX,6,8,3DMAX
+85838,2025-04-07,Mirage,3,Legacy,Aurora,Legacy,6,19,Aurora
+85838,2025-04-07,Anubis,4,Aurora,Aurora,Legacy,6,19,Aurora
+85825,2025-04-06,Nuke,3,paiN,Aurora,paiN,6,17,Aurora
+85825,2025-04-06,Inferno,4,Aurora,Aurora,paiN,6,17,paiN
+85825,2025-04-06,Dust2,7,decider,Aurora,paiN,6,17,Aurora
+85500,2025-04-02,Mirage,3,Aurora,Aurora,Monte,6,44,Aurora
+85500,2025-04-02,Ancient,4,Monte,Aurora,Monte,6,44,Aurora
+85968,2025-04-02,Nuke,3,Aurora,CYBERSHOKE,Aurora,51,6,Aurora
+85968,2025-04-02,Anubis,4,CYBERSHOKE,CYBERSHOKE,Aurora,51,6,CYBERSHOKE
+85968,2025-04-02,Mirage,7,decider,CYBERSHOKE,Aurora,51,6,CYBERSHOKE
+84608,2025-03-31,Anubis,3,Metizport,Aurora,Metizport,6,78,Aurora
+84608,2025-03-31,Mirage,4,Aurora,Aurora,Metizport,6,78,Metizport
+84608,2025-03-31,Ancient,5,Metizport,Aurora,Metizport,6,78,Aurora
+84608,2025-03-31,Nuke,6,Aurora,Aurora,Metizport,6,78,Aurora
+84606,2025-03-30,Mirage,3,ECLOT,Aurora,ECLOT,6,51,Aurora
+84606,2025-03-30,Nuke,4,Aurora,Aurora,ECLOT,6,51,Aurora
+84602,2025-03-28,Inferno,3,Aurora,fnatic,Aurora,21,6,fnatic
+84602,2025-03-28,Ancient,4,fnatic,fnatic,Aurora,21,6,Aurora
+84602,2025-03-28,Train,7,decider,fnatic,Aurora,21,6,Aurora
+84327,2025-03-26,Train,3,Aurora,Spirit Academy,Aurora,51,6,Aurora
+84327,2025-03-26,Ancient,4,Spirit Academy,Spirit Academy,Aurora,51,6,Spirit Academy
+84327,2025-03-26,Mirage,7,decider,Spirit Academy,Aurora,51,6,Spirit Academy
+84596,2025-03-26,Mirage,3,Aurora,Nexus,Aurora,51,6,Aurora
+84596,2025-03-26,Nuke,4,Nexus,Nexus,Aurora,51,6,Nexus
+84596,2025-03-26,Inferno,7,decider,Nexus,Aurora,51,6,Aurora
+97275,2025-08-31,Ancient,3,M80,Natus Vincere,M80,7,37,M80
+97275,2025-08-31,Train,4,Natus Vincere,Natus Vincere,M80,7,37,Natus Vincere
+97275,2025-08-31,Inferno,7,decider,Natus Vincere,M80,7,37,M80
+97274,2025-08-29,Mirage,3,Natus Vincere,FaZe,Natus Vincere,12,7,FaZe
+97274,2025-08-29,Dust2,4,FaZe,FaZe,Natus Vincere,12,7,FaZe
+97270,2025-08-27,Train,3,fnatic,Natus Vincere,fnatic,7,21,Natus Vincere
+97270,2025-08-27,Mirage,4,Natus Vincere,Natus Vincere,fnatic,7,21,Natus Vincere
+96242,2025-08-20,Ancient,3,3DMAX,Natus Vincere,3DMAX,7,8,Natus Vincere
+96242,2025-08-20,Inferno,4,Natus Vincere,Natus Vincere,3DMAX,7,8,3DMAX
+96242,2025-08-20,Nuke,7,decider,Natus Vincere,3DMAX,7,8,3DMAX
+94821,2025-08-09,Dust2,3,Astralis,Astralis,Natus Vincere,11,7,Natus Vincere
+94821,2025-08-09,Inferno,4,Natus Vincere,Astralis,Natus Vincere,11,7,Astralis
+94821,2025-08-09,Nuke,7,decider,Astralis,Natus Vincere,11,7,Astralis
+94810,2025-08-06,Ancient,3,TNL,TNL,Natus Vincere,51,7,TNL
+94810,2025-08-06,Nuke,4,Natus Vincere,TNL,Natus Vincere,51,7,Natus Vincere
+94810,2025-08-06,Mirage,7,decider,TNL,Natus Vincere,51,7,Natus Vincere
+93959,2025-07-29,Nuke,3,Ninjas in Pyjamas,Natus Vincere,Ninjas in Pyjamas,7,24,Ninjas in Pyjamas
+93959,2025-07-29,Inferno,4,Natus Vincere,Natus Vincere,Ninjas in Pyjamas,7,24,Natus Vincere
+93959,2025-07-29,Train,7,decider,Natus Vincere,Ninjas in Pyjamas,7,24,Natus Vincere
+93952,2025-07-26,Ancient,3,FaZe,Natus Vincere,FaZe,7,12,FaZe
+93952,2025-07-26,Mirage,4,Natus Vincere,Natus Vincere,FaZe,7,12,Natus Vincere
+93952,2025-07-26,Nuke,7,decider,Natus Vincere,FaZe,7,12,Natus Vincere
+89092,2025-06-14,Mirage,3,Natus Vincere,Natus Vincere,G2,7,15,Natus Vincere
+89092,2025-06-14,Anubis,4,G2,Natus Vincere,G2,7,15,G2
+89092,2025-06-14,Inferno,7,decider,Natus Vincere,G2,7,15,Natus Vincere
+89074,2025-06-12,Inferno,7,decider,3DMAX,Natus Vincere,8,7,Natus Vincere
+89045,2025-06-12,Train,7,decider,Natus Vincere,Nemiga,7,41,Natus Vincere
+88388,2025-05-16,Nuke,3,Astralis,Natus Vincere,Astralis,7,11,Astralis
+88388,2025-05-16,Mirage,4,Natus Vincere,Natus Vincere,Astralis,7,11,Natus Vincere
+88388,2025-05-16,Ancient,7,decider,Natus Vincere,Astralis,7,11,Astralis
+87290,2025-04-23,Anubis,3,Liquid,Natus Vincere,Liquid,7,27,Liquid
+87290,2025-04-23,Inferno,4,Natus Vincere,Natus Vincere,Liquid,7,27,Natus Vincere
+87290,2025-04-23,Ancient,7,decider,Natus Vincere,Liquid,7,27,Liquid
+87288,2025-04-23,Inferno,3,FlyQuest,Natus Vincere,FlyQuest,7,51,Natus Vincere
+87288,2025-04-23,Mirage,4,Natus Vincere,Natus Vincere,FlyQuest,7,51,FlyQuest
+87288,2025-04-23,Ancient,7,decider,Natus Vincere,FlyQuest,7,51,Natus Vincere
+87283,2025-04-21,Anubis,3,MIBR,Natus Vincere,MIBR,7,28,MIBR
+87283,2025-04-21,Mirage,4,Natus Vincere,Natus Vincere,MIBR,7,28,Natus Vincere
+87283,2025-04-21,Inferno,7,decider,Natus Vincere,MIBR,7,28,Natus Vincere
+97745,2025-08-31,Nuke,3,3DMAX,3DMAX,TYLOO,8,9,3DMAX
+97745,2025-08-31,Train,4,TYLOO,3DMAX,TYLOO,8,9,3DMAX
+97740,2025-08-29,Nuke,3,3DMAX,3DMAX,TYLOO,8,9,3DMAX
+97740,2025-08-29,Overpass,4,TYLOO,3DMAX,TYLOO,8,9,TYLOO
+97740,2025-08-29,Inferno,7,decider,3DMAX,TYLOO,8,9,3DMAX
+97738,2025-08-29,Dust2,3,Lynn Vision,3DMAX,Lynn Vision,8,13,3DMAX
+97738,2025-08-29,Nuke,4,3DMAX,3DMAX,Lynn Vision,8,13,3DMAX
+93971,2025-07-28,Ancient,3,3DMAX,G2,3DMAX,15,8,G2
+93971,2025-07-28,Inferno,4,G2,G2,3DMAX,15,8,G2
+93948,2025-07-25,Inferno,3,TYLOO,3DMAX,TYLOO,8,9,3DMAX
+93948,2025-07-25,Ancient,4,3DMAX,3DMAX,TYLOO,8,9,3DMAX
+93943,2025-07-24,Nuke,3,Ninjas in Pyjamas,3DMAX,Ninjas in Pyjamas,8,24,Ninjas in Pyjamas
+93943,2025-07-24,Dust2,4,3DMAX,3DMAX,Ninjas in Pyjamas,8,24,Ninjas in Pyjamas
+93039,2025-07-23,Train,3,MIBR,3DMAX,MIBR,8,28,3DMAX
+93039,2025-07-23,Ancient,4,3DMAX,3DMAX,MIBR,8,28,3DMAX
+92584,2025-07-18,Ancient,3,3DMAX,TYLOO,3DMAX,9,8,TYLOO
+92584,2025-07-18,Inferno,4,TYLOO,TYLOO,3DMAX,9,8,TYLOO
+92573,2025-07-17,Ancient,3,3DMAX,3DMAX,paiN,8,17,3DMAX
+92573,2025-07-17,Nuke,4,paiN,3DMAX,paiN,8,17,3DMAX
+89087,2025-06-14,Inferno,3,3DMAX,3DMAX,paiN,8,17,paiN
+89087,2025-06-14,Nuke,4,paiN,3DMAX,paiN,8,17,paiN
+89041,2025-06-12,Nuke,7,decider,G2,3DMAX,15,8,3DMAX
+89035,2025-06-09,Nuke,3,FaZe,FaZe,3DMAX,12,8,3DMAX
+89035,2025-06-09,Inferno,4,3DMAX,FaZe,3DMAX,12,8,3DMAX
+89463,2025-05-21,Inferno,3,3DMAX,G2,3DMAX,15,8,G2
+89463,2025-05-21,Dust2,4,G2,G2,3DMAX,15,8,3DMAX
+89463,2025-05-21,Nuke,7,decider,G2,3DMAX,15,8,G2
+89460,2025-05-20,Inferno,3,Legacy,Legacy,3DMAX,19,8,3DMAX
+89460,2025-05-20,Dust2,4,3DMAX,Legacy,3DMAX,19,8,Legacy
+89460,2025-05-20,Anubis,7,decider,Legacy,3DMAX,19,8,3DMAX
+88679,2025-05-19,Anubis,3,3DMAX,3DMAX,GamerLegion,8,16,3DMAX
+88679,2025-05-19,Ancient,4,GamerLegion,3DMAX,GamerLegion,8,16,GamerLegion
+88679,2025-05-19,Nuke,7,decider,3DMAX,GamerLegion,8,16,GamerLegion
+87301,2025-04-23,Dust2,3,3DMAX,FaZe,3DMAX,12,8,FaZe
+87301,2025-04-23,Nuke,4,FaZe,FaZe,3DMAX,12,8,FaZe
+87296,2025-04-22,Ancient,3,BIG,BIG,3DMAX,45,8,3DMAX
+87296,2025-04-22,Dust2,4,3DMAX,BIG,3DMAX,45,8,3DMAX
+87294,2025-04-21,Ancient,3,GamerLegion,3DMAX,GamerLegion,8,16,GamerLegion
+87294,2025-04-21,Inferno,4,3DMAX,3DMAX,GamerLegion,8,16,GamerLegion
+85861,2025-04-11,Anubis,3,3DMAX,3DMAX,FaZe,8,12,FaZe
+85861,2025-04-11,Nuke,4,FaZe,3DMAX,FaZe,8,12,FaZe
+85839,2025-04-07,Dust2,3,3DMAX,3DMAX,Astralis,8,11,3DMAX
+85839,2025-04-07,Ancient,4,Astralis,3DMAX,Astralis,8,11,Astralis
+85839,2025-04-07,Inferno,7,decider,3DMAX,Astralis,8,11,3DMAX
+98761,2025-09-12,Inferno,3,TYLOO,GamerLegion,TYLOO,16,9,TYLOO
+98761,2025-09-12,Ancient,4,GamerLegion,GamerLegion,TYLOO,16,9,TYLOO
+97744,2025-08-31,Nuke,3,Lynn Vision,TYLOO,Lynn Vision,9,13,Lynn Vision
+97744,2025-08-31,Inferno,4,TYLOO,TYLOO,Lynn Vision,9,13,TYLOO
+97744,2025-08-31,Overpass,7,decider,TYLOO,Lynn Vision,9,13,TYLOO
+97739,2025-08-29,Mirage,3,B8,TYLOO,B8,9,23,TYLOO
+97739,2025-08-29,Overpass,4,TYLOO,TYLOO,B8,9,23,B8
+97739,2025-08-29,Train,7,decider,TYLOO,B8,9,23,TYLOO
+93941,2025-07-24,Overpass,3,Complexity,Complexity,TYLOO,51,9,Complexity
+93941,2025-07-24,Inferno,4,TYLOO,Complexity,TYLOO,51,9,TYLOO
+93941,2025-07-24,Ancient,7,decider,Complexity,TYLOO,51,9,TYLOO
+93036,2025-07-23,Inferno,3,TYLOO,TYLOO,Virtus.pro,9,18,Virtus.pro
+93036,2025-07-23,Overpass,4,Virtus.pro,TYLOO,Virtus.pro,9,18,Virtus.pro
+92590,2025-07-20,Inferno,3,TYLOO,TYLOO,Astralis,9,11,Astralis
+92590,2025-07-20,Nuke,4,Astralis,TYLOO,Astralis,9,11,TYLOO
+92590,2025-07-20,Mirage,5,TYLOO,TYLOO,Astralis,9,11,TYLOO
+92590,2025-07-20,Ancient,6,Astralis,TYLOO,Astralis,9,11,TYLOO
+92588,2025-07-19,Nuke,3,SAW,TYLOO,SAW,9,22,TYLOO
+92588,2025-07-19,Inferno,4,TYLOO,TYLOO,SAW,9,22,TYLOO
+92577,2025-07-16,Mirage,3,TYLOO,TYLOO,Astralis,9,11,TYLOO
+92577,2025-07-16,Nuke,4,Astralis,TYLOO,Astralis,9,11,Astralis
+92577,2025-07-16,Inferno,7,decider,TYLOO,Astralis,9,11,TYLOO
+92574,2025-07-15,Inferno,3,TYLOO,Virtus.pro,TYLOO,18,9,TYLOO
+92574,2025-07-15,Anubis,4,Virtus.pro,Virtus.pro,TYLOO,18,9,TYLOO
+89017,2025-06-07,Anubis,7,decider,FaZe,TYLOO,12,9,FaZe
+88561,2025-06-06,Inferno,3,TYLOO,FlyQuest,TYLOO,51,9,FlyQuest
+88561,2025-06-06,Mirage,4,FlyQuest,FlyQuest,TYLOO,51,9,TYLOO
+88561,2025-06-06,Anubis,7,decider,FlyQuest,TYLOO,51,9,TYLOO
+88554,2025-06-05,Train,3,Complexity,Complexity,TYLOO,51,9,TYLOO
+88554,2025-06-05,Inferno,4,TYLOO,Complexity,TYLOO,51,9,TYLOO
+88541,2025-06-04,Mirage,7,decider,TYLOO,Metizport,9,78,TYLOO
+88486,2025-06-03,Anubis,7,decider,TYLOO,NRG,9,51,NRG
+89182,2025-05-18,Train,3,TYLOO,Rare Atom,TYLOO,36,9,TYLOO
+89182,2025-05-18,Ancient,4,Rare Atom,Rare Atom,TYLOO,36,9,TYLOO
+89181,2025-05-17,Mirage,3,Shika,TYLOO,Shika,9,51,TYLOO
+89181,2025-05-17,Nuke,4,TYLOO,TYLOO,Shika,9,51,TYLOO
+88183,2025-05-16,Inferno,3,TYLOO,Lynn Vision,TYLOO,13,9,TYLOO
+88183,2025-05-16,Ancient,4,Lynn Vision,Lynn Vision,TYLOO,13,9,TYLOO
+88181,2025-05-11,Inferno,3,TYLOO,TYLOO,FlyQuest,9,51,TYLOO
+88181,2025-05-11,Ancient,4,FlyQuest,TYLOO,FlyQuest,9,51,TYLOO
+88178,2025-05-09,Inferno,3,TYLOO,FlyQuest,TYLOO,51,9,TYLOO
+88178,2025-05-09,Ancient,4,FlyQuest,FlyQuest,TYLOO,51,9,FlyQuest
+88178,2025-05-09,Mirage,7,decider,FlyQuest,TYLOO,51,9,TYLOO
+87868,2025-05-04,Inferno,3,TYLOO,Lynn Vision,TYLOO,13,9,TYLOO
+87868,2025-05-04,Nuke,4,Lynn Vision,Lynn Vision,TYLOO,13,9,Lynn Vision
+87868,2025-05-04,Ancient,5,TYLOO,Lynn Vision,TYLOO,13,9,Lynn Vision
+87866,2025-05-03,Inferno,3,TYLOO,TYLOO,Lynn Vision,9,13,TYLOO
+87866,2025-05-03,Ancient,4,Lynn Vision,TYLOO,Lynn Vision,9,13,Lynn Vision
+87866,2025-05-03,Train,7,decider,TYLOO,Lynn Vision,9,13,Lynn Vision
+86773,2025-04-17,Anubis,3,TYLOO,TYLOO,Rare Atom,9,36,TYLOO
+86773,2025-04-17,Mirage,4,Rare Atom,TYLOO,Rare Atom,9,36,TYLOO
+86771,2025-04-16,Nuke,3,Lynn Vision,Lynn Vision,TYLOO,13,9,Lynn Vision
+86771,2025-04-16,Inferno,4,TYLOO,Lynn Vision,TYLOO,13,9,TYLOO
+86771,2025-04-16,Train,7,decider,Lynn Vision,TYLOO,13,9,Lynn Vision
+76913,2025-04-05,Anubis,7,decider,TYLOO,The Huns,9,51,TYLOO
+76902,2025-04-05,Inferno,7,decider,The Huns,TYLOO,51,9,TYLOO
+76976,2025-04-01,Anubis,7,decider,TYLOO,Gods Reign,9,51,TYLOO
+97253,2025-09-06,Inferno,3,G2,FURIA,G2,10,15,G2
+97253,2025-09-06,Mirage,4,FURIA,FURIA,G2,10,15,G2
+97258,2025-08-28,Inferno,3,Legacy,FURIA,Legacy,10,19,FURIA
+97258,2025-08-28,Nuke,4,FURIA,FURIA,Legacy,10,19,Legacy
+97258,2025-08-28,Mirage,7,decider,FURIA,Legacy,10,19,FURIA
+94813,2025-08-07,Inferno,3,BIG,BIG,FURIA,45,10,FURIA
+94813,2025-08-07,Dust2,4,FURIA,BIG,FURIA,45,10,FURIA
+93973,2025-07-29,Dust2,3,FURIA,G2,FURIA,15,10,FURIA
+93973,2025-07-29,Inferno,4,G2,G2,FURIA,15,10,FURIA
+93967,2025-07-27,Inferno,3,Astralis,Astralis,FURIA,11,10,FURIA
+93967,2025-07-27,Dust2,4,FURIA,Astralis,FURIA,11,10,FURIA
+93964,2025-07-26,Dust2,3,FURIA,G2,FURIA,15,10,G2
+93964,2025-07-26,Inferno,4,G2,G2,FURIA,15,10,G2
+93945,2025-07-25,Nuke,3,Astralis,Astralis,FURIA,11,10,FURIA
+93945,2025-07-25,Dust2,4,FURIA,Astralis,FURIA,11,10,FURIA
+93034,2025-07-23,Inferno,3,FlyQuest,FlyQuest,FURIA,51,10,FURIA
+93034,2025-07-23,Dust2,4,FURIA,FlyQuest,FURIA,51,10,FlyQuest
+93034,2025-07-23,Mirage,7,decider,FlyQuest,FURIA,51,10,FURIA
+92568,2025-07-17,Ancient,3,SAW,FURIA,SAW,10,22,SAW
+92568,2025-07-17,Train,4,FURIA,FURIA,SAW,10,22,FURIA
+92568,2025-07-17,Inferno,7,decider,FURIA,SAW,10,22,SAW
+89096,2025-06-20,Nuke,3,paiN,FURIA,paiN,10,17,FURIA
+89096,2025-06-20,Anubis,4,FURIA,FURIA,paiN,10,17,paiN
+89096,2025-06-20,Inferno,7,decider,FURIA,paiN,10,17,paiN
+89034,2025-06-09,Mirage,3,B8,FURIA,B8,10,23,B8
+89034,2025-06-09,Train,4,FURIA,FURIA,B8,10,23,FURIA
+89034,2025-06-09,Dust2,7,decider,FURIA,B8,10,23,FURIA
+89024,2025-06-08,Dust2,7,decider,FURIA,M80,10,37,FURIA
+89015,2025-06-07,Dust2,7,decider,paiN,FURIA,17,10,paiN
+89010,2025-06-07,Nuke,7,decider,FURIA,Lynn Vision,10,13,FURIA
+89464,2025-05-21,Train,3,FURIA,GamerLegion,FURIA,16,10,GamerLegion
+89464,2025-05-21,Mirage,4,GamerLegion,GamerLegion,FURIA,16,10,FURIA
+89464,2025-05-21,Nuke,7,decider,GamerLegion,FURIA,16,10,GamerLegion
+89461,2025-05-20,Dust2,3,Lynn Vision,FURIA,Lynn Vision,10,13,FURIA
+89461,2025-05-20,Anubis,4,FURIA,FURIA,Lynn Vision,10,13,FURIA
+88389,2025-05-16,Nuke,3,MIBR,FURIA,MIBR,10,28,FURIA
+88389,2025-05-16,Train,4,FURIA,FURIA,MIBR,10,28,FURIA
+88356,2025-05-12,Train,3,MIBR,FURIA,MIBR,10,28,FURIA
+88356,2025-05-12,Anubis,4,FURIA,FURIA,MIBR,10,28,MIBR
+88356,2025-05-12,Inferno,7,decider,FURIA,MIBR,10,28,FURIA
+88349,2025-05-11,Anubis,3,FURIA,GamerLegion,FURIA,16,10,FURIA
+88349,2025-05-11,Mirage,4,GamerLegion,GamerLegion,FURIA,16,10,GamerLegion
+88349,2025-05-11,Nuke,7,decider,GamerLegion,FURIA,16,10,FURIA
+85843,2025-04-08,Anubis,3,FURIA,FURIA,Virtus.pro,10,18,Virtus.pro
+85843,2025-04-08,Dust2,4,Virtus.pro,FURIA,Virtus.pro,10,18,Virtus.pro
+85841,2025-04-07,Dust2,3,FURIA,FURIA,Complexity,10,51,FURIA
+85841,2025-04-07,Train,4,Complexity,FURIA,Complexity,10,51,Complexity
+85841,2025-04-07,Inferno,7,decider,FURIA,Complexity,10,51,Complexity
+85827,2025-04-06,Dust2,3,FURIA,FURIA,Betclic,10,51,FURIA
+85827,2025-04-06,Mirage,4,Betclic,FURIA,Betclic,10,51,FURIA
+93946,2025-07-25,Nuke,3,paiN,Astralis,paiN,11,17,Astralis
+93946,2025-07-25,Ancient,4,Astralis,Astralis,paiN,11,17,paiN
+93946,2025-07-25,Inferno,7,decider,Astralis,paiN,11,17,Astralis
+93035,2025-07-23,Mirage,3,B8,Astralis,B8,11,23,Astralis
+93035,2025-07-23,Inferno,4,Astralis,Astralis,B8,11,23,Astralis
+92589,2025-07-19,Mirage,3,BetBoom,Astralis,BetBoom,11,20,Astralis
+92589,2025-07-19,Nuke,4,Astralis,Astralis,BetBoom,11,20,Astralis
+92586,2025-07-18,Nuke,3,Astralis,Lynn Vision,Astralis,13,11,Astralis
+92586,2025-07-18,Dust2,4,Lynn Vision,Lynn Vision,Astralis,13,11,Astralis
+92578,2025-07-17,Mirage,3,MIBR,MIBR,Astralis,28,11,Astralis
+92578,2025-07-17,Nuke,4,Astralis,MIBR,Astralis,28,11,Astralis
+92575,2025-07-15,Nuke,3,MIBR,Astralis,MIBR,11,28,Astralis
+92575,2025-07-15,Ancient,4,Astralis,Astralis,MIBR,11,28,Astralis
+88350,2025-05-11,Nuke,3,paiN,Astralis,paiN,11,17,Astralis
+88350,2025-05-11,Inferno,4,Astralis,Astralis,paiN,11,17,Astralis
+88340,2025-05-10,Dust2,3,ODDIK,Astralis,ODDIK,11,51,Astralis
+88340,2025-05-10,Ancient,4,Astralis,Astralis,ODDIK,11,51,ODDIK
+88340,2025-05-10,Inferno,7,decider,Astralis,ODDIK,11,51,Astralis
+86911,2025-04-17,Mirage,3,B8,Astralis,B8,11,23,B8
+86911,2025-04-17,Inferno,4,Astralis,Astralis,B8,11,23,Astralis
+86911,2025-04-17,Ancient,7,decider,Astralis,B8,11,23,B8
+86908,2025-04-16,Mirage,3,BIG,Astralis,BIG,11,45,BIG
+86908,2025-04-16,Inferno,4,Astralis,Astralis,BIG,11,45,Astralis
+86908,2025-04-16,Ancient,7,decider,Astralis,BIG,11,45,Astralis
+86905,2025-04-16,Inferno,3,Astralis,Metizport,Astralis,78,11,Metizport
+86905,2025-04-16,Mirage,4,Metizport,Metizport,Astralis,78,11,Astralis
+86905,2025-04-16,Ancient,7,decider,Metizport,Astralis,78,11,Metizport
+86898,2025-04-15,Train,7,decider,Astralis,ENCE,11,29,Astralis
+86890,2025-04-14,Mirage,7,decider,Astralis,PARIVISION,11,35,Astralis
+86884,2025-04-14,Nuke,7,decider,Astralis,OG,11,30,OG
+85857,2025-04-10,Dust2,3,Virtus.pro,Astralis,Virtus.pro,11,18,Virtus.pro
+85857,2025-04-10,Train,4,Astralis,Astralis,Virtus.pro,11,18,Virtus.pro
+85844,2025-04-08,Mirage,3,Betclic,Astralis,Betclic,11,51,Betclic
+85844,2025-04-08,Ancient,4,Astralis,Astralis,Betclic,11,51,Betclic
+85826,2025-04-06,Ancient,3,Astralis,FaZe,Astralis,12,11,Astralis
+85826,2025-04-06,Dust2,4,FaZe,FaZe,Astralis,12,11,FaZe
+85826,2025-04-06,Train,7,decider,FaZe,Astralis,12,11,Astralis
+97251,2025-09-05,Inferno,3,G2,FaZe,G2,12,15,G2
+97251,2025-09-05,Dust2,4,FaZe,FaZe,G2,12,15,G2
+97269,2025-08-27,Overpass,3,ECSTATIC,FaZe,ECSTATIC,12,31,ECSTATIC
+97269,2025-08-27,Dust2,4,FaZe,FaZe,ECSTATIC,12,31,FaZe
+97269,2025-08-27,Inferno,7,decider,FaZe,ECSTATIC,12,31,FaZe
+94822,2025-08-09,Overpass,3,Virtus.pro,Virtus.pro,FaZe,18,12,Virtus.pro
+94822,2025-08-09,Ancient,4,FaZe,Virtus.pro,FaZe,18,12,FaZe
+94822,2025-08-09,Inferno,7,decider,Virtus.pro,FaZe,18,12,Virtus.pro
+94808,2025-08-05,Mirage,3,BetBoom,BetBoom,FaZe,20,12,FaZe
+94808,2025-08-05,Ancient,4,FaZe,BetBoom,FaZe,20,12,FaZe
+93955,2025-07-28,Mirage,3,Liquid,Liquid,FaZe,27,12,FaZe
+93955,2025-07-28,Ancient,4,FaZe,Liquid,FaZe,27,12,FaZe
+93942,2025-07-24,Mirage,3,Liquid,FaZe,Liquid,12,27,FaZe
+93942,2025-07-24,Inferno,4,FaZe,FaZe,Liquid,12,27,Liquid
+93942,2025-07-24,Nuke,7,decider,FaZe,Liquid,12,27,FaZe
+93041,2025-07-23,Inferno,3,BIG,FaZe,BIG,12,45,FaZe
+93041,2025-07-23,Ancient,4,FaZe,FaZe,BIG,12,45,FaZe
+89079,2025-06-13,Anubis,7,decider,Legacy,FaZe,19,12,FaZe
+89038,2025-06-10,Anubis,3,MIBR,FaZe,MIBR,12,28,FaZe
+89038,2025-06-10,Ancient,4,FaZe,FaZe,MIBR,12,28,FaZe
+89027,2025-06-08,Mirage,3,Legacy,FaZe,Legacy,12,19,Legacy
+89027,2025-06-08,Dust2,4,FaZe,FaZe,Legacy,12,19,Legacy
+89006,2025-06-07,Dust2,7,decider,FaZe,HEROIC,12,14,FaZe
+89455,2025-05-21,Ancient,3,HEROIC,HEROIC,FaZe,14,12,FaZe
+89455,2025-05-21,Anubis,4,FaZe,HEROIC,FaZe,14,12,HEROIC
+89455,2025-05-21,Mirage,7,decider,HEROIC,FaZe,14,12,HEROIC
+89452,2025-05-20,Mirage,3,BC.Game,BC.Game,FaZe,51,12,FaZe
+89452,2025-05-20,Anubis,4,FaZe,BC.Game,FaZe,51,12,FaZe
+88674,2025-05-19,Ancient,3,Liquid,Liquid,FaZe,27,12,Liquid
+88674,2025-05-19,Inferno,4,FaZe,Liquid,FaZe,27,12,Liquid
+87622,2025-05-01,Inferno,3,FlyQuest,FlyQuest,FaZe,51,12,FaZe
+87622,2025-05-01,Nuke,4,FaZe,FlyQuest,FaZe,51,12,FaZe
+87303,2025-04-23,Mirage,3,GamerLegion,FaZe,GamerLegion,12,16,GamerLegion
+87303,2025-04-23,Nuke,4,FaZe,FaZe,GamerLegion,12,16,GamerLegion
+87292,2025-04-21,Anubis,3,paiN,FaZe,paiN,12,17,FaZe
+87292,2025-04-21,Inferno,4,FaZe,FaZe,paiN,12,17,FaZe
+85866,2025-04-13,Dust2,3,FaZe,FaZe,Complexity,12,51,FaZe
+85866,2025-04-13,Inferno,4,Complexity,FaZe,Complexity,12,51,FaZe
+85858,2025-04-10,Dust2,3,FaZe,Betclic,FaZe,51,12,FaZe
+85858,2025-04-10,Ancient,4,Betclic,Betclic,FaZe,51,12,FaZe
+85846,2025-04-08,Ancient,3,Rare Atom,Rare Atom,FaZe,36,12,FaZe
+85846,2025-04-08,Dust2,4,FaZe,Rare Atom,FaZe,36,12,FaZe
+97743,2025-08-30,Ancient,3,B8,B8,Lynn Vision,23,13,Lynn Vision
+97743,2025-08-30,Dust2,4,Lynn Vision,B8,Lynn Vision,23,13,B8
+97743,2025-08-30,Inferno,7,decider,B8,Lynn Vision,23,13,Lynn Vision
+97742,2025-08-30,Inferno,3,Rare Atom,Lynn Vision,Rare Atom,13,36,Lynn Vision
+97742,2025-08-30,Dust2,4,Lynn Vision,Lynn Vision,Rare Atom,13,36,Rare Atom
+97742,2025-08-30,Ancient,7,decider,Lynn Vision,Rare Atom,13,36,Lynn Vision
+96686,2025-08-29,Dust2,4,Lynn Vision,Lynn Vision,Rare Atom,13,36,Lynn Vision
+96684,2025-08-27,Ancient,3,Rare Atom,Lynn Vision,Rare Atom,13,36,Lynn Vision
+96684,2025-08-27,Dust2,4,Lynn Vision,Lynn Vision,Rare Atom,13,36,Rare Atom
+96684,2025-08-27,Overpass,7,decider,Lynn Vision,Rare Atom,13,36,Lynn Vision
+92572,2025-07-16,Dust2,3,Lynn Vision,Lynn Vision,paiN,13,17,Lynn Vision
+92572,2025-07-16,Nuke,4,paiN,Lynn Vision,paiN,13,17,paiN
+92572,2025-07-16,Anubis,7,decider,Lynn Vision,paiN,13,17,Lynn Vision
+89088,2025-06-14,Dust2,3,Lynn Vision,Legacy,Lynn Vision,19,13,Lynn Vision
+89088,2025-06-14,Inferno,4,Legacy,Legacy,Lynn Vision,19,13,Legacy
+89088,2025-06-14,Nuke,7,decider,Legacy,Lynn Vision,19,13,Legacy
+89046,2025-06-12,Dust2,7,decider,Liquid,Lynn Vision,27,13,Lynn Vision
+89032,2025-06-09,Dust2,3,Lynn Vision,paiN,Lynn Vision,17,13,paiN
+89032,2025-06-09,Nuke,4,paiN,paiN,Lynn Vision,17,13,paiN
+88559,2025-06-06,Dust2,3,Lynn Vision,NRG,Lynn Vision,51,13,Lynn Vision
+88559,2025-06-06,Inferno,4,NRG,NRG,Lynn Vision,51,13,Lynn Vision
+88555,2025-06-05,Inferno,3,Chinggis Warriors,Lynn Vision,Chinggis Warriors,13,51,Lynn Vision
+88555,2025-06-05,Nuke,4,Lynn Vision,Lynn Vision,Chinggis Warriors,13,51,Chinggis Warriors
+88555,2025-06-05,Ancient,7,decider,Lynn Vision,Chinggis Warriors,13,51,Lynn Vision
+88547,2025-06-04,Dust2,7,decider,Lynn Vision,Nemiga,13,41,Nemiga
+88542,2025-06-03,Nuke,7,decider,Lynn Vision,Wildcard,13,61,Wildcard
+89909,2025-06-03,Dust2,7,decider,Lynn Vision,Legacy,13,19,Lynn Vision
+88677,2025-05-19,Nuke,3,Lynn Vision,G2,Lynn Vision,15,13,G2
+88677,2025-05-19,Inferno,4,G2,G2,Lynn Vision,15,13,G2
+88175,2025-05-11,Nuke,3,Lynn Vision,JiJieHao,Lynn Vision,51,13,Lynn Vision
+88175,2025-05-11,Dust2,4,JiJieHao,JiJieHao,Lynn Vision,51,13,Lynn Vision
+88174,2025-05-10,Nuke,3,The Huns,Lynn Vision,The Huns,13,51,Lynn Vision
+88174,2025-05-10,Dust2,4,Lynn Vision,Lynn Vision,The Huns,13,51,Lynn Vision
+88172,2025-05-08,Nuke,3,Lynn Vision,JiJieHao,Lynn Vision,51,13,JiJieHao
+88172,2025-05-08,Dust2,4,JiJieHao,JiJieHao,Lynn Vision,51,13,JiJieHao
+88171,2025-05-06,Dust2,3,Lynn Vision,Lynn Vision,NinJa,13,51,Lynn Vision
+88171,2025-05-06,Inferno,4,NinJa,Lynn Vision,NinJa,13,51,Lynn Vision
+86769,2025-04-15,Inferno,3,Rare Atom,Rare Atom,Lynn Vision,36,13,Lynn Vision
+86769,2025-04-15,Dust2,4,Lynn Vision,Rare Atom,Lynn Vision,36,13,Lynn Vision
+96407,2025-08-11,Ancient,3,HEROIC,HEROIC,Passion UA,14,32,HEROIC
+96407,2025-08-11,Dust2,4,Passion UA,HEROIC,Passion UA,14,32,Passion UA
+96407,2025-08-11,Overpass,7,decider,HEROIC,Passion UA,14,32,HEROIC
+94820,2025-08-08,Train,3,Complexity,Complexity,HEROIC,51,14,Complexity
+94820,2025-08-08,Ancient,4,HEROIC,Complexity,HEROIC,51,14,HEROIC
+94820,2025-08-08,Overpass,7,decider,Complexity,HEROIC,51,14,HEROIC
+93947,2025-07-25,Overpass,3,Virtus.pro,Virtus.pro,HEROIC,18,14,HEROIC
+93947,2025-07-25,Mirage,4,HEROIC,Virtus.pro,HEROIC,18,14,HEROIC
+93939,2025-07-24,Train,3,MIBR,MIBR,HEROIC,28,14,HEROIC
+93939,2025-07-24,Ancient,4,HEROIC,MIBR,HEROIC,28,14,HEROIC
+93038,2025-07-23,Nuke,3,Ninjas in Pyjamas,Ninjas in Pyjamas,HEROIC,24,14,HEROIC
+93038,2025-07-23,Overpass,4,HEROIC,Ninjas in Pyjamas,HEROIC,24,14,Ninjas in Pyjamas
+93038,2025-07-23,Ancient,7,decider,Ninjas in Pyjamas,HEROIC,24,14,Ninjas in Pyjamas
+92581,2025-07-16,Nuke,3,BetBoom,BetBoom,HEROIC,20,14,HEROIC
+92581,2025-07-16,Ancient,4,HEROIC,BetBoom,HEROIC,20,14,BetBoom
+92581,2025-07-16,Anubis,7,decider,BetBoom,HEROIC,20,14,BetBoom
+92580,2025-07-15,Dust2,3,BIG,HEROIC,BIG,14,45,BIG
+92580,2025-07-15,Mirage,4,HEROIC,HEROIC,BIG,14,45,HEROIC
+92580,2025-07-15,Nuke,7,decider,HEROIC,BIG,14,45,BIG
+89036,2025-06-10,Mirage,3,HEROIC,Nemiga,HEROIC,41,14,Nemiga
+89036,2025-06-10,Dust2,4,Nemiga,Nemiga,HEROIC,41,14,Nemiga
+89025,2025-06-08,Dust2,7,decider,B8,HEROIC,23,14,B8
+88550,2025-06-04,Ancient,3,FlyQuest,HEROIC,FlyQuest,14,51,HEROIC
+88550,2025-06-04,Anubis,4,HEROIC,HEROIC,FlyQuest,14,51,FlyQuest
+88550,2025-06-04,Mirage,7,decider,HEROIC,FlyQuest,14,51,HEROIC
+88489,2025-06-03,Anubis,7,decider,HEROIC,Chinggis Warriors,14,51,HEROIC
+87390,2025-05-01,Ancient,3,JiJieHao,HEROIC,JiJieHao,14,51,HEROIC
+87390,2025-05-01,Anubis,4,HEROIC,HEROIC,JiJieHao,14,51,HEROIC
+87514,2025-04-27,Mirage,3,B8,B8,HEROIC,23,14,HEROIC
+87514,2025-04-27,Dust2,4,HEROIC,B8,HEROIC,23,14,HEROIC
+87513,2025-04-27,Train,3,BetBoom,BetBoom,HEROIC,20,14,HEROIC
+87513,2025-04-27,Ancient,4,HEROIC,BetBoom,HEROIC,20,14,BetBoom
+87513,2025-04-27,Anubis,7,decider,BetBoom,HEROIC,20,14,HEROIC
+87512,2025-04-26,Dust2,3,HEROIC,HEROIC,Partizan,14,51,HEROIC
+87512,2025-04-26,Ancient,4,Partizan,HEROIC,Partizan,14,51,HEROIC
+87509,2025-04-26,Nuke,3,Wildcard,HEROIC,Wildcard,14,61,Wildcard
+87509,2025-04-26,Dust2,4,HEROIC,HEROIC,Wildcard,14,61,HEROIC
+87509,2025-04-26,Anubis,7,decider,HEROIC,Wildcard,14,61,HEROIC
+87508,2025-04-25,Anubis,3,HEROIC,B8,HEROIC,23,14,B8
+87508,2025-04-25,Ancient,4,B8,B8,HEROIC,23,14,HEROIC
+87508,2025-04-25,Mirage,7,decider,B8,HEROIC,23,14,B8
+87502,2025-04-24,Train,3,BC.Game,HEROIC,BC.Game,14,51,HEROIC
+87502,2025-04-24,Anubis,4,HEROIC,HEROIC,BC.Game,14,51,HEROIC
+86900,2025-04-15,Dust2,3,Nemiga,HEROIC,Nemiga,14,41,HEROIC
+86900,2025-04-15,Mirage,4,HEROIC,HEROIC,Nemiga,14,41,HEROIC
+86885,2025-04-14,Ancient,7,decider,HEROIC,ENCE,14,29,HEROIC
+86879,2025-04-14,Ancient,7,decider,HEROIC,PARIVISION,14,35,HEROIC
+97264,2025-08-31,Mirage,3,FlyQuest,G2,FlyQuest,15,51,G2
+97264,2025-08-31,Ancient,4,G2,G2,FlyQuest,15,51,G2
+97256,2025-08-28,Train,3,Liquid,G2,Liquid,15,27,G2
+97256,2025-08-28,Inferno,4,G2,G2,Liquid,15,27,G2
+94807,2025-08-05,Ancient,3,Nemiga,Nemiga,G2,41,15,G2
+94807,2025-08-05,Mirage,4,G2,Nemiga,G2,41,15,G2
+89078,2025-06-12,Dust2,7,decider,G2,paiN,15,17,G2
+89466,2025-05-22,Ancient,3,GamerLegion,G2,GamerLegion,15,16,GamerLegion
+89466,2025-05-22,Mirage,4,G2,G2,GamerLegion,15,16,G2
+89466,2025-05-22,Nuke,7,decider,G2,GamerLegion,15,16,GamerLegion
+88369,2025-05-14,Dust2,3,G2,Ninjas in Pyjamas,G2,24,15,Ninjas in Pyjamas
+88369,2025-05-14,Nuke,4,Ninjas in Pyjamas,Ninjas in Pyjamas,G2,24,15,Ninjas in Pyjamas
+88366,2025-05-13,Dust2,3,G2,BIG,G2,45,15,G2
+88366,2025-05-13,Mirage,4,BIG,BIG,G2,45,15,G2
+88362,2025-05-12,Dust2,3,G2,M80,G2,37,15,G2
+88362,2025-05-12,Ancient,4,M80,M80,G2,37,15,M80
+88362,2025-05-12,Inferno,7,decider,M80,G2,37,15,G2
+88354,2025-05-11,Anubis,3,ODDIK,G2,ODDIK,15,51,ODDIK
+88354,2025-05-11,Dust2,4,G2,G2,ODDIK,15,51,G2
+88354,2025-05-11,Nuke,7,decider,G2,ODDIK,15,51,ODDIK
+85865,2025-04-12,Anubis,3,Complexity,Complexity,G2,51,15,G2
+85865,2025-04-12,Dust2,4,G2,Complexity,G2,51,15,G2
+85863,2025-04-11,Dust2,3,Virtus.pro,G2,Virtus.pro,15,18,G2
+85863,2025-04-11,Mirage,4,G2,G2,Virtus.pro,15,18,G2
+85847,2025-04-08,Dust2,3,G2,G2,Complexity,15,51,G2
+85847,2025-04-08,Anubis,4,Complexity,G2,Complexity,15,51,Complexity
+85847,2025-04-08,Ancient,7,decider,G2,Complexity,15,51,G2
+85835,2025-04-07,Dust2,3,G2,G2,Rare Atom,15,36,G2
+85835,2025-04-07,Ancient,4,Rare Atom,G2,Rare Atom,15,36,G2
+85823,2025-04-06,Mirage,3,GamerLegion,G2,GamerLegion,15,16,G2
+85823,2025-04-06,Inferno,4,G2,G2,GamerLegion,15,16,G2
+97276,2025-08-31,Train,3,fnatic,GamerLegion,fnatic,16,21,fnatic
+97276,2025-08-31,Ancient,4,GamerLegion,GamerLegion,fnatic,16,21,fnatic
+97268,2025-08-27,Dust2,3,Virtus.pro,GamerLegion,Virtus.pro,16,18,GamerLegion
+97268,2025-08-27,Ancient,4,GamerLegion,GamerLegion,Virtus.pro,16,18,GamerLegion
+96404,2025-08-11,Train,3,BIG,GamerLegion,BIG,16,45,BIG
+96404,2025-08-11,Nuke,4,GamerLegion,GamerLegion,BIG,16,45,GamerLegion
+96404,2025-08-11,Inferno,7,decider,GamerLegion,BIG,16,45,GamerLegion
+93944,2025-07-24,Dust2,3,Virtus.pro,GamerLegion,Virtus.pro,16,18,GamerLegion
+93944,2025-07-24,Ancient,4,GamerLegion,GamerLegion,Virtus.pro,16,18,GamerLegion
+92587,2025-07-18,Dust2,3,BetBoom,GamerLegion,BetBoom,16,20,GamerLegion
+92587,2025-07-18,Ancient,4,GamerLegion,GamerLegion,BetBoom,16,20,BetBoom
+92587,2025-07-18,Mirage,7,decider,GamerLegion,BetBoom,16,20,BetBoom
+92567,2025-07-16,Nuke,3,SAW,GamerLegion,SAW,16,22,GamerLegion
+92567,2025-07-16,Ancient,4,GamerLegion,GamerLegion,SAW,16,22,GamerLegion
+87300,2025-04-23,Train,3,Complexity,GamerLegion,Complexity,16,51,GamerLegion
+87300,2025-04-23,Ancient,4,GamerLegion,GamerLegion,Complexity,16,51,Complexity
+87300,2025-04-23,Nuke,7,decider,GamerLegion,Complexity,16,51,GamerLegion
+86901,2025-04-16,Ancient,3,GamerLegion,SAW,GamerLegion,22,16,GamerLegion
+86901,2025-04-16,Nuke,4,SAW,SAW,GamerLegion,22,16,SAW
+86901,2025-04-16,Anubis,7,decider,SAW,GamerLegion,22,16,SAW
+86894,2025-04-15,Anubis,3,500,GamerLegion,500,16,51,GamerLegion
+86894,2025-04-15,Ancient,4,GamerLegion,GamerLegion,500,16,51,GamerLegion
+86883,2025-04-14,Mirage,7,decider,GamerLegion,Nemiga,16,41,Nemiga
+85851,2025-04-09,Ancient,3,Virtus.pro,GamerLegion,Virtus.pro,16,18,GamerLegion
+85851,2025-04-09,Mirage,4,GamerLegion,GamerLegion,Virtus.pro,16,18,GamerLegion
+94815,2025-08-07,Ancient,3,Ninjas in Pyjamas,Ninjas in Pyjamas,paiN,24,17,paiN
+94815,2025-08-07,Dust2,4,paiN,Ninjas in Pyjamas,paiN,24,17,Ninjas in Pyjamas
+94815,2025-08-07,Nuke,7,decider,Ninjas in Pyjamas,paiN,24,17,paiN
+93938,2025-07-25,Ancient,3,BIG,BIG,paiN,45,17,BIG
+93938,2025-07-25,Nuke,4,paiN,BIG,paiN,45,17,paiN
+93938,2025-07-25,Inferno,7,decider,BIG,paiN,45,17,paiN
+93040,2025-07-23,Mirage,3,Liquid,Liquid,paiN,27,17,Liquid
+93040,2025-07-23,Dust2,4,paiN,Liquid,paiN,27,17,Liquid
+89095,2025-06-15,Mirage,3,paiN,Virtus.pro,paiN,18,17,paiN
+89095,2025-06-15,Inferno,4,Virtus.pro,Virtus.pro,paiN,18,17,Virtus.pro
+89095,2025-06-15,Dust2,7,decider,Virtus.pro,paiN,18,17,paiN
+89011,2025-06-07,Dust2,7,decider,paiN,Nemiga,17,41,paiN
+88367,2025-05-13,Train,3,MIBR,MIBR,paiN,28,17,MIBR
+88367,2025-05-13,Mirage,4,paiN,MIBR,paiN,28,17,MIBR
+88358,2025-05-12,Anubis,3,ODDIK,paiN,ODDIK,17,51,ODDIK
+88358,2025-05-12,Nuke,4,paiN,paiN,ODDIK,17,51,ODDIK
+88346,2025-05-10,Mirage,3,HOTU,paiN,HOTU,17,51,paiN
+88346,2025-05-10,Nuke,4,paiN,paiN,HOTU,17,51,paiN
+87625,2025-05-01,Inferno,3,Wildcard,Wildcard,paiN,61,17,Wildcard
+87625,2025-05-01,Anubis,4,paiN,Wildcard,paiN,61,17,Wildcard
+87297,2025-04-22,Train,3,Complexity,paiN,Complexity,17,51,Complexity
+87297,2025-04-22,Anubis,4,paiN,paiN,Complexity,17,51,Complexity
+94809,2025-08-06,Train,3,MIBR,MIBR,Virtus.pro,28,18,Virtus.pro
+94809,2025-08-06,Overpass,4,Virtus.pro,MIBR,Virtus.pro,28,18,Virtus.pro
+92576,2025-07-16,Train,3,MIBR,Virtus.pro,MIBR,18,28,MIBR
+92576,2025-07-16,Mirage,4,Virtus.pro,Virtus.pro,MIBR,18,28,MIBR
+89014,2025-06-07,Inferno,7,decider,Virtus.pro,B8,18,23,Virtus.pro
+88371,2025-05-14,Mirage,3,Virtus.pro,MIBR,Virtus.pro,28,18,MIBR
+88371,2025-05-14,Anubis,4,MIBR,MIBR,Virtus.pro,28,18,Virtus.pro
+88371,2025-05-14,Ancient,7,decider,MIBR,Virtus.pro,28,18,MIBR
+88355,2025-05-12,Dust2,3,Virtus.pro,BIG,Virtus.pro,45,18,Virtus.pro
+88355,2025-05-12,Ancient,4,BIG,BIG,Virtus.pro,45,18,Virtus.pro
+88348,2025-05-11,Ancient,3,M80,Virtus.pro,M80,18,37,M80
+88348,2025-05-11,Mirage,4,Virtus.pro,Virtus.pro,M80,18,37,Virtus.pro
+88348,2025-05-11,Inferno,7,decider,Virtus.pro,M80,18,37,Virtus.pro
+88343,2025-05-10,Train,3,Ninjas in Pyjamas,Virtus.pro,Ninjas in Pyjamas,18,24,Ninjas in Pyjamas
+88343,2025-05-10,Dust2,4,Virtus.pro,Virtus.pro,Ninjas in Pyjamas,18,24,Virtus.pro
+88343,2025-05-10,Ancient,7,decider,Virtus.pro,Ninjas in Pyjamas,18,24,Ninjas in Pyjamas
+87285,2025-04-22,Inferno,3,FlyQuest,FlyQuest,Virtus.pro,51,18,FlyQuest
+87285,2025-04-22,Dust2,4,Virtus.pro,FlyQuest,Virtus.pro,51,18,FlyQuest
+87281,2025-04-21,Dust2,3,Virtus.pro,Liquid,Virtus.pro,27,18,Liquid
+87281,2025-04-21,Mirage,4,Liquid,Liquid,Virtus.pro,27,18,Virtus.pro
+87281,2025-04-21,Ancient,7,decider,Liquid,Virtus.pro,27,18,Liquid
+85837,2025-04-07,Mirage,3,Liquid,Liquid,Virtus.pro,27,18,Virtus.pro
+85837,2025-04-07,Dust2,4,Virtus.pro,Liquid,Virtus.pro,27,18,Virtus.pro
+85821,2025-04-06,Mirage,3,Rare Atom,Virtus.pro,Rare Atom,18,36,Rare Atom
+85821,2025-04-06,Ancient,4,Virtus.pro,Virtus.pro,Rare Atom,18,36,Rare Atom
+98708,2025-09-11,Inferno,3,Legacy,Legacy,Imperial,19,34,Imperial
+98708,2025-09-11,Mirage,4,Imperial,Legacy,Imperial,19,34,Imperial
+97260,2025-08-30,Mirage,3,FlyQuest,FlyQuest,Legacy,51,19,FlyQuest
+97260,2025-08-30,Nuke,4,Legacy,FlyQuest,Legacy,51,19,Legacy
+97260,2025-08-30,Inferno,7,decider,FlyQuest,Legacy,51,19,FlyQuest
+94816,2025-08-07,Ancient,3,fnatic,fnatic,Legacy,21,19,Legacy
+94816,2025-08-07,Inferno,4,Legacy,fnatic,Legacy,21,19,fnatic
+94816,2025-08-07,Mirage,7,decider,fnatic,Legacy,21,19,Legacy
+94748,2025-08-03,Overpass,3,Imperial,Legacy,Imperial,19,34,Legacy
+94748,2025-08-03,Inferno,4,Legacy,Legacy,Imperial,19,34,Legacy
+94746,2025-08-02,Mirage,3,Sharks,Legacy,Sharks,19,63,Legacy
+94746,2025-08-02,Inferno,4,Legacy,Legacy,Sharks,19,63,Legacy
+93363,2025-07-19,Train,3,Imperial,Imperial,Legacy,34,19,Legacy
+93363,2025-07-19,Mirage,4,Legacy,Imperial,Legacy,34,19,Imperial
+93363,2025-07-19,Nuke,7,decider,Imperial,Legacy,34,19,Legacy
+93354,2025-07-17,Anubis,3,Sharks,Legacy,Sharks,19,63,Legacy
+93354,2025-07-17,Inferno,4,Legacy,Legacy,Sharks,19,63,Sharks
+88560,2025-06-06,Inferno,3,Legacy,Wildcard,Legacy,61,19,Legacy
+88560,2025-06-06,Nuke,4,Wildcard,Wildcard,Legacy,61,19,Legacy
+88553,2025-06-05,Inferno,3,Legacy,Imperial,Legacy,34,19,Legacy
+88553,2025-06-05,Dust2,4,Imperial,Imperial,Legacy,34,19,Imperial
+88553,2025-06-05,Mirage,7,decider,Imperial,Legacy,34,19,Legacy
+88545,2025-06-04,Anubis,7,decider,BetBoom,Legacy,20,19,BetBoom
+88635,2025-05-16,Mirage,3,Legacy,NRG,Legacy,51,19,Legacy
+88635,2025-05-16,Dust2,4,NRG,NRG,Legacy,51,19,Legacy
+88633,2025-05-16,Inferno,3,Legacy,Wildcard,Legacy,61,19,Legacy
+88633,2025-05-16,Nuke,4,Wildcard,Wildcard,Legacy,61,19,Legacy
+88630,2025-05-14,Nuke,3,Getting Info,Getting Info,Legacy,51,19,Legacy
+88630,2025-05-14,Anubis,4,Legacy,Getting Info,Legacy,51,19,Legacy
+87791,2025-05-11,Mirage,3,Legacy,Nouns,Legacy,51,19,Nouns
+87791,2025-05-11,Dust2,4,Nouns,Nouns,Legacy,51,19,Nouns
+87791,2025-05-11,Nuke,7,decider,Nouns,Legacy,51,19,Nouns
+87790,2025-05-10,Mirage,3,Legacy,Legacy,BLUEJAYS,19,51,Legacy
+87790,2025-05-10,Ancient,4,BLUEJAYS,Legacy,BLUEJAYS,19,51,Legacy
+87785,2025-05-08,Inferno,3,Legacy,Vagrants,Legacy,51,19,Vagrants
+87785,2025-05-08,Anubis,4,Vagrants,Vagrants,Legacy,51,19,Legacy
+86952,2025-04-17,Mirage,3,BESTIA,BESTIA,Legacy,53,19,BESTIA
+86952,2025-04-17,Inferno,4,Legacy,BESTIA,Legacy,53,19,BESTIA
+86951,2025-04-17,Anubis,3,ODDIK,Legacy,ODDIK,19,51,ODDIK
+86951,2025-04-17,Inferno,4,Legacy,Legacy,ODDIK,19,51,Legacy
+86951,2025-04-17,Nuke,7,decider,Legacy,ODDIK,19,51,Legacy
+86949,2025-04-16,Dust2,3,Legacy,Fluxo,Legacy,46,19,Fluxo
+86949,2025-04-16,Ancient,4,Fluxo,Fluxo,Legacy,46,19,Fluxo
+86939,2025-04-15,Mirage,4,Legacy,Legacy,RED Canids,19,75,Legacy
+98703,2025-09-09,Nuke,3,BetBoom,BetBoom,9z,20,50,BetBoom
+98703,2025-09-09,Train,4,9z,BetBoom,9z,20,50,9z
+98703,2025-09-09,Dust2,7,decider,BetBoom,9z,20,50,9z
+96608,2025-09-01,Ancient,3,PARIVISION,BetBoom,PARIVISION,20,35,BetBoom
+96608,2025-09-01,Train,4,BetBoom,BetBoom,PARIVISION,20,35,PARIVISION
+96608,2025-09-01,Mirage,7,decider,BetBoom,PARIVISION,20,35,PARIVISION
+96783,2025-08-31,Nuke,3,BetBoom,BetBoom,TNL,20,51,BetBoom
+96783,2025-08-31,Mirage,4,TNL,BetBoom,TNL,20,51,BetBoom
+96781,2025-08-31,Mirage,3,FUT,FUT,BetBoom,51,20,BetBoom
+96781,2025-08-31,Overpass,4,BetBoom,FUT,BetBoom,51,20,FUT
+96781,2025-08-31,Dust2,7,decider,FUT,BetBoom,51,20,BetBoom
+96778,2025-08-30,Ancient,3,OG,BetBoom,OG,20,30,OG
+96778,2025-08-30,Train,4,BetBoom,BetBoom,OG,20,30,BetBoom
+96778,2025-08-30,Nuke,7,decider,BetBoom,OG,20,30,BetBoom
+96772,2025-08-28,Nuke,3,BetBoom,BetBoom,Monte,20,44,BetBoom
+96772,2025-08-28,Mirage,4,Monte,BetBoom,Monte,20,44,BetBoom
+95035,2025-08-22,Mirage,3,BC.Game,BC.Game,BetBoom,51,20,BetBoom
+95035,2025-08-22,Nuke,4,BetBoom,BC.Game,BetBoom,51,20,BetBoom
+95034,2025-08-22,Nuke,3,BetBoom,BetBoom,TNL,20,51,TNL
+95034,2025-08-22,Ancient,4,TNL,BetBoom,TNL,20,51,BetBoom
+95034,2025-08-22,Train,7,decider,BetBoom,TNL,20,51,BetBoom
+95031,2025-08-21,Train,3,ECSTATIC,ECSTATIC,BetBoom,31,20,ECSTATIC
+95031,2025-08-21,Nuke,4,BetBoom,ECSTATIC,BetBoom,31,20,BetBoom
+95031,2025-08-21,Overpass,7,decider,ECSTATIC,BetBoom,31,20,BetBoom
+95028,2025-08-20,Ancient,3,Betclic,BetBoom,Betclic,20,51,BetBoom
+95028,2025-08-20,Nuke,4,BetBoom,BetBoom,Betclic,20,51,BetBoom
+96205,2025-08-11,Ancient,3,TPuDCATb TPu,BetBoom,TPuDCATb TPu,20,51,BetBoom
+96205,2025-08-11,Dust2,4,BetBoom,BetBoom,TPuDCATb TPu,20,51,TPuDCATb TPu
+96205,2025-08-11,Nuke,7,decider,BetBoom,TPuDCATb TPu,20,51,BetBoom
+96401,2025-08-10,Mirage,7,decider,FUT,BetBoom,51,20,FUT
+96399,2025-08-10,Overpass,7,decider,BetBoom,Sashi,20,52,BetBoom
+92583,2025-07-17,Mirage,3,BetBoom,BetBoom,BIG,20,45,BIG
+92583,2025-07-17,Dust2,4,BIG,BetBoom,BIG,20,45,BetBoom
+92583,2025-07-17,Nuke,7,decider,BetBoom,BIG,20,45,BetBoom
+92579,2025-07-15,Nuke,3,BetBoom,Complexity,BetBoom,51,20,BetBoom
+92579,2025-07-15,Train,4,Complexity,Complexity,BetBoom,51,20,Complexity
+92579,2025-07-15,Anubis,7,decider,Complexity,BetBoom,51,20,Complexity
+89029,2025-06-08,Train,3,BetBoom,MIBR,BetBoom,28,20,MIBR
+89029,2025-06-08,Anubis,4,MIBR,MIBR,BetBoom,28,20,MIBR
+88558,2025-06-05,Nuke,3,Wildcard,BetBoom,Wildcard,20,61,BetBoom
+88558,2025-06-05,Anubis,4,BetBoom,BetBoom,Wildcard,20,61,BetBoom
+88539,2025-06-03,Mirage,7,decider,BetBoom,FlyQuest,20,51,FlyQuest
+88236,2025-05-15,Nuke,3,ECSTATIC,BetBoom,ECSTATIC,20,31,BetBoom
+88236,2025-05-15,Mirage,4,BetBoom,BetBoom,ECSTATIC,20,31,ECSTATIC
+88236,2025-05-15,Ancient,7,decider,BetBoom,ECSTATIC,20,31,ECSTATIC
+86748,2025-05-10,Nuke,3,ECSTATIC,BetBoom,ECSTATIC,20,31,BetBoom
+86748,2025-05-10,Dust2,4,BetBoom,BetBoom,ECSTATIC,20,31,ECSTATIC
+86748,2025-05-10,Train,7,decider,BetBoom,ECSTATIC,20,31,ECSTATIC
+87955,2025-05-04,Anubis,3,BetBoom,BetBoom,RUBY,20,51,RUBY
+87955,2025-05-04,Dust2,4,RUBY,BetBoom,RUBY,20,51,BetBoom
+87955,2025-05-04,Nuke,7,decider,BetBoom,RUBY,20,51,RUBY
+87511,2025-04-26,Ancient,3,B8,BetBoom,B8,20,23,B8
+87511,2025-04-26,Train,4,BetBoom,BetBoom,B8,20,23,BetBoom
+87511,2025-04-26,Mirage,7,decider,BetBoom,B8,20,23,B8
+87507,2025-04-25,Train,3,BetBoom,BetBoom,Imperial,20,34,BetBoom
+87507,2025-04-25,Dust2,4,Imperial,BetBoom,Imperial,20,34,BetBoom
+87503,2025-04-24,Anubis,3,BetBoom,Wildcard,BetBoom,61,20,BetBoom
+87503,2025-04-24,Dust2,4,Wildcard,Wildcard,BetBoom,61,20,BetBoom
+87094,2025-04-20,Nuke,3,ENCE,BetBoom,ENCE,20,29,BetBoom
+87094,2025-04-20,Mirage,4,BetBoom,BetBoom,ENCE,20,29,ENCE
+87094,2025-04-20,Anubis,7,decider,BetBoom,ENCE,20,29,ENCE
+87074,2025-04-18,Anubis,7,decider,ENCE,BetBoom,29,20,BetBoom
+87069,2025-04-18,Anubis,7,decider,BetBoom,GTZ,20,51,BetBoom
+87071,2025-04-17,Inferno,7,decider,BetBoom,Spirit Academy,20,51,BetBoom
+87067,2025-04-17,Nuke,7,decider,BetBoom,Metizport,20,78,BetBoom
+87063,2025-04-17,Nuke,7,decider,BetBoom,Nexus,20,51,BetBoom
+86904,2025-04-16,Anubis,3,BetBoom,9 Pandas,BetBoom,51,20,BetBoom
+86904,2025-04-16,Dust2,4,9 Pandas,9 Pandas,BetBoom,51,20,9 Pandas
+86904,2025-04-16,Nuke,7,decider,9 Pandas,BetBoom,51,20,BetBoom
+86895,2025-04-15,Mirage,7,decider,BetBoom,fnatic,20,21,BetBoom
+97278,2025-09-01,Ancient,3,M80,fnatic,M80,21,37,M80
+97278,2025-09-01,Train,4,fnatic,fnatic,M80,21,37,M80
+97505,2025-08-31,Mirage,3,Monte,fnatic,Monte,21,44,fnatic
+97505,2025-08-31,Overpass,4,fnatic,fnatic,Monte,21,44,fnatic
+97503,2025-08-30,Overpass,3,fnatic,fnatic,Monte,21,44,Monte
+97503,2025-08-30,Mirage,4,Monte,fnatic,Monte,21,44,fnatic
+97503,2025-08-30,Train,7,decider,fnatic,Monte,21,44,fnatic
+97497,2025-08-30,Mirage,3,EYEBALLERS,EYEBALLERS,fnatic,51,21,EYEBALLERS
+97497,2025-08-30,Train,4,fnatic,EYEBALLERS,fnatic,51,21,fnatic
+97497,2025-08-30,Dust2,7,decider,EYEBALLERS,fnatic,51,21,fnatic
+97272,2025-08-29,Ancient,3,ECSTATIC,ECSTATIC,fnatic,31,21,fnatic
+97272,2025-08-29,Mirage,4,fnatic,ECSTATIC,fnatic,31,21,fnatic
+95029,2025-08-21,Inferno,3,fnatic,fnatic,OG,21,30,OG
+95029,2025-08-21,Ancient,4,OG,fnatic,OG,21,30,OG
+95025,2025-08-20,Inferno,3,Tricked,fnatic,Tricked,21,51,fnatic
+95025,2025-08-20,Dust2,4,fnatic,fnatic,Tricked,21,51,fnatic
+96662,2025-08-17,Inferno,3,Iberian Soul,Iberian Soul,fnatic,51,21,fnatic
+96662,2025-08-17,Mirage,4,fnatic,Iberian Soul,fnatic,51,21,Iberian Soul
+96662,2025-08-17,Overpass,7,decider,Iberian Soul,fnatic,51,21,Iberian Soul
+96643,2025-08-16,Dust2,3,ENCE,ENCE,fnatic,29,21,fnatic
+96643,2025-08-16,Train,4,fnatic,ENCE,fnatic,29,21,ENCE
+96643,2025-08-16,Ancient,7,decider,ENCE,fnatic,29,21,fnatic
+96640,2025-08-13,Ancient,3,PARIVISION,fnatic,PARIVISION,21,35,PARIVISION
+96640,2025-08-13,Train,4,fnatic,fnatic,PARIVISION,21,35,fnatic
+96640,2025-08-13,Mirage,7,decider,fnatic,PARIVISION,21,35,PARIVISION
+96406,2025-08-11,Train,3,ECSTATIC,fnatic,ECSTATIC,21,31,fnatic
+96406,2025-08-11,Dust2,4,fnatic,fnatic,ECSTATIC,21,31,fnatic
+94222,2025-08-10,Mirage,3,fnatic,PARIVISION,fnatic,35,21,PARIVISION
+94222,2025-08-10,Ancient,4,PARIVISION,PARIVISION,fnatic,35,21,PARIVISION
+94219,2025-08-09,Dust2,3,fnatic,fnatic,9INE,21,51,fnatic
+94219,2025-08-09,Overpass,4,9INE,fnatic,9INE,21,51,fnatic
+94217,2025-08-08,Mirage,3,fnatic,fnatic,Sashi,21,52,fnatic
+94217,2025-08-08,Overpass,4,Sashi,fnatic,Sashi,21,52,fnatic
+94383,2025-08-02,Train,3,ECSTATIC,fnatic,ECSTATIC,21,31,fnatic
+94383,2025-08-02,Inferno,4,fnatic,fnatic,ECSTATIC,21,31,ECSTATIC
+94383,2025-08-02,Ancient,7,decider,fnatic,ECSTATIC,21,31,ECSTATIC
+94664,2025-08-01,Mirage,3,SPARTA,fnatic,SPARTA,21,51,fnatic
+94664,2025-08-01,Train,4,fnatic,fnatic,SPARTA,21,51,fnatic
+93255,2025-07-15,Mirage,3,Passion UA,fnatic,Passion UA,21,32,Passion UA
+93255,2025-07-15,Ancient,4,fnatic,fnatic,Passion UA,21,32,Passion UA
+92918,2025-07-14,Anubis,3,ESC,fnatic,ESC,21,51,fnatic
+92918,2025-07-14,Inferno,4,fnatic,fnatic,ESC,21,51,ESC
+92918,2025-07-14,Mirage,7,decider,fnatic,ESC,21,51,fnatic
+91141,2025-06-15,Dust2,3,Passion UA,fnatic,Passion UA,21,32,Passion UA
+91141,2025-06-15,Train,4,fnatic,fnatic,Passion UA,21,32,Passion UA
+88813,2025-06-01,Mirage,3,fnatic,ENCE,fnatic,29,21,ENCE
+88813,2025-06-01,Anubis,4,ENCE,ENCE,fnatic,29,21,fnatic
+88813,2025-06-01,Train,7,decider,ENCE,fnatic,29,21,fnatic
+88812,2025-06-01,Inferno,3,9INE,fnatic,9INE,21,51,fnatic
+88812,2025-06-01,Ancient,4,fnatic,fnatic,9INE,21,51,fnatic
+88809,2025-05-30,Train,3,9INE,9INE,fnatic,51,21,fnatic
+88809,2025-05-30,Dust2,4,fnatic,9INE,fnatic,51,21,9INE
+88809,2025-05-30,Ancient,7,decider,9INE,fnatic,51,21,fnatic
+88505,2025-05-16,Train,3,fnatic,fnatic,Passion UA,21,32,Passion UA
+88505,2025-05-16,Mirage,4,Passion UA,fnatic,Passion UA,21,32,Passion UA
+88240,2025-05-15,Dust2,3,fnatic,fnatic,9INE,21,51,fnatic
+88240,2025-05-15,Train,4,9INE,fnatic,9INE,21,51,9INE
+88240,2025-05-15,Ancient,7,decider,fnatic,9INE,21,51,9INE
+87887,2025-05-08,Inferno,3,ECLOT,fnatic,ECLOT,21,51,fnatic
+87887,2025-05-08,Dust2,4,fnatic,fnatic,ECLOT,21,51,fnatic
+87960,2025-05-05,Train,3,fnatic,fnatic,Passion UA,21,32,fnatic
+87960,2025-05-05,Dust2,4,Passion UA,fnatic,Passion UA,21,32,fnatic
+96471,2025-08-13,Ancient,3,The Glecs,The Glecs,SAW,51,22,The Glecs
+96471,2025-08-13,Inferno,4,SAW,The Glecs,SAW,51,22,The Glecs
+96209,2025-08-12,Overpass,3,Johnny Speeds,Johnny Speeds,SAW,51,22,Johnny Speeds
+96209,2025-08-12,Train,4,SAW,Johnny Speeds,SAW,51,22,Johnny Speeds
+94223,2025-08-10,Inferno,3,SAW,OG,SAW,30,22,OG
+94223,2025-08-10,Ancient,4,OG,OG,SAW,30,22,OG
+94221,2025-08-09,Nuke,3,SAW,TNL,SAW,51,22,SAW
+94221,2025-08-09,Ancient,4,TNL,TNL,SAW,51,22,SAW
+94205,2025-08-05,Dust2,3,Partizan,SAW,Partizan,22,51,SAW
+94205,2025-08-05,Nuke,4,SAW,SAW,Partizan,22,51,SAW
+94199,2025-08-03,Nuke,3,SAW,SAW,CYBERSHOKE,22,51,SAW
+94199,2025-08-03,Dust2,4,CYBERSHOKE,SAW,CYBERSHOKE,22,51,CYBERSHOKE
+94199,2025-08-03,Ancient,7,decider,SAW,CYBERSHOKE,22,51,CYBERSHOKE
+94190,2025-08-01,Nuke,3,SAW,SAW,Zero Tenacity,22,59,SAW
+94190,2025-08-01,Inferno,4,Zero Tenacity,SAW,Zero Tenacity,22,59,SAW
+94443,2025-07-27,Train,3,Iberian Soul,SAW,Iberian Soul,22,51,SAW
+94443,2025-07-27,Nuke,4,SAW,SAW,Iberian Soul,22,51,Iberian Soul
+94443,2025-07-27,Inferno,7,decider,SAW,Iberian Soul,22,51,Iberian Soul
+94442,2025-07-27,Nuke,3,SAW,SAW,DESEMPREGO,22,51,SAW
+94442,2025-07-27,Ancient,4,DESEMPREGO,SAW,DESEMPREGO,22,51,SAW
+94438,2025-07-27,Train,3,SAW,SAW,Impulse GW,22,51,SAW
+94438,2025-07-27,Ancient,4,Impulse GW,SAW,Impulse GW,22,51,SAW
+92585,2025-07-18,Anubis,3,Complexity,Complexity,SAW,51,22,SAW
+92585,2025-07-18,Inferno,4,SAW,Complexity,SAW,51,22,Complexity
+92585,2025-07-18,Nuke,7,decider,Complexity,SAW,51,22,SAW
+88233,2025-05-16,Inferno,3,FAVBET,SAW,FAVBET,22,51,SAW
+88233,2025-05-16,Train,4,SAW,SAW,FAVBET,22,51,FAVBET
+88233,2025-05-16,Dust2,7,decider,SAW,FAVBET,22,51,SAW
+87389,2025-05-01,Ancient,3,Chinggis Warriors,SAW,Chinggis Warriors,22,51,SAW
+87389,2025-05-01,Nuke,4,SAW,SAW,Chinggis Warriors,22,51,SAW
+87389,2025-05-01,Inferno,7,decider,SAW,Chinggis Warriors,22,51,Chinggis Warriors
+87284,2025-04-22,Anubis,3,MIBR,SAW,MIBR,22,28,MIBR
+87284,2025-04-22,Nuke,4,SAW,SAW,MIBR,22,28,SAW
+87284,2025-04-22,Inferno,7,decider,SAW,MIBR,22,28,MIBR
+86881,2025-04-14,Train,7,decider,SAW,BetBoom,22,20,BetBoom
+97741,2025-08-30,Inferno,3,Kaleido,B8,Kaleido,23,51,B8
+97741,2025-08-30,Mirage,4,B8,B8,Kaleido,23,51,B8
+94805,2025-08-05,Dust2,3,FUT,FUT,B8,51,23,B8
+94805,2025-08-05,Mirage,4,B8,FUT,B8,51,23,B8
+93940,2025-07-24,Dust2,3,FlyQuest,B8,FlyQuest,23,51,FlyQuest
+93940,2025-07-24,Mirage,4,B8,B8,FlyQuest,23,51,B8
+93940,2025-07-24,Inferno,7,decider,B8,FlyQuest,23,51,FlyQuest
+88549,2025-06-04,Train,3,Wildcard,B8,Wildcard,23,61,Wildcard
+88549,2025-06-04,Dust2,4,B8,B8,Wildcard,23,61,B8
+88549,2025-06-04,Inferno,7,decider,B8,Wildcard,23,61,B8
+88537,2025-06-03,Inferno,7,decider,B8,OG,23,30,B8
+88488,2025-06-03,Inferno,7,decider,B8,Imperial,23,34,B8
+87763,2025-05-11,Dust2,3,PARIVISION,B8,PARIVISION,23,35,PARIVISION
+87763,2025-05-11,Mirage,4,B8,B8,PARIVISION,23,35,PARIVISION
+87763,2025-05-11,Ancient,5,PARIVISION,B8,PARIVISION,23,35,B8
+87763,2025-05-11,Inferno,6,B8,B8,PARIVISION,23,35,B8
+87755,2025-05-07,Mirage,3,B8,Betera,B8,51,23,B8
+87755,2025-05-07,Train,4,Betera,Betera,B8,51,23,Betera
+87755,2025-05-07,Dust2,7,decider,Betera,B8,51,23,B8
+87396,2025-05-04,Inferno,3,Chinggis Warriors,B8,Chinggis Warriors,23,51,B8
+87396,2025-05-04,Dust2,4,B8,B8,Chinggis Warriors,23,51,B8
+87394,2025-05-03,Dust2,3,B8,B8,BIG,23,45,BIG
+87394,2025-05-03,Inferno,4,BIG,B8,BIG,23,45,B8
+87394,2025-05-03,Mirage,7,decider,B8,BIG,23,45,BIG
+87393,2025-05-02,Inferno,3,JiJieHao,JiJieHao,B8,51,23,B8
+87393,2025-05-02,Ancient,4,B8,JiJieHao,B8,51,23,B8
+87391,2025-05-01,Mirage,3,B8,B8,BIG,23,45,BIG
+87391,2025-05-01,Inferno,4,BIG,B8,BIG,23,45,BIG
+87501,2025-04-24,Mirage,3,B8,B8,Partizan,23,51,B8
+87501,2025-04-24,Inferno,4,Partizan,B8,Partizan,23,51,Partizan
+87501,2025-04-24,Dust2,7,decider,B8,Partizan,23,51,B8
+86910,2025-04-17,Mirage,3,B8,ENCE,B8,29,23,B8
+86910,2025-04-17,Anubis,4,ENCE,ENCE,B8,29,23,ENCE
+86910,2025-04-17,Ancient,7,decider,ENCE,B8,29,23,B8
+86907,2025-04-16,Dust2,3,9 Pandas,9 Pandas,B8,51,23,B8
+86907,2025-04-16,Mirage,4,B8,9 Pandas,B8,51,23,B8
+86893,2025-04-15,Dust2,3,PARIVISION,B8,PARIVISION,23,35,PARIVISION
+86893,2025-04-15,Mirage,4,B8,B8,PARIVISION,23,35,B8
+86893,2025-04-15,Ancient,7,decider,B8,PARIVISION,23,35,B8
+86878,2025-04-14,Inferno,7,decider,B8,Metizport,23,78,Metizport
+84325,2025-03-25,Dust2,3,Nemiga,B8,Nemiga,23,41,Nemiga
+84325,2025-03-25,Mirage,4,B8,B8,Nemiga,23,41,B8
+84325,2025-03-25,Inferno,7,decider,B8,Nemiga,23,41,B8
+98706,2025-09-10,Dust2,3,Venom,Ninjas in Pyjamas,Venom,24,51,Venom
+98706,2025-09-10,Nuke,4,Ninjas in Pyjamas,Ninjas in Pyjamas,Venom,24,51,Venom
+98811,2025-09-07,Nuke,3,Ninjas in Pyjamas,Ninjas in Pyjamas,NRG,24,51,Ninjas in Pyjamas
+98811,2025-09-07,Mirage,4,NRG,Ninjas in Pyjamas,NRG,24,51,NRG
+98811,2025-09-07,Train,5,Ninjas in Pyjamas,Ninjas in Pyjamas,NRG,24,51,NRG
+98811,2025-09-07,Dust2,6,NRG,Ninjas in Pyjamas,NRG,24,51,NRG
+98809,2025-09-07,Overpass,3,Wildcard,Ninjas in Pyjamas,Wildcard,24,61,Ninjas in Pyjamas
+98809,2025-09-07,Nuke,4,Ninjas in Pyjamas,Ninjas in Pyjamas,Wildcard,24,61,Ninjas in Pyjamas
+98805,2025-09-06,Train,3,Marsborne,Ninjas in Pyjamas,Marsborne,24,51,Ninjas in Pyjamas
+98805,2025-09-06,Nuke,4,Ninjas in Pyjamas,Ninjas in Pyjamas,Marsborne,24,51,Ninjas in Pyjamas
+97498,2025-08-30,Mirage,3,ENCE,Ninjas in Pyjamas,ENCE,24,29,ENCE
+97498,2025-08-30,Nuke,4,Ninjas in Pyjamas,Ninjas in Pyjamas,ENCE,24,29,Ninjas in Pyjamas
+97498,2025-08-30,Overpass,7,decider,Ninjas in Pyjamas,ENCE,24,29,ENCE
+96645,2025-08-13,Mirage,3,Ninjas in Pyjamas,Ninjas in Pyjamas,9INE,24,51,Ninjas in Pyjamas
+96645,2025-08-13,Ancient,4,9INE,Ninjas in Pyjamas,9INE,24,51,9INE
+96645,2025-08-13,Overpass,7,decider,Ninjas in Pyjamas,9INE,24,51,9INE
+96405,2025-08-11,Nuke,3,Ninjas in Pyjamas,Ninjas in Pyjamas,FUT,24,51,Ninjas in Pyjamas
+96405,2025-08-11,Ancient,4,FUT,Ninjas in Pyjamas,FUT,24,51,FUT
+96405,2025-08-11,Dust2,7,decider,Ninjas in Pyjamas,FUT,24,51,FUT
+90556,2025-06-22,Nuke,3,Ninjas in Pyjamas,Ninjas in Pyjamas,NAVI Junior,24,51,Ninjas in Pyjamas
+90556,2025-06-22,Ancient,4,NAVI Junior,Ninjas in Pyjamas,NAVI Junior,24,51,NAVI Junior
+90556,2025-06-22,Anubis,7,decider,Ninjas in Pyjamas,NAVI Junior,24,51,NAVI Junior
+90554,2025-06-22,Nuke,3,Ninjas in Pyjamas,BIG,Ninjas in Pyjamas,45,24,Ninjas in Pyjamas
+90554,2025-06-22,Inferno,4,BIG,BIG,Ninjas in Pyjamas,45,24,Ninjas in Pyjamas
+90551,2025-06-21,Nuke,3,Ninjas in Pyjamas,TNL,Ninjas in Pyjamas,51,24,Ninjas in Pyjamas
+90551,2025-06-21,Dust2,4,TNL,TNL,Ninjas in Pyjamas,51,24,Ninjas in Pyjamas
+90544,2025-06-19,Nuke,3,Ninjas in Pyjamas,Ninjas in Pyjamas,CYBERSHOKE,24,51,Ninjas in Pyjamas
+90544,2025-06-19,Ancient,4,CYBERSHOKE,Ninjas in Pyjamas,CYBERSHOKE,24,51,Ninjas in Pyjamas
+91136,2025-06-15,Inferno,3,ECSTATIC,Ninjas in Pyjamas,ECSTATIC,24,31,ECSTATIC
+91136,2025-06-15,Nuke,4,Ninjas in Pyjamas,Ninjas in Pyjamas,ECSTATIC,24,31,Ninjas in Pyjamas
+91136,2025-06-15,Ancient,7,decider,Ninjas in Pyjamas,ECSTATIC,24,31,ECSTATIC
+91127,2025-06-14,Ancient,3,Metizport,Ninjas in Pyjamas,Metizport,24,78,Ninjas in Pyjamas
+91127,2025-06-14,Nuke,4,Ninjas in Pyjamas,Ninjas in Pyjamas,Metizport,24,78,Metizport
+91127,2025-06-14,Dust2,7,decider,Ninjas in Pyjamas,Metizport,24,78,Ninjas in Pyjamas
+89235,2025-05-31,Nuke,3,Ninjas in Pyjamas,NAVI Junior,Ninjas in Pyjamas,51,24,Ninjas in Pyjamas
+89235,2025-05-31,Ancient,4,NAVI Junior,NAVI Junior,Ninjas in Pyjamas,51,24,NAVI Junior
+89235,2025-05-31,Dust2,7,decider,NAVI Junior,Ninjas in Pyjamas,51,24,NAVI Junior
+89233,2025-05-30,Ancient,3,GUN5,GUN5,Ninjas in Pyjamas,88,24,Ninjas in Pyjamas
+89233,2025-05-30,Train,4,Ninjas in Pyjamas,GUN5,Ninjas in Pyjamas,88,24,Ninjas in Pyjamas
+89220,2025-05-27,Anubis,3,Nexus,Nexus,Ninjas in Pyjamas,51,24,Ninjas in Pyjamas
+89220,2025-05-27,Nuke,4,Ninjas in Pyjamas,Nexus,Ninjas in Pyjamas,51,24,Nexus
+89220,2025-05-27,Ancient,7,decider,Nexus,Ninjas in Pyjamas,51,24,Ninjas in Pyjamas
+89200,2025-05-21,Dust2,3,ECLOT,ECLOT,Ninjas in Pyjamas,51,24,Ninjas in Pyjamas
+89200,2025-05-21,Train,4,Ninjas in Pyjamas,ECLOT,Ninjas in Pyjamas,51,24,Ninjas in Pyjamas
+88363,2025-05-13,Ancient,3,HOTU,Ninjas in Pyjamas,HOTU,24,51,Ninjas in Pyjamas
+88363,2025-05-13,Nuke,4,Ninjas in Pyjamas,Ninjas in Pyjamas,HOTU,24,51,Ninjas in Pyjamas
+87971,2025-04-28,Anubis,3,Sharks,Ninjas in Pyjamas,Sharks,24,63,Ninjas in Pyjamas
+87971,2025-04-28,Nuke,4,Ninjas in Pyjamas,Ninjas in Pyjamas,Sharks,24,63,Ninjas in Pyjamas
+87971,2025-04-28,Ancient,5,Sharks,Ninjas in Pyjamas,Sharks,24,63,Ninjas in Pyjamas
+87969,2025-04-27,Nuke,3,Ninjas in Pyjamas,NRG,Ninjas in Pyjamas,51,24,Ninjas in Pyjamas
+87969,2025-04-27,Dust2,4,NRG,NRG,Ninjas in Pyjamas,51,24,NRG
+87969,2025-04-27,Train,7,decider,NRG,Ninjas in Pyjamas,51,24,Ninjas in Pyjamas
+97259,2025-08-30,Dust2,3,Imperial,Imperial,Liquid,34,27,Liquid
+97259,2025-08-30,Train,4,Liquid,Imperial,Liquid,34,27,Imperial
+97259,2025-08-30,Nuke,7,decider,Imperial,Liquid,34,27,Liquid
+94806,2025-08-05,Train,3,ECSTATIC,ECSTATIC,Liquid,31,27,Liquid
+94806,2025-08-05,Ancient,4,Liquid,ECSTATIC,Liquid,31,27,Liquid
+94378,2025-08-01,Dust2,3,VP.Prodigy,Liquid,VP.Prodigy,27,51,VP.Prodigy
+94378,2025-08-01,Mirage,4,Liquid,Liquid,VP.Prodigy,27,51,Liquid
+94378,2025-08-01,Nuke,7,decider,Liquid,VP.Prodigy,27,51,VP.Prodigy
+92915,2025-07-14,Nuke,3,Sashi,Liquid,Sashi,27,52,Sashi
+92915,2025-07-14,Mirage,4,Liquid,Liquid,Sashi,27,52,Liquid
+92915,2025-07-14,Inferno,7,decider,Liquid,Sashi,27,52,Sashi
+87289,2025-04-23,Anubis,3,MIBR,Liquid,MIBR,27,28,Liquid
+87289,2025-04-23,Ancient,4,Liquid,Liquid,MIBR,27,28,Liquid
+85824,2025-04-06,Nuke,3,Legacy,Liquid,Legacy,27,19,Legacy
+85824,2025-04-06,Anubis,4,Liquid,Liquid,Legacy,27,19,Legacy
+89020,2025-06-07,Ancient,7,decider,MIBR,Nemiga,28,41,Nemiga
+98644,2025-09-08,Train,3,FAVBET,ENCE,FAVBET,29,51,FAVBET
+98644,2025-09-08,Dust2,4,ENCE,ENCE,FAVBET,29,51,ENCE
+98644,2025-09-08,Overpass,7,decider,ENCE,FAVBET,29,51,ENCE
+97504,2025-08-31,Mirage,3,ENCE,Monte,ENCE,44,29,Monte
+97504,2025-08-31,Nuke,4,Monte,Monte,ENCE,44,29,Monte
+96602,2025-08-27,Overpass,3,Johnny Speeds,Johnny Speeds,ENCE,51,29,ENCE
+96602,2025-08-27,Dust2,4,ENCE,Johnny Speeds,ENCE,51,29,Johnny Speeds
+96602,2025-08-27,Mirage,7,decider,Johnny Speeds,ENCE,51,29,ENCE
+95026,2025-08-20,Mirage,3,BC.Game,ENCE,BC.Game,29,51,BC.Game
+95026,2025-08-20,Dust2,4,ENCE,ENCE,BC.Game,29,51,BC.Game
+96589,2025-08-16,Ancient,3,PARIVISION,PARIVISION,ENCE,35,29,ENCE
+96589,2025-08-16,Dust2,4,ENCE,PARIVISION,ENCE,35,29,PARIVISION
+96589,2025-08-16,Mirage,7,decider,PARIVISION,ENCE,35,29,PARIVISION
+94903,2025-08-14,Nuke,3,SINNERS,ENCE,SINNERS,29,74,SINNERS
+94903,2025-08-14,Dust2,4,ENCE,ENCE,SINNERS,29,74,ENCE
+94903,2025-08-14,Mirage,7,decider,ENCE,SINNERS,29,74,ENCE
+94901,2025-08-14,Ancient,3,ENCE,ENCE,Betclic,29,51,ENCE
+94901,2025-08-14,Mirage,4,Betclic,ENCE,Betclic,29,51,ENCE
+96641,2025-08-13,Dust2,3,PARIVISION,ENCE,PARIVISION,29,35,ENCE
+96641,2025-08-13,Mirage,4,ENCE,ENCE,PARIVISION,29,35,PARIVISION
+96641,2025-08-13,Ancient,7,decider,ENCE,PARIVISION,29,35,PARIVISION
+94897,2025-08-13,Mirage,3,ENCE,ENCE,Partizan,29,51,ENCE
+94897,2025-08-13,Dust2,4,Partizan,ENCE,Partizan,29,51,ENCE
+96214,2025-08-12,Ancient,3,QMISTRY,QMISTRY,ENCE,51,29,QMISTRY
+96214,2025-08-12,Dust2,4,ENCE,QMISTRY,ENCE,51,29,ENCE
+96214,2025-08-12,Nuke,7,decider,QMISTRY,ENCE,51,29,ENCE
+94890,2025-08-11,Ancient,3,ENCE,ENCE,SPARTA,29,51,ENCE
+94890,2025-08-11,Mirage,4,SPARTA,ENCE,SPARTA,29,51,ENCE
+94211,2025-08-07,Nuke,3,Monte,ENCE,Monte,29,44,ENCE
+94211,2025-08-07,Dust2,4,ENCE,ENCE,Monte,29,44,ENCE
+92919,2025-07-14,Mirage,3,PARIVISION,PARIVISION,ENCE,35,29,PARIVISION
+92919,2025-07-14,Anubis,4,ENCE,PARIVISION,ENCE,35,29,ENCE
+92919,2025-07-14,Ancient,7,decider,PARIVISION,ENCE,35,29,PARIVISION
+92544,2025-07-10,Anubis,3,ROSY,ENCE,ROSY,29,51,ENCE
+92544,2025-07-10,Ancient,4,ENCE,ENCE,ROSY,29,51,ROSY
+92544,2025-07-10,Dust2,7,decider,ENCE,ROSY,29,51,ROSY
+89874,2025-06-04,Train,3,ENCE,ENCE,M1,29,51,M1
+89874,2025-06-04,Nuke,4,M1,ENCE,M1,29,51,ENCE
+89874,2025-06-04,Anubis,5,ENCE,ENCE,M1,29,51,ENCE
+89874,2025-06-04,Mirage,6,M1,ENCE,M1,29,51,ENCE
+89871,2025-06-03,Ancient,3,ENCE,Iberian Soul,ENCE,51,29,ENCE
+89871,2025-06-03,Nuke,4,Iberian Soul,Iberian Soul,ENCE,51,29,ENCE
+88808,2025-05-30,Mirage,3,500,ENCE,500,29,51,ENCE
+88808,2025-05-30,Dust2,4,ENCE,ENCE,500,29,51,500
+88808,2025-05-30,Ancient,7,decider,ENCE,500,29,51,ENCE
+89510,2025-05-29,Dust2,3,PARIVISION,ENCE,PARIVISION,29,35,PARIVISION
+89510,2025-05-29,Train,4,ENCE,ENCE,PARIVISION,29,35,PARIVISION
+89510,2025-05-29,Ancient,7,decider,ENCE,PARIVISION,29,35,PARIVISION
+89868,2025-05-26,Ancient,3,ENCE,Sashi,ENCE,52,29,ENCE
+89868,2025-05-26,Nuke,4,Sashi,Sashi,ENCE,52,29,Sashi
+89868,2025-05-26,Train,7,decider,Sashi,ENCE,52,29,ENCE
+89630,2025-05-19,Ancient,3,ENCE,Nexus,ENCE,51,29,Nexus
+89630,2025-05-19,Dust2,4,Nexus,Nexus,ENCE,51,29,ENCE
+89630,2025-05-19,Anubis,7,decider,Nexus,ENCE,51,29,ENCE
+88247,2025-05-18,Train,3,ENCE,ENCE,PARIVISION,29,35,ENCE
+88247,2025-05-18,Dust2,4,PARIVISION,ENCE,PARIVISION,29,35,PARIVISION
+88247,2025-05-18,Ancient,7,decider,ENCE,PARIVISION,29,35,ENCE
+98855,2025-09-11,Mirage,3,BC.Game,OG,BC.Game,30,51,BC.Game
+98855,2025-09-11,Ancient,4,OG,OG,BC.Game,30,51,BC.Game
+98711,2025-09-11,Nuke,3,OG,BIG,OG,45,30,OG
+98711,2025-09-11,Train,4,BIG,BIG,OG,45,30,BIG
+98711,2025-09-11,Inferno,7,decider,BIG,OG,45,30,OG
+98705,2025-09-10,Ancient,3,OG,OG,M80,30,37,OG
+98705,2025-09-10,Overpass,4,M80,OG,M80,30,37,OG
+96774,2025-08-29,Nuke,3,OG,OG,Metizport,30,78,OG
+96774,2025-08-29,Overpass,4,Metizport,OG,Metizport,30,78,OG
+95023,2025-08-19,Nuke,3,OG,OG,Partizan,30,51,OG
+95023,2025-08-19,Inferno,4,Partizan,OG,Partizan,30,51,OG
+96661,2025-08-17,Mirage,3,FUT,OG,FUT,30,51,OG
+96661,2025-08-17,Nuke,4,OG,OG,FUT,30,51,OG
+96654,2025-08-14,Mirage,3,TNL,TNL,OG,51,30,OG
+96654,2025-08-14,Nuke,4,OG,TNL,OG,51,30,OG
+96216,2025-08-12,Mirage,3,RUBY,RUBY,OG,51,30,RUBY
+96216,2025-08-12,Nuke,4,OG,RUBY,OG,51,30,OG
+96216,2025-08-12,Ancient,7,decider,RUBY,OG,51,30,OG
+94215,2025-08-08,Train,3,OG,OG,Tricked,30,51,OG
+94215,2025-08-08,Overpass,4,Tricked,OG,Tricked,30,51,OG
+94663,2025-08-01,Train,3,OG,ex-NAVI Junior,OG,51,30,ex-NAVI Junior
+94663,2025-08-01,Mirage,4,ex-NAVI Junior,ex-NAVI Junior,OG,51,30,ex-NAVI Junior
+93256,2025-07-15,Ancient,3,OG,OG,ex-NAVI Junior,30,51,ex-NAVI Junior
+93256,2025-07-15,Mirage,4,ex-NAVI Junior,OG,ex-NAVI Junior,30,51,ex-NAVI Junior
+92914,2025-07-14,Inferno,3,Iberian Soul,Iberian Soul,OG,51,30,Iberian Soul
+92914,2025-07-14,Ancient,4,OG,Iberian Soul,OG,51,30,OG
+92914,2025-07-14,Nuke,7,decider,Iberian Soul,OG,51,30,OG
+88490,2025-06-03,Ancient,7,decider,Complexity,OG,51,30,OG
+88246,2025-05-18,Train,3,PARIVISION,PARIVISION,OG,35,30,PARIVISION
+88246,2025-05-18,Inferno,4,OG,PARIVISION,OG,35,30,PARIVISION
+88244,2025-05-17,Anubis,3,OG,OG,9INE,30,51,OG
+88244,2025-05-17,Dust2,4,9INE,OG,9INE,30,51,OG
+88239,2025-05-15,Nuke,3,OG,OG,Astrum,30,51,OG
+88239,2025-05-15,Mirage,4,Astrum,OG,Astrum,30,51,Astrum
+88239,2025-05-15,Inferno,7,decider,OG,Astrum,30,51,OG
+87964,2025-05-06,Mirage,3,Astrum,Astrum,OG,51,30,Astrum
+87964,2025-05-06,Ancient,4,OG,Astrum,OG,51,30,Astrum
+87961,2025-05-05,Mirage,3,OG,OG,Zero Tenacity,30,59,OG
+87961,2025-05-05,Anubis,4,Zero Tenacity,OG,Zero Tenacity,30,59,OG
+86631,2025-04-26,Inferno,3,ECLOT,ECLOT,OG,51,30,OG
+86631,2025-04-26,Ancient,4,OG,ECLOT,OG,51,30,ECLOT
+86631,2025-04-26,Mirage,7,decider,ECLOT,OG,51,30,OG
+86899,2025-04-15,Mirage,3,Metizport,OG,Metizport,30,78,OG
+86899,2025-04-15,Ancient,4,OG,OG,Metizport,30,78,Metizport
+86899,2025-04-15,Inferno,7,decider,OG,Metizport,30,78,OG
+86889,2025-04-14,Nuke,7,decider,OG,9 Pandas,30,51,OG
+98700,2025-09-09,Dust2,3,PARIVISION,ECSTATIC,PARIVISION,31,35,PARIVISION
+98700,2025-09-09,Train,4,ECSTATIC,ECSTATIC,PARIVISION,31,35,ECSTATIC
+98700,2025-09-09,Ancient,7,decider,ECSTATIC,PARIVISION,31,35,PARIVISION
+95022,2025-08-19,Dust2,3,HOTU,ECSTATIC,HOTU,31,51,ECSTATIC
+95022,2025-08-19,Train,4,ECSTATIC,ECSTATIC,HOTU,31,51,ECSTATIC
+96658,2025-08-16,Mirage,3,JiJieHao,JiJieHao,ECSTATIC,51,31,ECSTATIC
+96658,2025-08-16,Inferno,4,ECSTATIC,JiJieHao,ECSTATIC,51,31,ECSTATIC
+96655,2025-08-14,Dust2,3,JiJieHao,ECSTATIC,JiJieHao,31,51,JiJieHao
+96655,2025-08-14,Nuke,4,ECSTATIC,ECSTATIC,JiJieHao,31,51,JiJieHao
+96400,2025-08-10,Train,7,decider,ECSTATIC,Sangal,31,76,ECSTATIC
+94384,2025-08-03,Nuke,3,VP.Prodigy,VP.Prodigy,ECSTATIC,51,31,VP.Prodigy
+94384,2025-08-03,Ancient,4,ECSTATIC,VP.Prodigy,ECSTATIC,51,31,ECSTATIC
+94384,2025-08-03,Train,7,decider,VP.Prodigy,ECSTATIC,51,31,ECSTATIC
+94665,2025-08-01,Nuke,3,Zero Tenacity,ECSTATIC,Zero Tenacity,31,59,ECSTATIC
+94665,2025-08-01,Train,4,ECSTATIC,ECSTATIC,Zero Tenacity,31,59,Zero Tenacity
+94665,2025-08-01,Inferno,7,decider,ECSTATIC,Zero Tenacity,31,59,ECSTATIC
+91134,2025-06-14,Anubis,3,TNL,ECSTATIC,TNL,31,51,TNL
+91134,2025-06-14,Train,4,ECSTATIC,ECSTATIC,TNL,31,51,ECSTATIC
+91134,2025-06-14,Ancient,7,decider,ECSTATIC,TNL,31,51,ECSTATIC
+88981,2025-05-24,Inferno,3,Alliance,ECSTATIC,Alliance,31,51,Alliance
+88981,2025-05-24,Nuke,4,ECSTATIC,ECSTATIC,Alliance,31,51,ECSTATIC
+88981,2025-05-24,Train,7,decider,ECSTATIC,Alliance,31,51,ECSTATIC
+88978,2025-05-23,Inferno,3,Alliance,ECSTATIC,Alliance,31,51,ECSTATIC
+88978,2025-05-23,Nuke,4,ECSTATIC,ECSTATIC,Alliance,31,51,ECSTATIC
+88972,2025-05-20,Dust2,3,Johnny Speeds,ECSTATIC,Johnny Speeds,31,51,ECSTATIC
+88972,2025-05-20,Nuke,4,ECSTATIC,ECSTATIC,Johnny Speeds,31,51,Johnny Speeds
+88972,2025-05-20,Inferno,7,decider,ECSTATIC,Johnny Speeds,31,51,ECSTATIC
+88968,2025-05-20,Inferno,7,decider,ECSTATIC,Nordix,31,51,ECSTATIC
+88242,2025-05-17,Anubis,3,Nemiga,Nemiga,ECSTATIC,41,31,Nemiga
+88242,2025-05-17,Inferno,4,ECSTATIC,Nemiga,ECSTATIC,41,31,Nemiga
+88228,2025-05-13,Anubis,3,Astrum,Astrum,ECSTATIC,51,31,Astrum
+88228,2025-05-13,Inferno,4,ECSTATIC,Astrum,ECSTATIC,51,31,ECSTATIC
+88228,2025-05-13,Nuke,7,decider,Astrum,ECSTATIC,51,31,ECSTATIC
+86750,2025-05-11,Dust2,3,ENCE,ECSTATIC,ENCE,31,29,ECSTATIC
+86750,2025-05-11,Train,4,ECSTATIC,ECSTATIC,ENCE,31,29,ENCE
+86750,2025-05-11,Nuke,7,decider,ECSTATIC,ENCE,31,29,ECSTATIC
+88214,2025-05-09,Dust2,3,Monte,ECSTATIC,Monte,31,44,Monte
+88214,2025-05-09,Train,4,ECSTATIC,ECSTATIC,Monte,31,44,ECSTATIC
+88214,2025-05-09,Nuke,7,decider,ECSTATIC,Monte,31,44,ECSTATIC
+88207,2025-05-07,Mirage,3,Fire Flux,ECSTATIC,Fire Flux,31,51,ECSTATIC
+88207,2025-05-07,Train,4,ECSTATIC,ECSTATIC,Fire Flux,31,51,Fire Flux
+88207,2025-05-07,Ancient,7,decider,ECSTATIC,Fire Flux,31,51,ECSTATIC
+87968,2025-05-07,Inferno,3,ECSTATIC,ECSTATIC,NAVI Junior,31,51,ECSTATIC
+87968,2025-05-07,Ancient,4,NAVI Junior,ECSTATIC,NAVI Junior,31,51,NAVI Junior
+87968,2025-05-07,Dust2,7,decider,ECSTATIC,NAVI Junior,31,51,NAVI Junior
+87966,2025-05-07,Mirage,3,ENCE,ECSTATIC,ENCE,31,29,ECSTATIC
+87966,2025-05-07,Train,4,ECSTATIC,ECSTATIC,ENCE,31,29,ECSTATIC
+87962,2025-05-06,Inferno,3,500,ECSTATIC,500,31,51,500
+87962,2025-05-06,Nuke,4,ECSTATIC,ECSTATIC,500,31,51,ECSTATIC
+87962,2025-05-06,Dust2,7,decider,ECSTATIC,500,31,51,ECSTATIC
+86745,2025-05-04,Nuke,3,ECSTATIC,ECSTATIC,Partizan,31,51,ECSTATIC
+86745,2025-05-04,Dust2,4,Partizan,ECSTATIC,Partizan,31,51,ECSTATIC
+87954,2025-05-04,Train,3,ECSTATIC,9INE,ECSTATIC,51,31,ECSTATIC
+87954,2025-05-04,Inferno,4,9INE,9INE,ECSTATIC,51,31,ECSTATIC
+87585,2025-04-30,Nuke,3,ECSTATIC,TNL,ECSTATIC,51,31,TNL
+87585,2025-04-30,Dust2,4,TNL,TNL,ECSTATIC,51,31,TNL
+87723,2025-04-29,Inferno,3,ECLOT,ECSTATIC,ECLOT,31,51,ECSTATIC
+87723,2025-04-29,Nuke,4,ECSTATIC,ECSTATIC,ECLOT,31,51,ECSTATIC
+87721,2025-04-29,Nuke,3,RUSH B,ECSTATIC,RUSH B,31,51,ECSTATIC
+87721,2025-04-29,Train,4,ECSTATIC,ECSTATIC,RUSH B,31,51,ECSTATIC
+87582,2025-04-28,Dust2,3,GUN5,ECSTATIC,GUN5,31,88,ECSTATIC
+87582,2025-04-28,Inferno,4,ECSTATIC,ECSTATIC,GUN5,31,88,GUN5
+87582,2025-04-28,Nuke,7,decider,ECSTATIC,GUN5,31,88,ECSTATIC
+87314,2025-04-20,Dust2,3,Sangal,ECSTATIC,Sangal,31,76,Sangal
+87314,2025-04-20,Train,4,ECSTATIC,ECSTATIC,Sangal,31,76,ECSTATIC
+87314,2025-04-20,Nuke,7,decider,ECSTATIC,Sangal,31,76,ECSTATIC
+86701,2025-04-14,Dust2,3,Monte,Monte,ECSTATIC,44,31,ECSTATIC
+86701,2025-04-14,Train,4,ECSTATIC,Monte,ECSTATIC,44,31,ECSTATIC
+86691,2025-04-11,Train,3,ECSTATIC,ECSTATIC,Sashi,31,52,ECSTATIC
+86691,2025-04-11,Anubis,4,Sashi,ECSTATIC,Sashi,31,52,ECSTATIC
+84231,2025-03-30,Train,3,ECSTATIC,Sashi,ECSTATIC,52,31,ECSTATIC
+84231,2025-03-30,Nuke,4,Sashi,Sashi,ECSTATIC,52,31,ECSTATIC
+84607,2025-03-30,Anubis,3,Metizport,Metizport,ECSTATIC,78,31,Metizport
+84607,2025-03-30,Nuke,4,ECSTATIC,Metizport,ECSTATIC,78,31,Metizport
+97499,2025-08-30,Ancient,3,9INE,9INE,Passion UA,51,32,9INE
+97499,2025-08-30,Overpass,4,Passion UA,9INE,Passion UA,51,32,9INE
+94899,2025-08-13,Dust2,3,Passion UA,500,Passion UA,51,32,Passion UA
+94899,2025-08-13,Overpass,4,500,500,Passion UA,51,32,500
+94899,2025-08-13,Ancient,7,decider,500,Passion UA,51,32,500
+96644,2025-08-13,Mirage,3,Passion UA,BIG,Passion UA,45,32,BIG
+96644,2025-08-13,Train,4,BIG,BIG,Passion UA,45,32,BIG
+94893,2025-08-12,Dust2,3,Passion UA,Passion UA,CPH Wolves,32,51,Passion UA
+94893,2025-08-12,Ancient,4,CPH Wolves,Passion UA,CPH Wolves,32,51,CPH Wolves
+94893,2025-08-12,Mirage,7,decider,Passion UA,CPH Wolves,32,51,Passion UA
+96201,2025-08-11,Ancient,3,Betera,Betera,Passion UA,51,32,Passion UA
+96201,2025-08-11,Mirage,4,Passion UA,Betera,Passion UA,51,32,Betera
+96201,2025-08-11,Dust2,7,decider,Betera,Passion UA,51,32,Betera
+96402,2025-08-10,Dust2,7,decider,Nemiga,Passion UA,41,32,Passion UA
+96398,2025-08-10,Mirage,7,decider,Passion UA,1win,32,51,Passion UA
+94202,2025-08-04,Train,3,Monte,Passion UA,Monte,32,44,Monte
+94202,2025-08-04,Mirage,4,Passion UA,Passion UA,Monte,32,44,Passion UA
+94202,2025-08-04,Ancient,7,decider,Passion UA,Monte,32,44,Monte
+94195,2025-08-02,Mirage,3,Passion UA,Passion UA,Partizan,32,51,Partizan
+94195,2025-08-02,Inferno,4,Partizan,Passion UA,Partizan,32,51,Partizan
+93055,2025-07-20,Dust2,3,RUBY,Passion UA,RUBY,32,51,RUBY
+93055,2025-07-20,Mirage,4,Passion UA,Passion UA,RUBY,32,51,Passion UA
+93055,2025-07-20,Ancient,7,decider,Passion UA,RUBY,32,51,RUBY
+92922,2025-07-15,Mirage,3,Passion UA,Passion UA,TNL,32,51,TNL
+92922,2025-07-15,Train,4,TNL,Passion UA,TNL,32,51,Passion UA
+92922,2025-07-15,Dust2,7,decider,Passion UA,TNL,32,51,TNL
+92917,2025-07-14,Dust2,3,JiJieHao,Passion UA,JiJieHao,32,51,Passion UA
+92917,2025-07-14,Mirage,4,Passion UA,Passion UA,JiJieHao,32,51,Passion UA
+92555,2025-07-13,Mirage,3,Passion UA,Iberian Soul,Passion UA,51,32,Passion UA
+92555,2025-07-13,Inferno,4,Iberian Soul,Iberian Soul,Passion UA,51,32,Iberian Soul
+92555,2025-07-13,Ancient,7,decider,Iberian Soul,Passion UA,51,32,Iberian Soul
+90547,2025-06-20,Inferno,3,GUN5,Passion UA,GUN5,32,88,GUN5
+90547,2025-06-20,Dust2,4,Passion UA,Passion UA,GUN5,32,88,GUN5
+91140,2025-06-15,Inferno,3,9INE,9INE,Passion UA,51,32,9INE
+91140,2025-06-15,Dust2,4,Passion UA,9INE,Passion UA,51,32,Passion UA
+91140,2025-06-15,Ancient,7,decider,9INE,Passion UA,51,32,Passion UA
+89238,2025-06-01,Mirage,3,Passion UA,Passion UA,NAVI Junior,32,51,NAVI Junior
+89238,2025-06-01,Dust2,4,NAVI Junior,Passion UA,NAVI Junior,32,51,NAVI Junior
+89232,2025-05-30,Dust2,3,BC.Game,BC.Game,Passion UA,51,32,Passion UA
+89232,2025-05-30,Mirage,4,Passion UA,BC.Game,Passion UA,51,32,Passion UA
+89225,2025-05-28,Mirage,3,Passion UA,Passion UA,Nexus,32,51,Nexus
+89225,2025-05-28,Dust2,4,Nexus,Passion UA,Nexus,32,51,Passion UA
+89225,2025-05-28,Anubis,7,decider,Passion UA,Nexus,32,51,Passion UA
+89655,2025-05-27,Mirage,3,Passion UA,Astrum,Passion UA,51,32,Astrum
+89655,2025-05-27,Train,4,Astrum,Astrum,Passion UA,51,32,Astrum
+89654,2025-05-27,Mirage,3,Passion UA,Passion UA,Spirit Academy,32,51,Passion UA
+89654,2025-05-27,Dust2,4,Spirit Academy,Passion UA,Spirit Academy,32,51,Spirit Academy
+89654,2025-05-27,Ancient,7,decider,Passion UA,Spirit Academy,32,51,Passion UA
+89650,2025-05-26,Mirage,3,Passion UA,Iberian Soul,Passion UA,51,32,Passion UA
+89650,2025-05-26,Inferno,4,Iberian Soul,Iberian Soul,Passion UA,51,32,Passion UA
+89212,2025-05-24,Mirage,3,Passion UA,TNL,Passion UA,51,32,Passion UA
+89212,2025-05-24,Train,4,TNL,TNL,Passion UA,51,32,TNL
+89212,2025-05-24,Dust2,7,decider,TNL,Passion UA,51,32,TNL
+89647,2025-05-23,Mirage,3,CYBERSHOKE,Passion UA,CYBERSHOKE,32,51,Passion UA
+89647,2025-05-23,Dust2,4,Passion UA,Passion UA,CYBERSHOKE,32,51,Passion UA
+89205,2025-05-23,Inferno,3,Sashi,Passion UA,Sashi,32,52,Sashi
+89205,2025-05-23,Mirage,4,Passion UA,Passion UA,Sashi,32,52,Passion UA
+89205,2025-05-23,Anubis,7,decider,Passion UA,Sashi,32,52,Passion UA
+89642,2025-05-21,Dust2,3,AMKAL,Passion UA,AMKAL,32,51,Passion UA
+89642,2025-05-21,Ancient,4,Passion UA,Passion UA,AMKAL,32,51,Passion UA
+89198,2025-05-21,Anubis,3,SABRE,Passion UA,SABRE,32,51,Passion UA
+89198,2025-05-21,Mirage,4,Passion UA,Passion UA,SABRE,32,51,Passion UA
+89190,2025-05-20,Inferno,3,Zero Tenacity,Passion UA,Zero Tenacity,32,59,Zero Tenacity
+89190,2025-05-20,Mirage,4,Passion UA,Passion UA,Zero Tenacity,32,59,Zero Tenacity
+89437,2025-05-20,Dust2,3,ECLOT,ECLOT,Passion UA,51,32,ECLOT
+89437,2025-05-20,Mirage,4,Passion UA,ECLOT,Passion UA,51,32,Passion UA
+89437,2025-05-20,Anubis,7,decider,ECLOT,Passion UA,51,32,Passion UA
+88507,2025-05-19,Mirage,3,Passion UA,Passion UA,ECLOT,32,51,ECLOT
+88507,2025-05-19,Dust2,4,ECLOT,Passion UA,ECLOT,32,51,ECLOT
+89246,2025-05-18,Train,3,Passion UA,Spirit Academy,Passion UA,51,32,Spirit Academy
+89246,2025-05-18,Dust2,4,Spirit Academy,Spirit Academy,Passion UA,51,32,Spirit Academy
+98707,2025-09-10,Mirage,3,TNL,TNL,Imperial,51,34,Imperial
+98707,2025-09-10,Overpass,4,Imperial,TNL,Imperial,51,34,Imperial
+94973,2025-08-15,Nuke,3,ODDIK,Imperial,ODDIK,34,51,Imperial
+94973,2025-08-15,Inferno,4,Imperial,Imperial,ODDIK,34,51,Imperial
+94970,2025-08-14,Dust2,3,Imperial,ODDIK,Imperial,51,34,Imperial
+94970,2025-08-14,Train,4,ODDIK,ODDIK,Imperial,51,34,Imperial
+94969,2025-08-13,Mirage,3,RED Canids,Imperial,RED Canids,34,75,Imperial
+94969,2025-08-13,Nuke,4,Imperial,Imperial,RED Canids,34,75,RED Canids
+94969,2025-08-13,Inferno,7,decider,Imperial,RED Canids,34,75,Imperial
+96278,2025-08-12,Mirage,3,ShindeN,Imperial,ShindeN,34,51,ShindeN
+96278,2025-08-12,Nuke,4,Imperial,Imperial,ShindeN,34,51,ShindeN
+96278,2025-08-12,Dust2,7,decider,Imperial,ShindeN,34,51,Imperial
+94747,2025-08-02,Train,3,ODDIK,Imperial,ODDIK,34,51,ODDIK
+94747,2025-08-02,Dust2,4,Imperial,Imperial,ODDIK,34,51,Imperial
+94747,2025-08-02,Overpass,7,decider,Imperial,ODDIK,34,51,Imperial
+94744,2025-08-01,Mirage,3,ShindeN,Imperial,ShindeN,34,51,Imperial
+94744,2025-08-01,Dust2,4,Imperial,Imperial,ShindeN,34,51,Imperial
+93357,2025-07-17,Nuke,3,9z,9z,Imperial,50,34,Imperial
+93357,2025-07-17,Inferno,4,Imperial,9z,Imperial,50,34,Imperial
+92631,2025-07-11,Inferno,3,Imperial,Bounty Hunters,Imperial,51,34,Imperial
+92631,2025-07-11,Nuke,4,Bounty Hunters,Bounty Hunters,Imperial,51,34,Imperial
+92608,2025-07-07,Inferno,3,ex-W7M,Imperial,ex-W7M,34,51,ex-W7M
+92608,2025-07-07,Dust2,4,Imperial,Imperial,ex-W7M,34,51,ex-W7M
+91834,2025-07-02,Dust2,3,Imperial,Imperial,ODDIK,34,51,Imperial
+91834,2025-07-02,Anubis,4,ODDIK,Imperial,ODDIK,34,51,Imperial
+91829,2025-07-01,Nuke,3,Bounty Hunters,Imperial,Bounty Hunters,34,51,Imperial
+91829,2025-07-01,Inferno,4,Imperial,Imperial,Bounty Hunters,34,51,Imperial
+87695,2025-05-02,Nuke,3,9z,Imperial,9z,34,50,9z
+87695,2025-05-02,Mirage,4,Imperial,Imperial,9z,34,50,Imperial
+87695,2025-05-02,Dust2,7,decider,Imperial,9z,34,50,Imperial
+87510,2025-04-26,Inferno,3,Partizan,Imperial,Partizan,34,51,Partizan
+87510,2025-04-26,Dust2,4,Imperial,Imperial,Partizan,34,51,Partizan
+87504,2025-04-24,Dust2,3,Imperial,500,Imperial,51,34,Imperial
+87504,2025-04-24,Inferno,4,500,500,Imperial,51,34,Imperial
+86028,2025-04-06,Inferno,3,Fluxo,Imperial,Fluxo,34,46,Imperial
+86028,2025-04-06,Dust2,4,Imperial,Imperial,Fluxo,34,46,Imperial
+98710,2025-09-11,Ancient,3,PARIVISION,PARIVISION,9z,35,50,9z
+98710,2025-09-11,Train,4,9z,PARIVISION,9z,35,50,9z
+96215,2025-08-12,Inferno,3,Sashi,Sashi,PARIVISION,52,35,PARIVISION
+96215,2025-08-12,Mirage,4,PARIVISION,Sashi,PARIVISION,52,35,PARIVISION
+94218,2025-08-09,Ancient,3,PARIVISION,PARIVISION,Partizan,35,51,PARIVISION
+94218,2025-08-09,Mirage,4,Partizan,PARIVISION,Partizan,35,51,PARIVISION
+94214,2025-08-08,Dust2,3,PARIVISION,PARIVISION,CYBERSHOKE,35,51,PARIVISION
+94214,2025-08-08,Mirage,4,CYBERSHOKE,PARIVISION,CYBERSHOKE,35,51,CYBERSHOKE
+94214,2025-08-08,Ancient,7,decider,PARIVISION,CYBERSHOKE,35,51,PARIVISION
+93262,2025-07-17,Dust2,3,PARIVISION,TNL,PARIVISION,51,35,TNL
+93262,2025-07-17,Mirage,4,TNL,TNL,PARIVISION,51,35,TNL
+93261,2025-07-17,Ancient,3,PARIVISION,Nemiga,PARIVISION,41,35,Nemiga
+93261,2025-07-17,Train,4,Nemiga,Nemiga,PARIVISION,41,35,PARIVISION
+93261,2025-07-17,Dust2,7,decider,Nemiga,PARIVISION,41,35,PARIVISION
+93253,2025-07-15,Mirage,3,PARIVISION,Nemiga,PARIVISION,41,35,Nemiga
+93253,2025-07-15,Train,4,Nemiga,Nemiga,PARIVISION,41,35,Nemiga
+92920,2025-07-15,Inferno,3,PARIVISION,ex-NAVI Junior,PARIVISION,51,35,PARIVISION
+92920,2025-07-15,Ancient,4,ex-NAVI Junior,ex-NAVI Junior,PARIVISION,51,35,PARIVISION
+92556,2025-07-13,Inferno,3,Iberian Soul,PARIVISION,Iberian Soul,35,51,PARIVISION
+92556,2025-07-13,Mirage,4,PARIVISION,PARIVISION,Iberian Soul,35,51,Iberian Soul
+92556,2025-07-13,Ancient,7,decider,PARIVISION,Iberian Soul,35,51,Iberian Soul
+92554,2025-07-13,Inferno,3,PARIVISION,GUN5,PARIVISION,88,35,GUN5
+92554,2025-07-13,Ancient,4,GUN5,GUN5,PARIVISION,88,35,PARIVISION
+92554,2025-07-13,Mirage,7,decider,GUN5,PARIVISION,88,35,PARIVISION
+92551,2025-07-12,Inferno,3,PARIVISION,PARIVISION,Marius,35,51,PARIVISION
+92551,2025-07-12,Mirage,4,Marius,PARIVISION,Marius,35,51,PARIVISION
+92548,2025-07-11,Dust2,3,PARIVISION,PARIVISION,QMISTRY,35,51,PARIVISION
+92548,2025-07-11,Ancient,4,QMISTRY,PARIVISION,QMISTRY,35,51,QMISTRY
+92548,2025-07-11,Inferno,7,decider,PARIVISION,QMISTRY,35,51,PARIVISION
+91187,2025-06-23,Dust2,3,PARIVISION,CPH Wolves,PARIVISION,51,35,PARIVISION
+91187,2025-06-23,Ancient,4,CPH Wolves,CPH Wolves,PARIVISION,51,35,CPH Wolves
+91187,2025-06-23,Mirage,7,decider,CPH Wolves,PARIVISION,51,35,PARIVISION
+91184,2025-06-22,Dust2,3,PARIVISION,Rebels,PARIVISION,51,35,PARIVISION
+91184,2025-06-22,Anubis,4,Rebels,Rebels,PARIVISION,51,35,Rebels
+91184,2025-06-22,Train,7,decider,Rebels,PARIVISION,51,35,PARIVISION
+91178,2025-06-20,Mirage,3,Roler Coaster,PARIVISION,Roler Coaster,35,51,PARIVISION
+91178,2025-06-20,Dust2,4,PARIVISION,PARIVISION,Roler Coaster,35,51,PARIVISION
+90388,2025-06-16,Ancient,3,PARIVISION,PARIVISION,ECLOT,35,51,ECLOT
+90388,2025-06-16,Mirage,4,ECLOT,PARIVISION,ECLOT,35,51,PARIVISION
+90388,2025-06-16,Anubis,7,decider,PARIVISION,ECLOT,35,51,PARIVISION
+90370,2025-06-09,Inferno,3,Partizan,PARIVISION,Partizan,35,51,PARIVISION
+90370,2025-06-09,Dust2,4,PARIVISION,PARIVISION,Partizan,35,51,Partizan
+90370,2025-06-09,Ancient,7,decider,PARIVISION,Partizan,35,51,Partizan
+90367,2025-06-08,Dust2,3,PARIVISION,PARIVISION,Marius,35,51,PARIVISION
+90367,2025-06-08,Mirage,4,Marius,PARIVISION,Marius,35,51,PARIVISION
+89516,2025-05-31,Mirage,3,Nexus,PARIVISION,Nexus,35,51,Nexus
+89516,2025-05-31,Dust2,4,PARIVISION,PARIVISION,Nexus,35,51,Nexus
+89516,2025-05-31,Inferno,5,Nexus,PARIVISION,Nexus,35,51,PARIVISION
+89516,2025-05-31,Ancient,6,PARIVISION,PARIVISION,Nexus,35,51,Nexus
+89516,2025-05-31,Anubis,7,decider,PARIVISION,Nexus,35,51,Nexus
+89514,2025-05-30,Inferno,3,Iberian Soul,PARIVISION,Iberian Soul,35,51,Iberian Soul
+89514,2025-05-30,Ancient,4,PARIVISION,PARIVISION,Iberian Soul,35,51,PARIVISION
+89514,2025-05-30,Train,7,decider,PARIVISION,Iberian Soul,35,51,PARIVISION
+89649,2025-05-26,Train,3,Sashi,PARIVISION,Sashi,35,52,Sashi
+89649,2025-05-26,Ancient,4,PARIVISION,PARIVISION,Sashi,35,52,PARIVISION
+89649,2025-05-26,Mirage,7,decider,PARIVISION,Sashi,35,52,PARIVISION
+89188,2025-05-19,Train,3,Astrum,PARIVISION,Astrum,35,51,PARIVISION
+89188,2025-05-19,Ancient,4,PARIVISION,PARIVISION,Astrum,35,51,PARIVISION
+88243,2025-05-17,Mirage,3,RUBY,RUBY,PARIVISION,51,35,PARIVISION
+88243,2025-05-17,Dust2,4,PARIVISION,RUBY,PARIVISION,51,35,PARIVISION
+98840,2025-09-09,Ancient,3,FengDa,Rare Atom,FengDa,36,51,Rare Atom
+98840,2025-09-09,Dust2,4,Rare Atom,Rare Atom,FengDa,36,51,Rare Atom
+96685,2025-08-28,Dust2,3,NomadS,Rare Atom,NomadS,36,51,Rare Atom
+96685,2025-08-28,Ancient,4,Rare Atom,Rare Atom,NomadS,36,51,NomadS
+96685,2025-08-28,Inferno,7,decider,Rare Atom,NomadS,36,51,Rare Atom
+97521,2025-08-28,Dust2,3,Just Swing,Rare Atom,Just Swing,36,51,Just Swing
+97521,2025-08-28,Mirage,4,Rare Atom,Rare Atom,Just Swing,36,51,Rare Atom
+97521,2025-08-28,Ancient,7,decider,Rare Atom,Just Swing,36,51,Rare Atom
+97516,2025-08-25,Train,3,Pressure Monsters,Rare Atom,Pressure Monsters,36,51,Rare Atom
+97516,2025-08-25,Ancient,4,Rare Atom,Rare Atom,Pressure Monsters,36,51,Rare Atom
+96620,2025-08-14,Overpass,3,TBO,TBO,Rare Atom,51,36,Rare Atom
+96620,2025-08-14,Mirage,4,Rare Atom,TBO,Rare Atom,51,36,Rare Atom
+96346,2025-08-11,Inferno,3,BORING PLAYERS,Rare Atom,BORING PLAYERS,36,51,Rare Atom
+96346,2025-08-11,Mirage,4,Rare Atom,Rare Atom,BORING PLAYERS,36,51,Rare Atom
+92415,2025-07-05,Mirage,3,XDM,Rare Atom,XDM,36,51,Rare Atom
+92415,2025-07-05,Inferno,4,Rare Atom,Rare Atom,XDM,36,51,Rare Atom
+89180,2025-05-17,Anubis,3,DogEvil,Rare Atom,DogEvil,36,51,Rare Atom
+89180,2025-05-17,Mirage,4,Rare Atom,Rare Atom,DogEvil,36,51,Rare Atom
+88180,2025-05-10,Dust2,3,FlyQuest,FlyQuest,Rare Atom,51,36,FlyQuest
+88180,2025-05-10,Ancient,4,Rare Atom,FlyQuest,Rare Atom,51,36,Rare Atom
+88180,2025-05-10,Inferno,7,decider,FlyQuest,Rare Atom,51,36,FlyQuest
+88179,2025-05-09,Mirage,3,NomadS,NomadS,Rare Atom,51,36,Rare Atom
+88179,2025-05-09,Ancient,4,Rare Atom,NomadS,Rare Atom,51,36,Rare Atom
+87864,2025-05-01,Inferno,3,Rare Atom,The Huns,Rare Atom,51,36,Rare Atom
+87864,2025-05-01,Dust2,4,The Huns,The Huns,Rare Atom,51,36,The Huns
+87864,2025-05-01,Ancient,7,decider,The Huns,Rare Atom,51,36,The Huns
+76944,2025-03-25,Train,7,decider,TYLOO,Rare Atom,9,36,TYLOO
+97730,2025-08-26,Mirage,3,InControl,InControl,M80,51,37,InControl
+97730,2025-08-26,Overpass,4,M80,InControl,M80,51,37,M80
+97730,2025-08-26,Ancient,7,decider,InControl,M80,51,37,M80
+96923,2025-08-18,Ancient,3,Getting Info,M80,Getting Info,37,51,M80
+96923,2025-08-18,Overpass,4,M80,M80,Getting Info,37,51,M80
+96921,2025-08-17,Dust2,3,BLUEJAYS,BLUEJAYS,M80,51,37,BLUEJAYS
+96921,2025-08-17,Overpass,4,M80,BLUEJAYS,M80,51,37,M80
+96921,2025-08-17,Mirage,7,decider,BLUEJAYS,M80,51,37,M80
+96565,2025-08-15,Inferno,3,Marsborne,Marsborne,M80,51,37,M80
+96565,2025-08-15,Overpass,4,M80,Marsborne,M80,51,37,M80
+95182,2025-08-13,Inferno,3,Marsborne,M80,Marsborne,37,51,M80
+95182,2025-08-13,Ancient,4,M80,M80,Marsborne,37,51,M80
+96315,2025-08-13,Dust2,3,Aether,M80,Aether,37,51,M80
+96315,2025-08-13,Overpass,4,M80,M80,Aether,37,51,M80
+94755,2025-08-03,Overpass,3,M80,NRG,M80,51,37,M80
+94755,2025-08-03,Train,4,NRG,NRG,M80,51,37,M80
+94754,2025-08-02,Train,3,Marsborne,Marsborne,M80,51,37,M80
+94754,2025-08-02,Overpass,4,M80,Marsborne,M80,51,37,M80
+94307,2025-08-01,Overpass,3,M80,M80,Wildcard,37,61,M80
+94307,2025-08-01,Ancient,4,Wildcard,M80,Wildcard,37,61,M80
+94750,2025-08-01,Mirage,3,Supernova Comets,M80,Supernova Comets,37,51,M80
+94750,2025-08-01,Ancient,4,M80,M80,Supernova Comets,37,51,M80
+94301,2025-07-29,Inferno,3,Chicken Coop,M80,Chicken Coop,37,51,M80
+94301,2025-07-29,Mirage,4,M80,M80,Chicken Coop,37,51,M80
+94339,2025-07-27,Mirage,3,BLUEJAYS,M80,BLUEJAYS,37,51,M80
+94339,2025-07-27,Overpass,4,M80,M80,BLUEJAYS,37,51,M80
+94337,2025-07-27,Mirage,3,Getting Info,M80,Getting Info,37,51,M80
+94337,2025-07-27,Overpass,4,M80,M80,Getting Info,37,51,M80
+94334,2025-07-26,Ancient,3,regain,M80,regain,37,51,M80
+94334,2025-07-26,Overpass,4,M80,M80,regain,37,51,M80
+93724,2025-07-20,Train,3,KOLESIE,KOLESIE,M80,51,37,M80
+93724,2025-07-20,Dust2,4,M80,KOLESIE,M80,51,37,KOLESIE
+93724,2025-07-20,Ancient,5,KOLESIE,KOLESIE,M80,51,37,KOLESIE
+93724,2025-07-20,Overpass,6,M80,KOLESIE,M80,51,37,M80
+93724,2025-07-20,Mirage,7,decider,KOLESIE,M80,51,37,KOLESIE
+93722,2025-07-19,Mirage,3,Fluxo,M80,Fluxo,37,46,M80
+93722,2025-07-19,Inferno,4,M80,M80,Fluxo,37,46,M80
+93066,2025-07-13,Mirage,3,Getting Info,M80,Getting Info,37,51,M80
+93066,2025-07-13,Dust2,4,M80,M80,Getting Info,37,51,Getting Info
+93066,2025-07-13,Anubis,7,decider,M80,Getting Info,37,51,Getting Info
+93063,2025-07-12,Mirage,3,BLUEJAYS,M80,BLUEJAYS,37,51,BLUEJAYS
+93063,2025-07-12,Inferno,4,M80,M80,BLUEJAYS,37,51,M80
+93063,2025-07-12,Dust2,7,decider,M80,BLUEJAYS,37,51,M80
+89030,2025-06-09,Ancient,3,M80,Nemiga,M80,41,37,Nemiga
+89030,2025-06-09,Dust2,4,Nemiga,Nemiga,M80,41,37,Nemiga
+98854,2025-09-11,Inferno,3,ESC,ESC,Nemiga,51,41,ESC
+98854,2025-09-11,Dust2,4,Nemiga,ESC,Nemiga,51,41,ESC
+98709,2025-09-11,Overpass,3,Nemiga,Nemiga,Venom,41,51,Venom
+98709,2025-09-11,Ancient,4,Venom,Nemiga,Venom,41,51,Venom
+96652,2025-08-15,Dust2,3,Spirit Academy,Nemiga,Spirit Academy,41,51,Spirit Academy
+96652,2025-08-15,Mirage,4,Nemiga,Nemiga,Spirit Academy,41,51,Nemiga
+96652,2025-08-15,Train,7,decider,Nemiga,Spirit Academy,41,51,Spirit Academy
+96203,2025-08-11,Mirage,3,Insilio,Nemiga,Insilio,41,51,Nemiga
+96203,2025-08-11,Ancient,4,Nemiga,Nemiga,Insilio,41,51,Nemiga
+92912,2025-07-14,Mirage,3,m1x,Nemiga,m1x,41,51,m1x
+92912,2025-07-14,Dust2,4,Nemiga,Nemiga,m1x,41,51,Nemiga
+92912,2025-07-14,Ancient,7,decider,Nemiga,m1x,41,51,Nemiga
+88557,2025-06-05,Ancient,3,Nemiga,FlyQuest,Nemiga,51,41,Nemiga
+88557,2025-06-05,Inferno,4,FlyQuest,FlyQuest,Nemiga,51,41,Nemiga
+89506,2025-05-27,Anubis,3,Nemiga,Nemiga,SINNERS,41,74,SINNERS
+89506,2025-05-27,Inferno,4,SINNERS,Nemiga,SINNERS,41,74,SINNERS
+88245,2025-05-18,Ancient,3,ENCE,ENCE,Nemiga,29,41,ENCE
+88245,2025-05-18,Dust2,4,Nemiga,ENCE,Nemiga,29,41,ENCE
+88235,2025-05-15,Dust2,3,Nemiga,Nemiga,Monte,41,44,Nemiga
+88235,2025-05-15,Mirage,4,Monte,Nemiga,Monte,41,44,Monte
+88235,2025-05-15,Anubis,7,decider,Nemiga,Monte,41,44,Nemiga
+87750,2025-05-06,Ancient,3,RUSH B,Nemiga,RUSH B,41,51,RUSH B
+87750,2025-05-06,Train,4,Nemiga,Nemiga,RUSH B,41,51,Nemiga
+87750,2025-05-06,Mirage,7,decider,Nemiga,RUSH B,41,51,RUSH B
+87090,2025-04-18,Dust2,7,decider,Nemiga,9 Pandas,41,51,Nemiga
+87086,2025-04-18,Anubis,7,decider,Nemiga,Partizan,41,51,Nemiga
+87132,2025-04-17,Mirage,7,decider,Nemiga,NAVI Junior,41,51,NAVI Junior
+87080,2025-04-17,Ancient,7,decider,Nemiga,ECLOT,41,51,ECLOT
+87076,2025-04-17,Dust2,7,decider,Nemiga,GUN5,41,88,GUN5
+86906,2025-04-16,Inferno,3,BIG,Nemiga,BIG,41,45,Nemiga
+86906,2025-04-16,Dust2,4,Nemiga,Nemiga,BIG,41,45,Nemiga
+85903,2025-04-03,Ancient,7,decider,Imperial Valkyries,Nemiga,51,41,Nemiga
+85899,2025-04-03,Train,7,decider,Passion UA,Nemiga,32,41,Nemiga
+85897,2025-04-03,Dust2,7,decider,9 Pandas,Nemiga,51,41,Nemiga
+85894,2025-04-02,Mirage,7,decider,Metizport,Nemiga,78,41,Nemiga
+98647,2025-09-08,Nuke,3,Monte,Monte,Alliance,44,51,Alliance
+98647,2025-09-08,Ancient,4,Alliance,Monte,Alliance,44,51,Alliance
+97809,2025-08-29,Dust2,7,decider,Monte,aimclub,44,51,Monte
+96764,2025-08-26,Ancient,3,Betclic,Betclic,Monte,51,44,Betclic
+96764,2025-08-26,Inferno,4,Monte,Betclic,Monte,51,44,Monte
+96764,2025-08-26,Nuke,7,decider,Betclic,Monte,51,44,Monte
+96757,2025-08-24,Nuke,3,Tricked,Tricked,Monte,51,44,Monte
+96757,2025-08-24,Dust2,4,Monte,Tricked,Monte,51,44,Monte
+96744,2025-08-21,Dust2,3,FAVBET,FAVBET,Monte,51,44,Monte
+96742,2025-08-20,Nuke,3,Monte,Partizan,Monte,51,44,Monte
+96742,2025-08-20,Dust2,4,Partizan,Partizan,Monte,51,44,Partizan
+96742,2025-08-20,Mirage,7,decider,Partizan,Monte,51,44,Partizan
+94880,2025-08-08,Mirage,3,Eternal Fire,Monte,Eternal Fire,44,87,Monte
+94880,2025-08-08,Train,4,Monte,Monte,Eternal Fire,44,87,Eternal Fire
+94880,2025-08-08,Nuke,7,decider,Monte,Eternal Fire,44,87,Eternal Fire
+94193,2025-08-02,Dust2,3,Monte,Monte,Betera,44,51,Betera
+94193,2025-08-02,Train,4,Betera,Monte,Betera,44,51,Monte
+94193,2025-08-02,Nuke,7,decider,Monte,Betera,44,51,Monte
+94188,2025-07-31,Ancient,3,Monte,Johnny Speeds,Monte,51,44,Johnny Speeds
+94188,2025-07-31,Mirage,4,Johnny Speeds,Johnny Speeds,Monte,51,44,Johnny Speeds
+94177,2025-07-29,Overpass,3,Sangal,Sangal,Monte,76,44,Monte
+94177,2025-07-29,Ancient,4,Monte,Sangal,Monte,76,44,Sangal
+94177,2025-07-29,Mirage,7,decider,Sangal,Monte,76,44,Sangal
+94111,2025-07-28,Nuke,3,TPuDCATb TPu,Monte,TPuDCATb TPu,44,51,TPuDCATb TPu
+94111,2025-07-28,Dust2,4,Monte,Monte,TPuDCATb TPu,44,51,Monte
+94111,2025-07-28,Ancient,7,decider,Monte,TPuDCATb TPu,44,51,Monte
+94102,2025-07-26,Nuke,3,Monte,RUBY,Monte,51,44,Monte
+94102,2025-07-26,Overpass,4,RUBY,RUBY,Monte,51,44,RUBY
+94102,2025-07-26,Ancient,7,decider,RUBY,Monte,51,44,Monte
+94100,2025-07-25,Mirage,3,Monte,Monte,Fisher College,44,51,Monte
+94100,2025-07-25,Nuke,4,Fisher College,Monte,Fisher College,44,51,Monte
+90542,2025-06-19,Ancient,3,TNL,TNL,Monte,51,44,TNL
+90542,2025-06-19,Nuke,4,Monte,TNL,Monte,51,44,TNL
+90528,2025-06-14,Ancient,3,Monte,Astrum,Monte,51,44,Monte
+90528,2025-06-14,Train,4,Astrum,Astrum,Monte,51,44,Astrum
+90528,2025-06-14,Mirage,7,decider,Astrum,Monte,51,44,Monte
+90524,2025-06-13,Mirage,3,Monte,Iberian Soul,Monte,51,44,Iberian Soul
+90524,2025-06-13,Nuke,4,Iberian Soul,Iberian Soul,Monte,51,44,Monte
+90524,2025-06-13,Ancient,7,decider,Iberian Soul,Monte,51,44,Iberian Soul
+90358,2025-06-09,Mirage,3,Monte,Monte,Leo,44,51,Monte
+90358,2025-06-09,Anubis,4,Leo,Monte,Leo,44,51,Leo
+90358,2025-06-09,Train,7,decider,Monte,Leo,44,51,Monte
+90339,2025-06-05,Nuke,3,Monte,Monte,FAVBET,44,51,FAVBET
+90339,2025-06-05,Anubis,4,FAVBET,Monte,FAVBET,44,51,FAVBET
+90336,2025-06-04,Mirage,3,Monte,Monte,EYEBALLERS,44,51,Monte
+90336,2025-06-04,Anubis,4,EYEBALLERS,Monte,EYEBALLERS,44,51,EYEBALLERS
+90336,2025-06-04,Ancient,7,decider,Monte,EYEBALLERS,44,51,Monte
+89224,2025-05-28,Train,3,Astrum,Astrum,Monte,51,44,Astrum
+89224,2025-05-28,Nuke,4,Monte,Astrum,Monte,51,44,Monte
+89224,2025-05-28,Mirage,7,decider,Astrum,Monte,51,44,Astrum
+89218,2025-05-26,Dust2,3,ECLOT,ECLOT,Monte,51,44,Monte
+89218,2025-05-26,Train,4,Monte,ECLOT,Monte,51,44,ECLOT
+89218,2025-05-26,Anubis,7,decider,ECLOT,Monte,51,44,Monte
+89215,2025-05-25,Anubis,3,Fire Flux,Fire Flux,Monte,51,44,Fire Flux
+89215,2025-05-25,Ancient,4,Monte,Fire Flux,Monte,51,44,Fire Flux
+89207,2025-05-23,Mirage,3,Monte,Nexus,Monte,51,44,Nexus
+89207,2025-05-23,Dust2,4,Nexus,Nexus,Monte,51,44,Nexus
+89646,2025-05-23,Dust2,3,Monte,9INE,Monte,51,44,Monte
+89646,2025-05-23,Train,4,9INE,9INE,Monte,51,44,9INE
+89646,2025-05-23,Nuke,7,decider,9INE,Monte,51,44,Monte
+89643,2025-05-22,Anubis,3,Zero Tenacity,Monte,Zero Tenacity,44,59,Zero Tenacity
+89643,2025-05-22,Mirage,4,Monte,Monte,Zero Tenacity,44,59,Monte
+89643,2025-05-22,Nuke,7,decider,Monte,Zero Tenacity,44,59,Zero Tenacity
+89768,2025-05-21,Nuke,3,Sangal,Monte,Sangal,44,76,Monte
+89768,2025-05-21,Train,4,Monte,Monte,Sangal,44,76,Sangal
+89768,2025-05-21,Dust2,7,decider,Monte,Sangal,44,76,Sangal
+89199,2025-05-21,Mirage,3,Delta,Monte,Delta,44,51,Monte
+89199,2025-05-21,Dust2,4,Monte,Monte,Delta,44,51,Monte
+96660,2025-08-17,Train,3,BIG,9INE,BIG,51,45,BIG
+96660,2025-08-17,Inferno,4,9INE,9INE,BIG,51,45,9INE
+96660,2025-08-17,Nuke,7,decider,9INE,BIG,51,45,9INE
+96646,2025-08-13,Overpass,3,9INE,9INE,BIG,51,45,BIG
+96646,2025-08-13,Dust2,4,BIG,9INE,BIG,51,45,9INE
+96646,2025-08-13,Ancient,7,decider,9INE,BIG,51,45,9INE
+96211,2025-08-12,Train,3,The Glecs,BIG,The Glecs,45,51,BIG
+96211,2025-08-12,Ancient,4,BIG,BIG,The Glecs,45,51,The Glecs
+96211,2025-08-12,Mirage,7,decider,BIG,The Glecs,45,51,BIG
+96403,2025-08-10,Nuke,7,decider,TNL,BIG,51,45,BIG
+96396,2025-08-10,Mirage,7,decider,BIG,EYEBALLERS,45,51,BIG
+94216,2025-08-08,Dust2,3,Partizan,BIG,Partizan,45,51,Partizan
+94216,2025-08-08,Nuke,4,BIG,BIG,Partizan,45,51,Partizan
+92582,2025-07-16,Dust2,3,BIG,Complexity,BIG,51,45,BIG
+92582,2025-07-16,Train,4,Complexity,Complexity,BIG,51,45,Complexity
+92582,2025-07-16,Nuke,7,decider,Complexity,BIG,51,45,Complexity
+89823,2025-06-28,Mirage,3,Bärendienst,BIG,Bärendienst,45,51,BIG
+89823,2025-06-28,Nuke,4,BIG,BIG,Bärendienst,45,51,BIG
+90553,2025-06-21,Ancient,3,GUN5,GUN5,BIG,88,45,BIG
+90553,2025-06-21,Inferno,4,BIG,GUN5,BIG,88,45,BIG
+90549,2025-06-20,Mirage,3,BIG,BIG,Zero Tenacity,45,59,BIG
+90549,2025-06-20,Nuke,4,Zero Tenacity,BIG,Zero Tenacity,45,59,Zero Tenacity
+90549,2025-06-20,Dust2,7,decider,BIG,Zero Tenacity,45,59,BIG
+89231,2025-05-30,Inferno,3,BIG,BIG,Astrum,45,51,BIG
+89231,2025-05-30,Train,4,Astrum,BIG,Astrum,45,51,Astrum
+89231,2025-05-30,Mirage,7,decider,BIG,Astrum,45,51,BIG
+89508,2025-05-27,Nuke,3,BIG,BIG,CYBERSHOKE,45,51,BIG
+89508,2025-05-27,Mirage,4,CYBERSHOKE,BIG,CYBERSHOKE,45,51,CYBERSHOKE
+89508,2025-05-27,Ancient,7,decider,BIG,CYBERSHOKE,45,51,CYBERSHOKE
+89820,2025-05-24,Mirage,3,ex-Permitta,BIG,ex-Permitta,45,51,BIG
+89820,2025-05-24,Nuke,4,BIG,BIG,ex-Permitta,45,51,BIG
+89816,2025-05-23,Ancient,3,XPERION NXT,BIG,XPERION NXT,45,51,BIG
+89816,2025-05-23,Mirage,4,BIG,BIG,XPERION NXT,45,51,BIG
+88029,2025-04-30,Ancient,3,Eruption,BIG,Eruption,45,51,BIG
+88029,2025-04-30,Dust2,4,BIG,BIG,Eruption,45,51,Eruption
+88029,2025-04-30,Mirage,7,decider,BIG,Eruption,45,51,BIG
+98865,2025-09-10,Nuke,3,Players,Fluxo,Players,46,51,Fluxo
+98865,2025-09-10,Train,4,Fluxo,Fluxo,Players,46,51,Fluxo
+98806,2025-09-06,Overpass,3,Wildcard,Fluxo,Wildcard,46,61,Fluxo
+98806,2025-09-06,Ancient,4,Fluxo,Fluxo,Wildcard,46,61,Wildcard
+98806,2025-09-06,Inferno,7,decider,Fluxo,Wildcard,46,61,Wildcard
+97038,2025-08-28,Ancient,3,BESTIA,BESTIA,Fluxo,53,46,Fluxo
+97038,2025-08-28,Inferno,4,Fluxo,BESTIA,Fluxo,53,46,BESTIA
+97038,2025-08-28,Mirage,7,decider,BESTIA,Fluxo,53,46,BESTIA
+96968,2025-08-20,Ancient,3,Fluxo,Sharks,Fluxo,63,46,Fluxo
+96968,2025-08-20,Nuke,4,Sharks,Sharks,Fluxo,63,46,Fluxo
+96301,2025-08-19,Nuke,3,9z,Fluxo,9z,46,50,Fluxo
+96301,2025-08-19,Ancient,4,Fluxo,Fluxo,9z,46,50,Fluxo
+96299,2025-08-19,Ancient,3,Fluxo,Flamengo,Fluxo,51,46,Flamengo
+96299,2025-08-19,Overpass,4,Flamengo,Flamengo,Fluxo,51,46,Fluxo
+96299,2025-08-19,Inferno,7,decider,Flamengo,Fluxo,51,46,Fluxo
+96296,2025-08-18,Ancient,3,Fluxo,BESTIA,Fluxo,53,46,BESTIA
+96296,2025-08-18,Inferno,4,BESTIA,BESTIA,Fluxo,53,46,Fluxo
+96296,2025-08-18,Mirage,7,decider,BESTIA,Fluxo,53,46,Fluxo
+96289,2025-08-16,Nuke,3,R2,Fluxo,R2,46,51,Fluxo
+96289,2025-08-16,Ancient,4,Fluxo,Fluxo,R2,46,51,Fluxo
+96283,2025-08-12,Nuke,3,Dusty Roots,Fluxo,Dusty Roots,46,51,Dusty Roots
+96283,2025-08-12,Mirage,4,Fluxo,Fluxo,Dusty Roots,46,51,Dusty Roots
+94574,2025-08-02,Nuke,3,ShindeN,Fluxo,ShindeN,46,51,ShindeN
+94574,2025-08-02,Ancient,4,Fluxo,Fluxo,ShindeN,46,51,Fluxo
+94574,2025-08-02,Mirage,7,decider,Fluxo,ShindeN,46,51,ShindeN
+93723,2025-07-20,Ancient,3,Fluxo,BLUEJAYS,Fluxo,51,46,Fluxo
+93723,2025-07-20,Mirage,4,BLUEJAYS,BLUEJAYS,Fluxo,51,46,Fluxo
+92503,2025-07-13,Inferno,3,Fluxo,ODDIK,Fluxo,51,46,Fluxo
+92503,2025-07-13,Train,4,ODDIK,ODDIK,Fluxo,51,46,ODDIK
+92503,2025-07-13,Dust2,7,decider,ODDIK,Fluxo,51,46,ODDIK
+92501,2025-07-12,Nuke,3,BESTIA,Fluxo,BESTIA,46,53,Fluxo
+92501,2025-07-12,Ancient,4,Fluxo,Fluxo,BESTIA,46,53,Fluxo
+88552,2025-06-04,Ancient,3,Chinggis Warriors,Chinggis Warriors,Fluxo,51,46,Fluxo
+88552,2025-06-04,Mirage,4,Fluxo,Chinggis Warriors,Fluxo,51,46,Chinggis Warriors
+88552,2025-06-04,Nuke,7,decider,Chinggis Warriors,Fluxo,51,46,Chinggis Warriors
+88540,2025-06-03,Inferno,7,decider,Complexity,Fluxo,51,46,Complexity
+89910,2025-06-03,Ancient,7,decider,FlyQuest,Fluxo,51,46,FlyQuest
+87806,2025-05-11,Mirage,3,Solid,Fluxo,Solid,46,51,Fluxo
+87806,2025-05-11,Ancient,4,Fluxo,Fluxo,Solid,46,51,Fluxo
+87803,2025-05-09,Nuke,3,Fluxo,Solid,Fluxo,51,46,Fluxo
+87803,2025-05-09,Dust2,4,Solid,Solid,Fluxo,51,46,Fluxo
+86938,2025-04-15,Dust2,3,BESTIA,Fluxo,BESTIA,46,53,Fluxo
+86938,2025-04-15,Ancient,4,Fluxo,Fluxo,BESTIA,46,53,Fluxo
+97041,2025-08-31,Nuke,3,9z,9z,BESTIA,50,53,BESTIA
+97041,2025-08-31,Ancient,4,BESTIA,9z,BESTIA,50,53,9z
+97041,2025-08-31,Dust2,7,decider,9z,BESTIA,50,53,BESTIA
+97039,2025-08-29,Train,3,RED Canids,RED Canids,9z,75,50,9z
+97039,2025-08-29,Nuke,4,9z,RED Canids,9z,75,50,9z
+96971,2025-08-26,Nuke,3,9z,BESTIA,9z,53,50,9z
+96971,2025-08-26,Ancient,4,BESTIA,BESTIA,9z,53,50,BESTIA
+96971,2025-08-26,Dust2,7,decider,BESTIA,9z,53,50,9z
+96300,2025-08-19,Inferno,3,9z,Sharks,9z,63,50,Sharks
+96300,2025-08-19,Ancient,4,Sharks,Sharks,9z,63,50,9z
+96300,2025-08-19,Nuke,7,decider,Sharks,9z,63,50,9z
+96298,2025-08-18,Inferno,3,9z,9z,ODDIK,50,51,9z
+96298,2025-08-18,Train,4,ODDIK,9z,ODDIK,50,51,9z
+96551,2025-08-15,Inferno,3,ex-W7M,9z,ex-W7M,50,51,9z
+96551,2025-08-15,Nuke,4,9z,9z,ex-W7M,50,51,9z
+94587,2025-08-05,Dust2,3,9z,BESTIA,9z,53,50,BESTIA
+94587,2025-08-05,Ancient,4,BESTIA,BESTIA,9z,53,50,BESTIA
+94586,2025-08-05,Nuke,3,ShindeN,ShindeN,9z,51,50,9z
+94586,2025-08-05,Dust2,4,9z,ShindeN,9z,51,50,9z
+94584,2025-08-04,Dust2,3,9z,ODDIK,9z,51,50,9z
+94584,2025-08-04,Ancient,4,ODDIK,ODDIK,9z,51,50,9z
+94580,2025-08-03,Nuke,3,9z,9z,Bounty Hunters,50,51,9z
+94580,2025-08-03,Ancient,4,Bounty Hunters,9z,Bounty Hunters,50,51,9z
+92504,2025-07-13,Ancient,3,ODDIK,9z,ODDIK,50,51,9z
+92504,2025-07-13,Nuke,4,9z,9z,ODDIK,50,51,9z
+92502,2025-07-13,Mirage,3,RED Canids,RED Canids,9z,75,50,RED Canids
+92502,2025-07-13,Ancient,4,9z,RED Canids,9z,75,50,9z
+92502,2025-07-13,Train,7,decider,RED Canids,9z,75,50,9z
+92494,2025-07-10,Ancient,3,Bounty Hunters,9z,Bounty Hunters,50,51,9z
+92494,2025-07-10,Dust2,4,9z,9z,Bounty Hunters,50,51,Bounty Hunters
+91830,2025-07-01,Dust2,3,9z,BESTIA,9z,53,50,9z
+91830,2025-07-01,Mirage,4,BESTIA,BESTIA,9z,53,50,BESTIA
+91830,2025-07-01,Nuke,7,decider,BESTIA,9z,53,50,BESTIA
+91825,2025-06-27,Mirage,3,Flamengo,9z,Flamengo,50,51,9z
+91825,2025-06-27,Nuke,4,9z,9z,Flamengo,50,51,9z
+91219,2025-06-25,Ancient,3,9z,9z,KRÜ,50,51,KRÜ
+91219,2025-06-25,Train,4,KRÜ,9z,KRÜ,50,51,9z
+91219,2025-06-25,Dust2,7,decider,9z,KRÜ,50,51,KRÜ
+91213,2025-06-23,Dust2,3,9z,9z,Dusty Roots,50,51,9z
+91213,2025-06-23,Inferno,4,Dusty Roots,9z,Dusty Roots,50,51,Dusty Roots
+91213,2025-06-23,Nuke,7,decider,9z,Dusty Roots,50,51,9z
+86022,2025-04-06,Nuke,3,KRÜ,9z,KRÜ,50,51,KRÜ
+86022,2025-04-06,Dust2,4,9z,9z,KRÜ,50,51,9z
+86020,2025-04-04,Inferno,3,Dusty Roots,Dusty Roots,9z,51,50,Dusty Roots
+86020,2025-04-04,Dust2,4,9z,Dusty Roots,9z,51,50,9z
+86020,2025-04-04,Nuke,7,decider,Dusty Roots,9z,51,50,Dusty Roots
+98844,2025-09-10,Inferno,3,AaB,AaB,Sashi,51,52,Sashi
+98844,2025-09-10,Nuke,4,Sashi,AaB,Sashi,51,52,Sashi
+96393,2025-08-10,Nuke,7,decider,Inner Circle,Sashi,51,52,Sashi
+94206,2025-08-05,Mirage,3,Betclic,Betclic,Sashi,51,52,Betclic
+94206,2025-08-05,Nuke,4,Sashi,Betclic,Sashi,51,52,Sashi
+94206,2025-08-05,Overpass,7,decider,Betclic,Sashi,51,52,Sashi
+94196,2025-08-02,Mirage,3,Nexus,Nexus,Sashi,51,52,Sashi
+94196,2025-08-02,Inferno,4,Sashi,Nexus,Sashi,51,52,Sashi
+94185,2025-07-31,Inferno,3,Sashi,Sashi,ARCRED,52,51,Sashi
+94185,2025-07-31,Ancient,4,ARCRED,Sashi,ARCRED,52,51,Sashi
+94180,2025-07-29,Ancient,3,9INE,9INE,Sashi,51,52,Sashi
+94180,2025-07-29,Nuke,4,Sashi,9INE,Sashi,51,52,9INE
+94180,2025-07-29,Inferno,7,decider,9INE,Sashi,51,52,9INE
+93254,2025-07-15,Nuke,3,Sashi,Sashi,TNL,52,51,Sashi
+93254,2025-07-15,Mirage,4,TNL,Sashi,TNL,52,51,Sashi
+93254,2025-07-15,Ancient,7,decider,Sashi,TNL,52,51,TNL
+90387,2025-06-16,Nuke,3,Sashi,CYBERSHOKE,Sashi,51,52,CYBERSHOKE
+90387,2025-06-16,Mirage,4,CYBERSHOKE,CYBERSHOKE,Sashi,51,52,CYBERSHOKE
+90377,2025-06-12,Anubis,3,Nexus,Sashi,Nexus,52,51,Sashi
+90377,2025-06-12,Inferno,4,Sashi,Sashi,Nexus,52,51,Sashi
+90373,2025-06-10,Ancient,3,Sashi,Iberian Soul,Sashi,51,52,Iberian Soul
+90373,2025-06-10,Inferno,4,Iberian Soul,Iberian Soul,Sashi,51,52,Iberian Soul
+90360,2025-06-06,Dust2,3,SINNERS,Sashi,SINNERS,52,74,SINNERS
+90360,2025-06-06,Train,4,Sashi,Sashi,SINNERS,52,74,Sashi
+90360,2025-06-06,Ancient,7,decider,Sashi,SINNERS,52,74,Sashi
+89511,2025-05-28,Inferno,3,Iberian Soul,Iberian Soul,Sashi,51,52,Iberian Soul
+89511,2025-05-28,Mirage,4,Sashi,Iberian Soul,Sashi,51,52,Iberian Soul
+89217,2025-05-26,Nuke,4,Sashi,Astrum,Sashi,51,52,Astrum
+89217,2025-05-26,Train,7,decider,Astrum,Sashi,51,52,Astrum
+89444,2025-05-22,Ancient,3,ECLOT,ECLOT,Sashi,51,52,ECLOT
+89444,2025-05-22,Train,4,Sashi,ECLOT,Sashi,51,52,Sashi
+89444,2025-05-22,Inferno,7,decider,ECLOT,Sashi,51,52,ECLOT
+89644,2025-05-22,Nuke,3,Sashi,FAVBET,Sashi,51,52,Sashi
+89644,2025-05-22,Anubis,4,FAVBET,FAVBET,Sashi,51,52,Sashi
+89193,2025-05-20,Train,3,Sashi,Fire Flux,Sashi,51,52,Sashi
+89193,2025-05-20,Anubis,4,Fire Flux,Fire Flux,Sashi,51,52,Fire Flux
+89193,2025-05-20,Inferno,7,decider,Fire Flux,Sashi,51,52,Sashi
+89244,2025-05-17,Anubis,3,Zero Tenacity,Zero Tenacity,Sashi,59,52,Sashi
+89244,2025-05-17,Mirage,4,Sashi,Zero Tenacity,Sashi,59,52,Zero Tenacity
+89244,2025-05-17,Nuke,7,decider,Zero Tenacity,Sashi,59,52,Zero Tenacity
+88504,2025-05-15,Mirage,3,Sashi,ECLOT,Sashi,51,52,ECLOT
+88504,2025-05-15,Ancient,4,ECLOT,ECLOT,Sashi,51,52,ECLOT
+88666,2025-05-15,Inferno,3,Sashi,Passion UA,Sashi,32,52,Passion UA
+88666,2025-05-15,Mirage,4,Passion UA,Passion UA,Sashi,32,52,Sashi
+88666,2025-05-15,Ancient,7,decider,Passion UA,Sashi,32,52,Passion UA
+88799,2025-05-14,Ancient,3,ECLOT,ECLOT,Sashi,51,52,Sashi
+88799,2025-05-14,Inferno,4,Sashi,ECLOT,Sashi,51,52,ECLOT
+88799,2025-05-14,Mirage,7,decider,ECLOT,Sashi,51,52,Sashi
+88797,2025-05-13,Inferno,3,Sashi,Passion UA,Sashi,32,52,Sashi
+88797,2025-05-13,Mirage,4,Passion UA,Passion UA,Sashi,32,52,Passion UA
+88797,2025-05-13,Anubis,7,decider,Passion UA,Sashi,32,52,Passion UA
+88848,2025-05-13,Mirage,3,CYBERSHOKE,Sashi,CYBERSHOKE,52,51,CYBERSHOKE
+88848,2025-05-13,Nuke,4,Sashi,Sashi,CYBERSHOKE,52,51,Sashi
+88848,2025-05-13,Ancient,7,decider,Sashi,CYBERSHOKE,52,51,CYBERSHOKE
+88657,2025-05-11,Mirage,3,CYBERSHOKE,CYBERSHOKE,Sashi,51,52,Sashi
+88657,2025-05-11,Nuke,4,Sashi,CYBERSHOKE,Sashi,51,52,Sashi
+88657,2025-05-11,Ancient,7,decider,CYBERSHOKE,Sashi,51,52,Sashi
+88498,2025-05-08,Nuke,3,Sashi,JANO,Sashi,51,52,JANO
+88498,2025-05-08,Train,4,JANO,JANO,Sashi,51,52,Sashi
+88498,2025-05-08,Mirage,7,decider,JANO,Sashi,51,52,Sashi
+99083,2025-09-12,Mirage,3,Keyd Stars,Keyd Stars,BESTIA,51,53,BESTIA
+99083,2025-09-12,Inferno,4,BESTIA,Keyd Stars,BESTIA,51,53,Keyd Stars
+99083,2025-09-12,Ancient,7,decider,Keyd Stars,BESTIA,51,53,BESTIA
+98668,2025-09-09,Mirage,3,Yawara,BESTIA,Yawara,53,51,Yawara
+98668,2025-09-09,Nuke,4,BESTIA,BESTIA,Yawara,53,51,BESTIA
+98668,2025-09-09,Ancient,7,decider,BESTIA,Yawara,53,51,Yawara
+97040,2025-08-30,Mirage,3,RED Canids,RED Canids,BESTIA,75,53,BESTIA
+97040,2025-08-30,Ancient,4,BESTIA,RED Canids,BESTIA,75,53,BESTIA
+97037,2025-08-27,Dust2,3,Flamengo,BESTIA,Flamengo,53,51,BESTIA
+97037,2025-08-27,Ancient,4,BESTIA,BESTIA,Flamengo,53,51,BESTIA
+96287,2025-08-16,Overpass,3,ex-W7M,BESTIA,ex-W7M,53,51,BESTIA
+96287,2025-08-16,Ancient,4,BESTIA,BESTIA,ex-W7M,53,51,ex-W7M
+96287,2025-08-16,Dust2,7,decider,BESTIA,ex-W7M,53,51,BESTIA
+96555,2025-08-15,Inferno,3,BESTIA,Sharks,BESTIA,63,53,BESTIA
+96555,2025-08-15,Mirage,4,Sharks,Sharks,BESTIA,63,53,BESTIA
+94585,2025-08-05,Dust2,3,BESTIA,BESTIA,Yawara,53,51,BESTIA
+94585,2025-08-05,Overpass,4,Yawara,BESTIA,Yawara,53,51,BESTIA
+94581,2025-08-04,Inferno,3,BESTIA,Sharks,BESTIA,63,53,BESTIA
+94581,2025-08-04,Ancient,4,Sharks,Sharks,BESTIA,63,53,BESTIA
+94576,2025-08-02,Dust2,3,2GAME,BESTIA,2GAME,53,51,BESTIA
+94576,2025-08-02,Inferno,4,BESTIA,BESTIA,2GAME,53,51,2GAME
+94576,2025-08-02,Nuke,7,decider,BESTIA,2GAME,53,51,BESTIA
+94529,2025-07-28,Mirage,3,ShindeN,BESTIA,ShindeN,53,51,ShindeN
+94529,2025-07-28,Nuke,4,BESTIA,BESTIA,ShindeN,53,51,ShindeN
+92492,2025-07-09,Nuke,3,BESTIA,BESTIA,ex-W7M,53,51,BESTIA
+92492,2025-07-09,Inferno,4,ex-W7M,BESTIA,ex-W7M,53,51,BESTIA
+92490,2025-07-08,Inferno,3,BESTIA,RED Canids,BESTIA,75,53,RED Canids
+92490,2025-07-08,Mirage,4,RED Canids,RED Canids,BESTIA,75,53,RED Canids
+92489,2025-07-08,Nuke,3,BESTIA,BESTIA,ex-W7M,53,51,BESTIA
+92489,2025-07-08,Dust2,4,ex-W7M,BESTIA,ex-W7M,53,51,BESTIA
+91225,2025-06-26,Dust2,3,2GAME,BESTIA,2GAME,53,51,2GAME
+91225,2025-06-26,Mirage,4,BESTIA,BESTIA,2GAME,53,51,2GAME
+91223,2025-06-26,Mirage,3,BESTIA,KRÜ,BESTIA,51,53,BESTIA
+91223,2025-06-26,Dust2,4,KRÜ,KRÜ,BESTIA,51,53,KRÜ
+91223,2025-06-26,Nuke,7,decider,KRÜ,BESTIA,51,53,BESTIA
+91220,2025-06-25,Ancient,3,Flamengo,BESTIA,Flamengo,53,51,BESTIA
+91220,2025-06-25,Mirage,4,BESTIA,BESTIA,Flamengo,53,51,Flamengo
+91220,2025-06-25,Nuke,7,decider,BESTIA,Flamengo,53,51,BESTIA
+86950,2025-04-17,Mirage,3,BESTIA,Sharks,BESTIA,63,53,BESTIA
+86950,2025-04-17,Nuke,4,Sharks,Sharks,BESTIA,63,53,BESTIA
+86948,2025-04-16,Inferno,3,RED Canids,BESTIA,RED Canids,53,75,BESTIA
+86948,2025-04-16,Anubis,4,BESTIA,BESTIA,RED Canids,53,75,BESTIA
+86016,2025-04-06,Dust2,3,Bounty Hunters,BESTIA,Bounty Hunters,53,51,BESTIA
+86016,2025-04-06,Anubis,4,BESTIA,BESTIA,Bounty Hunters,53,51,BESTIA
+98641,2025-09-08,Mirage,3,HOTU,HOTU,Zero Tenacity,51,59,Zero Tenacity
+98641,2025-09-08,Nuke,4,Zero Tenacity,HOTU,Zero Tenacity,51,59,HOTU
+98641,2025-09-08,Dust2,7,decider,HOTU,Zero Tenacity,51,59,Zero Tenacity
+98167,2025-09-07,Inferno,3,Zero Tenacity,FUT,Zero Tenacity,51,59,FUT
+98167,2025-09-07,Dust2,4,FUT,FUT,Zero Tenacity,51,59,Zero Tenacity
+98167,2025-09-07,Nuke,7,decider,FUT,Zero Tenacity,51,59,Zero Tenacity
+96773,2025-08-29,Dust2,3,JiJieHao,JiJieHao,Zero Tenacity,51,59,JiJieHao
+96773,2025-08-29,Mirage,4,Zero Tenacity,JiJieHao,Zero Tenacity,51,59,JiJieHao
+96759,2025-08-24,Mirage,3,Metizport,Zero Tenacity,Metizport,59,78,Zero Tenacity
+96759,2025-08-24,Nuke,4,Zero Tenacity,Zero Tenacity,Metizport,59,78,Metizport
+96759,2025-08-24,Inferno,7,decider,Zero Tenacity,Metizport,59,78,Zero Tenacity
+96751,2025-08-22,Inferno,3,Partizan,Partizan,Zero Tenacity,51,59,Partizan
+96751,2025-08-22,Nuke,4,Zero Tenacity,Partizan,Zero Tenacity,51,59,Zero Tenacity
+96751,2025-08-22,Mirage,7,decider,Partizan,Zero Tenacity,51,59,Zero Tenacity
+96736,2025-08-19,Inferno,3,FAVBET,Zero Tenacity,FAVBET,59,51,Zero Tenacity
+96736,2025-08-19,Nuke,4,Zero Tenacity,Zero Tenacity,FAVBET,59,51,Zero Tenacity
+96472,2025-08-14,Nuke,3,Zero Tenacity,Zero Tenacity,Partizan,59,51,Zero Tenacity
+96472,2025-08-14,Inferno,4,Partizan,Zero Tenacity,Partizan,59,51,Partizan
+96472,2025-08-14,Mirage,7,decider,Zero Tenacity,Partizan,59,51,Zero Tenacity
+96206,2025-08-11,Nuke,3,Zero Tenacity,Zero Tenacity,Spirit Academy,59,51,Spirit Academy
+96206,2025-08-11,Overpass,4,Spirit Academy,Zero Tenacity,Spirit Academy,59,51,Zero Tenacity
+96206,2025-08-11,Train,7,decider,Zero Tenacity,Spirit Academy,59,51,Spirit Academy
+94208,2025-08-06,Inferno,3,Zero Tenacity,Johnny Speeds,Zero Tenacity,51,59,Johnny Speeds
+94208,2025-08-06,Mirage,4,Johnny Speeds,Johnny Speeds,Zero Tenacity,51,59,Zero Tenacity
+94208,2025-08-06,Dust2,7,decider,Johnny Speeds,Zero Tenacity,51,59,Johnny Speeds
+94204,2025-08-05,Dust2,3,Zero Tenacity,9INE,Zero Tenacity,51,59,9INE
+94204,2025-08-05,Overpass,4,9INE,9INE,Zero Tenacity,51,59,9INE
+94197,2025-08-03,Nuke,3,Zero Tenacity,Sangal,Zero Tenacity,76,59,Sangal
+94197,2025-08-03,Overpass,4,Sangal,Sangal,Zero Tenacity,76,59,Zero Tenacity
+94197,2025-08-03,Mirage,7,decider,Sangal,Zero Tenacity,76,59,Zero Tenacity
+94110,2025-07-28,Inferno,3,Zero Tenacity,Zero Tenacity,SINNERS,59,74,Zero Tenacity
+94110,2025-07-28,Mirage,4,SINNERS,Zero Tenacity,SINNERS,59,74,Zero Tenacity
+94107,2025-07-26,Dust2,3,1win,1win,Zero Tenacity,51,59,Zero Tenacity
+94107,2025-07-26,Mirage,4,Zero Tenacity,1win,Zero Tenacity,51,59,1win
+94107,2025-07-26,Inferno,7,decider,1win,Zero Tenacity,51,59,Zero Tenacity
+94105,2025-07-25,Dust2,3,Zero Tenacity,Zero Tenacity,KOLESIE,59,51,Zero Tenacity
+94105,2025-07-25,Mirage,4,KOLESIE,Zero Tenacity,KOLESIE,59,51,Zero Tenacity
+92727,2025-07-09,Inferno,7,decider,Zero Tenacity,Nuclear TigeRES,59,51,Nuclear TigeRES
+90539,2025-06-18,Dust2,3,Partizan,Partizan,Zero Tenacity,51,59,Zero Tenacity
+90539,2025-06-18,Anubis,4,Zero Tenacity,Partizan,Zero Tenacity,51,59,Zero Tenacity
+90386,2025-06-16,Anubis,3,Zero Tenacity,9INE,Zero Tenacity,51,59,9INE
+90386,2025-06-16,Inferno,4,9INE,9INE,Zero Tenacity,51,59,Zero Tenacity
+90386,2025-06-16,Nuke,7,decider,9INE,Zero Tenacity,51,59,Zero Tenacity
+91007,2025-06-13,Dust2,3,Insilio,Zero Tenacity,Insilio,59,51,Zero Tenacity
+91007,2025-06-13,Anubis,4,Zero Tenacity,Zero Tenacity,Insilio,59,51,Insilio
+91007,2025-06-13,Nuke,7,decider,Zero Tenacity,Insilio,59,51,Insilio
+90521,2025-06-13,Mirage,3,ECLOT,ECLOT,Zero Tenacity,51,59,ECLOT
+90521,2025-06-13,Anubis,4,Zero Tenacity,ECLOT,Zero Tenacity,51,59,ECLOT
+90374,2025-06-11,Inferno,3,SINNERS,SINNERS,Zero Tenacity,74,59,SINNERS
+90374,2025-06-11,Anubis,4,Zero Tenacity,SINNERS,Zero Tenacity,74,59,Zero Tenacity
+90374,2025-06-11,Nuke,7,decider,SINNERS,Zero Tenacity,74,59,Zero Tenacity
+90641,2025-06-07,Nuke,3,RUSH B,Zero Tenacity,RUSH B,59,51,RUSH B
+90641,2025-06-07,Anubis,4,Zero Tenacity,Zero Tenacity,RUSH B,59,51,Zero Tenacity
+90641,2025-06-07,Mirage,7,decider,Zero Tenacity,RUSH B,59,51,RUSH B
+90364,2025-06-07,Anubis,3,Zero Tenacity,Iberian Soul,Zero Tenacity,51,59,Iberian Soul
+90364,2025-06-07,Inferno,4,Iberian Soul,Iberian Soul,Zero Tenacity,51,59,Iberian Soul
+90171,2025-06-03,Anubis,3,undeRRRated,Zero Tenacity,undeRRRated,59,51,Zero Tenacity
+90171,2025-06-03,Inferno,4,Zero Tenacity,Zero Tenacity,undeRRRated,59,51,undeRRRated
+90171,2025-06-03,Nuke,7,decider,Zero Tenacity,undeRRRated,59,51,Zero Tenacity
+89651,2025-05-26,Inferno,3,Zero Tenacity,Astrum,Zero Tenacity,51,59,Astrum
+89651,2025-05-26,Mirage,4,Astrum,Astrum,Zero Tenacity,51,59,Zero Tenacity
+89651,2025-05-26,Nuke,7,decider,Astrum,Zero Tenacity,51,59,Astrum
+89211,2025-05-24,Train,3,Astrum,Astrum,Zero Tenacity,51,59,Zero Tenacity
+89211,2025-05-24,Inferno,4,Zero Tenacity,Astrum,Zero Tenacity,51,59,Zero Tenacity
+89204,2025-05-22,Mirage,3,Delta,Delta,Zero Tenacity,51,59,Zero Tenacity
+89204,2025-05-22,Anubis,4,Zero Tenacity,Delta,Zero Tenacity,51,59,Zero Tenacity
+98682,2025-09-10,Train,3,Nocturnal,Wildcard,Nocturnal,61,51,Wildcard
+98682,2025-09-10,Mirage,4,Wildcard,Wildcard,Nocturnal,61,51,Wildcard
+98812,2025-09-07,Ancient,3,ODDIK,Wildcard,ODDIK,61,51,Wildcard
+98812,2025-09-07,Dust2,4,Wildcard,Wildcard,ODDIK,61,51,ODDIK
+98812,2025-09-07,Mirage,7,decider,Wildcard,ODDIK,61,51,Wildcard
+97947,2025-08-31,Nuke,3,Getting Info,Wildcard,Getting Info,61,51,Getting Info
+97947,2025-08-31,Overpass,4,Wildcard,Wildcard,Getting Info,61,51,Getting Info
+97872,2025-08-22,Overpass,3,Wildcard,Wildcard,Getting Info,61,51,Wildcard
+97872,2025-08-22,Ancient,4,Getting Info,Wildcard,Getting Info,61,51,Wildcard
+96919,2025-08-17,Ancient,3,Getting Info,Wildcard,Getting Info,61,51,Getting Info
+96919,2025-08-17,Nuke,4,Wildcard,Wildcard,Getting Info,61,51,Getting Info
+95186,2025-08-15,Nuke,3,Wildcard,NRG,Wildcard,51,61,NRG
+95186,2025-08-15,Train,4,NRG,NRG,Wildcard,51,61,NRG
+95181,2025-08-13,Nuke,3,Wildcard,Wildcard,Chicken Coop,61,51,Wildcard
+95181,2025-08-13,Train,4,Chicken Coop,Wildcard,Chicken Coop,61,51,Wildcard
+94749,2025-08-01,Train,3,Marsborne,Wildcard,Marsborne,61,51,Marsborne
+94749,2025-08-01,Inferno,4,Wildcard,Wildcard,Marsborne,61,51,Marsborne
+94306,2025-08-01,Nuke,3,Wildcard,Wildcard,NRG,61,51,NRG
+94306,2025-08-01,Dust2,4,NRG,Wildcard,NRG,61,51,Wildcard
+94306,2025-08-01,Overpass,7,decider,Wildcard,NRG,61,51,Wildcard
+94303,2025-07-30,Nuke,3,Wildcard,Wildcard,LAG,61,51,Wildcard
+94303,2025-07-30,Inferno,4,LAG,Wildcard,LAG,61,51,LAG
+94303,2025-07-30,Train,7,decider,Wildcard,LAG,61,51,Wildcard
+94338,2025-07-27,Dust2,3,BLUEJAYS,BLUEJAYS,Wildcard,51,61,BLUEJAYS
+94338,2025-07-27,Inferno,4,Wildcard,BLUEJAYS,Wildcard,51,61,BLUEJAYS
+94336,2025-07-27,Dust2,3,MIGHT,Wildcard,MIGHT,61,51,Wildcard
+94336,2025-07-27,Ancient,4,Wildcard,Wildcard,MIGHT,61,51,Wildcard
+88632,2025-05-15,Dust2,3,anything else,Wildcard,anything else,61,51,Wildcard
+88632,2025-05-15,Nuke,4,Wildcard,Wildcard,anything else,61,51,Wildcard
+87506,2025-04-25,Nuke,3,Wildcard,Wildcard,500,61,51,Wildcard
+87506,2025-04-25,Anubis,4,500,Wildcard,500,61,51,Wildcard
+86963,2025-04-16,Dust2,3,NRG,Wildcard,NRG,61,51,NRG
+86963,2025-04-16,Inferno,4,Wildcard,Wildcard,NRG,61,51,Wildcard
+86963,2025-04-16,Anubis,7,decider,Wildcard,NRG,61,51,Wildcard
+98871,2025-09-11,Mirage,3,Sharks,GameHunters,Sharks,51,63,Sharks
+98871,2025-09-11,Inferno,4,GameHunters,GameHunters,Sharks,51,63,Sharks
+98862,2025-09-10,Inferno,3,Crashers,Sharks,Crashers,63,51,Sharks
+98862,2025-09-10,Train,4,Sharks,Sharks,Crashers,63,51,Sharks
+96297,2025-08-18,Nuke,3,Sharks,2GAME,Sharks,51,63,Sharks
+96297,2025-08-18,Mirage,4,2GAME,2GAME,Sharks,51,63,Sharks
+96293,2025-08-17,Nuke,3,Sharks,Sharks,Bounty Hunters,63,51,Sharks
+96293,2025-08-17,Mirage,4,Bounty Hunters,Sharks,Bounty Hunters,63,51,Sharks
+94971,2025-08-14,Inferno,3,Sharks,Sharks,RED Canids,63,75,Sharks
+94971,2025-08-14,Mirage,4,RED Canids,Sharks,RED Canids,63,75,RED Canids
+94971,2025-08-14,Nuke,7,decider,Sharks,RED Canids,63,75,Sharks
+94968,2025-08-13,Nuke,3,ODDIK,Sharks,ODDIK,63,51,ODDIK
+94968,2025-08-13,Ancient,4,Sharks,Sharks,ODDIK,63,51,ODDIK
+96279,2025-08-12,Overpass,3,GameHunters,Sharks,GameHunters,63,51,Sharks
+96279,2025-08-12,Inferno,4,Sharks,Sharks,GameHunters,63,51,Sharks
+94573,2025-08-02,Ancient,3,Sharks,Sharks,Dusty Roots,63,51,Sharks
+94573,2025-08-02,Inferno,4,Dusty Roots,Sharks,Dusty Roots,63,51,Sharks
+92498,2025-07-12,Train,3,Sharks,Sharks,RED Canids,63,75,RED Canids
+92498,2025-07-12,Mirage,4,RED Canids,Sharks,RED Canids,63,75,Sharks
+92498,2025-07-12,Inferno,7,decider,Sharks,RED Canids,63,75,RED Canids
+92632,2025-07-08,Inferno,3,Keyd Stars,Sharks,Keyd Stars,63,51,Sharks
+92632,2025-07-08,Train,4,Sharks,Sharks,Keyd Stars,63,51,Sharks
+92610,2025-07-08,Ancient,4,Sharks,Sharks,Crashers,63,51,Sharks
+91218,2025-06-24,Inferno,3,LP,Sharks,LP,63,51,LP
+91218,2025-06-24,Ancient,4,Sharks,Sharks,LP,63,51,LP
+89953,2025-06-14,Mirage,3,RED Canids,RED Canids,Sharks,75,63,Sharks
+89953,2025-06-14,Nuke,4,Sharks,RED Canids,Sharks,75,63,Sharks
+89953,2025-06-14,Train,5,RED Canids,RED Canids,Sharks,75,63,Sharks
+89952,2025-05-25,Train,3,W7M,Sharks,W7M,63,51,Sharks
+89952,2025-05-25,Nuke,4,Sharks,Sharks,W7M,63,51,Sharks
+89915,2025-05-24,Inferno,3,América,Sharks,América,63,51,Sharks
+89915,2025-05-24,Ancient,4,Sharks,Sharks,América,63,51,Sharks
+87804,2025-05-09,Ancient,3,Bounty Hunters,Bounty Hunters,Sharks,51,63,Sharks
+87804,2025-05-09,Nuke,4,Sharks,Bounty Hunters,Sharks,51,63,Bounty Hunters
+87970,2025-04-27,Nuke,3,Sharks,BLUEJAYS,Sharks,51,63,Sharks
+87970,2025-04-27,Train,4,BLUEJAYS,BLUEJAYS,Sharks,51,63,BLUEJAYS
+87970,2025-04-27,Ancient,7,decider,BLUEJAYS,Sharks,51,63,Sharks
+86937,2025-04-15,Mirage,3,Solid,Sharks,Solid,63,51,Sharks
+86937,2025-04-15,Nuke,4,Sharks,Sharks,Solid,63,51,Sharks
+86937,2025-04-15,Anubis,7,decider,Sharks,Solid,63,51,Sharks
+97932,2025-09-12,Overpass,3,ECLOT,SINNERS,ECLOT,74,51,SINNERS
+97932,2025-09-12,Dust2,4,SINNERS,SINNERS,ECLOT,74,51,ECLOT
+97932,2025-09-12,Inferno,7,decider,SINNERS,ECLOT,74,51,ECLOT
+98752,2025-09-11,Nuke,3,SINNERS,Famalicão,SINNERS,51,74,SINNERS
+98752,2025-09-11,Dust2,4,Famalicão,Famalicão,SINNERS,51,74,SINNERS
+98637,2025-09-08,Dust2,3,FORZE Reload,SINNERS,FORZE Reload,74,51,FORZE Reload
+98637,2025-09-08,Nuke,4,SINNERS,SINNERS,FORZE Reload,74,51,FORZE Reload
+96429,2025-08-18,Mirage,3,SINNERS,Eternal Fire,SINNERS,87,74,SINNERS
+96429,2025-08-18,Dust2,4,Eternal Fire,Eternal Fire,SINNERS,87,74,Eternal Fire
+96429,2025-08-18,Inferno,7,decider,Eternal Fire,SINNERS,87,74,Eternal Fire
+96422,2025-08-17,Dust2,3,Leo,Leo,SINNERS,51,74,SINNERS
+96422,2025-08-17,Inferno,4,SINNERS,Leo,SINNERS,51,74,SINNERS
+96421,2025-08-16,Dust2,3,Betera,SINNERS,Betera,74,51,Betera
+96421,2025-08-16,Nuke,4,SINNERS,SINNERS,Betera,74,51,Betera
+96418,2025-08-15,Ancient,3,Leo,SINNERS,Leo,74,51,SINNERS
+96418,2025-08-15,Inferno,4,SINNERS,SINNERS,Leo,74,51,SINNERS
+94902,2025-08-14,Overpass,3,500,500,SINNERS,51,74,SINNERS
+94902,2025-08-14,Nuke,4,SINNERS,500,SINNERS,51,74,SINNERS
+94894,2025-08-12,Dust2,3,Alliance,Alliance,SINNERS,51,74,Alliance
+94894,2025-08-12,Nuke,4,SINNERS,Alliance,SINNERS,51,74,SINNERS
+94894,2025-08-12,Overpass,7,decider,Alliance,SINNERS,51,74,SINNERS
+94886,2025-08-09,Nuke,3,SINNERS,Metizport,SINNERS,78,74,SINNERS
+94886,2025-08-09,Overpass,4,Metizport,Metizport,SINNERS,78,74,SINNERS
+94885,2025-08-09,Overpass,3,RUBY,SINNERS,RUBY,74,51,SINNERS
+94885,2025-08-09,Mirage,4,SINNERS,SINNERS,RUBY,74,51,RUBY
+94885,2025-08-09,Nuke,7,decider,SINNERS,RUBY,74,51,SINNERS
+94098,2025-07-27,Ancient,3,ex-SABRE,ex-SABRE,SINNERS,51,74,SINNERS
+94098,2025-07-27,Mirage,4,SINNERS,ex-SABRE,SINNERS,51,74,SINNERS
+94097,2025-07-24,Mirage,3,SINNERS,SINNERS,SENZA,74,51,SINNERS
+94097,2025-07-24,Dust2,4,unknown,SINNERS,SENZA,74,51,SENZA
+94097,2025-07-24,Ancient,7,decider,SINNERS,SENZA,74,51,SENZA
+94094,2025-07-23,Mirage,3,SINNERS,SINNERS,ex-SABRE,74,51,SINNERS
+94094,2025-07-23,Ancient,4,ex-SABRE,SINNERS,ex-SABRE,74,51,SINNERS
+90379,2025-06-13,Inferno,3,SINNERS,SINNERS,ECLOT,74,51,ECLOT
+90379,2025-06-13,Ancient,4,ECLOT,SINNERS,ECLOT,74,51,ECLOT
+90379,2025-06-13,Anubis,7,decider,SINNERS,ECLOT,74,51,ECLOT
+89515,2025-05-30,Inferno,3,SINNERS,SINNERS,Nexus,74,51,SINNERS
+89515,2025-05-30,Mirage,4,Nexus,SINNERS,Nexus,74,51,Nexus
+89515,2025-05-30,Nuke,7,decider,SINNERS,Nexus,74,51,Nexus
+89512,2025-05-29,Inferno,3,SINNERS,SINNERS,9INE,74,51,SINNERS
+89512,2025-05-29,Train,4,9INE,SINNERS,9INE,74,51,SINNERS
+89867,2025-05-26,Mirage,3,SPARTA,SINNERS,SPARTA,74,51,SPARTA
+89867,2025-05-26,Train,4,SINNERS,SINNERS,SPARTA,74,51,SPARTA
+89443,2025-05-22,Anubis,3,Zero Tenacity,SINNERS,Zero Tenacity,74,59,Zero Tenacity
+89443,2025-05-22,Inferno,4,SINNERS,SINNERS,Zero Tenacity,74,59,SINNERS
+89443,2025-05-22,Mirage,7,decider,SINNERS,Zero Tenacity,74,59,SINNERS
+89632,2025-05-19,Train,3,Monte,SINNERS,Monte,74,44,SINNERS
+89632,2025-05-19,Anubis,4,SINNERS,SINNERS,Monte,74,44,Monte
+89632,2025-05-19,Nuke,7,decider,SINNERS,Monte,74,44,SINNERS
+88669,2025-05-15,Nuke,3,RUSH B,SINNERS,RUSH B,74,51,RUSH B
+88669,2025-05-15,Train,4,SINNERS,SINNERS,RUSH B,74,51,RUSH B
+88852,2025-05-13,Mirage,3,Sangal,SINNERS,Sangal,74,76,SINNERS
+88852,2025-05-13,Inferno,4,SINNERS,SINNERS,Sangal,74,76,SINNERS
+87762,2025-05-10,Ancient,3,PARIVISION,SINNERS,PARIVISION,74,35,PARIVISION
+87762,2025-05-10,Inferno,4,SINNERS,SINNERS,PARIVISION,74,35,PARIVISION
+88216,2025-05-10,Train,3,SINNERS,SINNERS,FAVBET,74,51,FAVBET
+88216,2025-05-10,Inferno,4,FAVBET,SINNERS,FAVBET,74,51,FAVBET
+88208,2025-05-08,Nuke,3,Zero Tenacity,SINNERS,Zero Tenacity,74,59,Zero Tenacity
+88208,2025-05-08,Mirage,4,SINNERS,SINNERS,Zero Tenacity,74,59,Zero Tenacity
+98867,2025-09-11,Train,3,RED Canids,RED Canids,ODDIK,75,51,ODDIK
+98867,2025-09-11,Ancient,4,ODDIK,RED Canids,ODDIK,75,51,RED Canids
+98867,2025-09-11,Nuke,7,decider,RED Canids,ODDIK,75,51,RED Canids
+96292,2025-08-17,Inferno,3,RED Canids,RED Canids,Flamengo,75,51,Flamengo
+96292,2025-08-17,Overpass,4,Flamengo,RED Canids,Flamengo,75,51,RED Canids
+96292,2025-08-17,Mirage,7,decider,RED Canids,Flamengo,75,51,Flamengo
+96276,2025-08-12,Ancient,3,Galorys,RED Canids,Galorys,75,51,Galorys
+96276,2025-08-12,Mirage,4,RED Canids,RED Canids,Galorys,75,51,RED Canids
+94577,2025-08-03,Overpass,3,RED Canids,Keyd Stars,RED Canids,51,75,Keyd Stars
+94577,2025-08-03,Inferno,4,Keyd Stars,Keyd Stars,RED Canids,51,75,RED Canids
+94577,2025-08-03,Mirage,7,decider,Keyd Stars,RED Canids,51,75,RED Canids
+94151,2025-07-29,Mirage,3,RED Canids,RED Canids,GameHunters,75,51,RED Canids
+94151,2025-07-29,Nuke,4,GameHunters,RED Canids,GameHunters,75,51,RED Canids
+94144,2025-07-27,Inferno,3,Crashers,RED Canids,Crashers,75,51,RED Canids
+94144,2025-07-27,Nuke,4,RED Canids,RED Canids,Crashers,75,51,RED Canids
+94131,2025-07-24,Overpass,3,MIBR Academy,RED Canids,MIBR Academy,75,51,RED Canids
+94131,2025-07-24,Nuke,4,RED Canids,RED Canids,MIBR Academy,75,51,RED Canids
+92658,2025-07-10,Nuke,3,RED Canids,RED Canids,SELVA,75,51,SELVA
+92658,2025-07-10,Anubis,4,SELVA,RED Canids,SELVA,75,51,RED Canids
+92658,2025-07-10,Mirage,7,decider,RED Canids,SELVA,75,51,SELVA
+92488,2025-07-08,Ancient,3,SELVA,SELVA,RED Canids,51,75,RED Canids
+92488,2025-07-08,Nuke,4,RED Canids,SELVA,RED Canids,51,75,RED Canids
+91828,2025-07-01,Nuke,3,RED Canids,ODDIK,RED Canids,51,75,ODDIK
+91828,2025-07-01,Ancient,4,ODDIK,ODDIK,RED Canids,51,75,ODDIK
+91820,2025-06-29,Anubis,3,ex-W7M,ex-W7M,RED Canids,51,75,ex-W7M
+91820,2025-06-29,Nuke,4,RED Canids,ex-W7M,RED Canids,51,75,RED Canids
+91820,2025-06-29,Train,7,decider,ex-W7M,RED Canids,51,75,RED Canids
+91819,2025-06-29,Mirage,3,Bounty Hunters,RED Canids,Bounty Hunters,75,51,RED Canids
+91819,2025-06-29,Train,4,RED Canids,RED Canids,Bounty Hunters,75,51,Bounty Hunters
+91819,2025-06-29,Nuke,7,decider,RED Canids,Bounty Hunters,75,51,RED Canids
+91224,2025-06-26,Anubis,3,2GAME,2GAME,RED Canids,51,75,2GAME
+91224,2025-06-26,Mirage,4,RED Canids,2GAME,RED Canids,51,75,RED Canids
+91224,2025-06-26,Nuke,7,decider,2GAME,RED Canids,51,75,2GAME
+91222,2025-06-25,Train,3,RED Canids,RED Canids,Bounty Hunters,75,51,RED Canids
+91222,2025-06-25,Mirage,4,Bounty Hunters,RED Canids,Bounty Hunters,75,51,RED Canids
+91211,2025-06-23,Nuke,3,GameHunters,RED Canids,GameHunters,75,51,RED Canids
+91211,2025-06-23,Mirage,4,RED Canids,RED Canids,GameHunters,75,51,RED Canids
+89951,2025-05-25,Ancient,3,Flamengo,Flamengo,RED Canids,51,75,RED Canids
+89951,2025-05-25,Nuke,4,RED Canids,Flamengo,RED Canids,51,75,RED Canids
+89916,2025-05-24,Nuke,3,RED Canids,2GAME,RED Canids,51,75,2GAME
+89916,2025-05-24,Train,4,2GAME,2GAME,RED Canids,51,75,RED Canids
+89916,2025-05-24,Mirage,7,decider,2GAME,RED Canids,51,75,RED Canids
+87800,2025-05-07,Dust2,3,GameHunters,RED Canids,GameHunters,75,51,GameHunters
+87800,2025-05-07,Mirage,4,RED Canids,RED Canids,GameHunters,75,51,RED Canids
+87800,2025-05-07,Anubis,7,decider,RED Canids,GameHunters,75,51,GameHunters
+99025,2025-09-12,Train,3,Johnny Speeds,Johnny Speeds,Sangal,51,76,Sangal
+99025,2025-09-12,Nuke,4,Sangal,Johnny Speeds,Sangal,51,76,Sangal
+98856,2025-09-11,Overpass,3,Sangal,Sangal,Venom,76,51,Sangal
+98856,2025-09-11,Ancient,4,Venom,Sangal,Venom,76,51,Sangal
+97323,2025-09-01,Train,3,TPuDCATb TPu,Sangal,TPuDCATb TPu,76,51,TPuDCATb TPu
+97323,2025-09-01,Mirage,4,Sangal,Sangal,TPuDCATb TPu,76,51,TPuDCATb TPu
+97311,2025-08-28,Inferno,3,1win,Sangal,1win,76,51,1win
+97311,2025-08-28,Overpass,4,Sangal,Sangal,1win,76,51,Sangal
+97311,2025-08-28,Mirage,7,decider,Sangal,1win,76,51,Sangal
+97151,2025-08-24,Ancient,3,Nuclear TigeRES,Sangal,Nuclear TigeRES,76,51,Nuclear TigeRES
+97151,2025-08-24,Nuke,4,Sangal,Sangal,Nuclear TigeRES,76,51,Nuclear TigeRES
+97139,2025-08-20,Ancient,3,AMKAL,Sangal,AMKAL,76,51,Sangal
+97139,2025-08-20,Overpass,4,Sangal,Sangal,AMKAL,76,51,Sangal
+95015,2025-08-17,Mirage,3,Nexus,Sangal,Nexus,76,51,Sangal
+95015,2025-08-17,Inferno,4,Sangal,Sangal,Nexus,76,51,Nexus
+95015,2025-08-17,Nuke,7,decider,Sangal,Nexus,76,51,Nexus
+95010,2025-08-15,Mirage,3,ARCRED,ARCRED,Sangal,51,76,ARCRED
+95010,2025-08-15,Inferno,4,Sangal,ARCRED,Sangal,51,76,Sangal
+95010,2025-08-15,Train,7,decider,ARCRED,Sangal,51,76,ARCRED
+95002,2025-08-13,Overpass,3,Sangal,Sangal,Metizport,76,78,Sangal
+95002,2025-08-13,Mirage,4,Metizport,Sangal,Metizport,76,78,Sangal
+96202,2025-08-11,Inferno,3,Alliance,Alliance,Sangal,51,76,Alliance
+96202,2025-08-11,Overpass,4,Sangal,Alliance,Sangal,51,76,Sangal
+96202,2025-08-11,Train,7,decider,Alliance,Sangal,51,76,Alliance
+94992,2025-08-11,Overpass,3,Sangal,Sangal,Tricked,76,51,Sangal
+94992,2025-08-11,Inferno,4,Tricked,Sangal,Tricked,76,51,Tricked
+94992,2025-08-11,Ancient,7,decider,Sangal,Tricked,76,51,Tricked
+96394,2025-08-10,Overpass,7,decider,AMKAL,Sangal,51,76,Sangal
+94201,2025-08-04,Overpass,3,Sangal,Sangal,ARCRED,76,51,Sangal
+94201,2025-08-04,Train,4,ARCRED,Sangal,ARCRED,76,51,ARCRED
+94201,2025-08-04,Ancient,7,decider,Sangal,ARCRED,76,51,Sangal
+94189,2025-08-01,Overpass,3,Sangal,Sangal,CYBERSHOKE,76,51,Sangal
+94189,2025-08-01,Mirage,4,CYBERSHOKE,Sangal,CYBERSHOKE,76,51,CYBERSHOKE
+94189,2025-08-01,Nuke,7,decider,Sangal,CYBERSHOKE,76,51,CYBERSHOKE
+93054,2025-07-20,Ancient,3,GUN5,Sangal,GUN5,76,88,GUN5
+93054,2025-07-20,Mirage,4,Sangal,Sangal,GUN5,76,88,GUN5
+92909,2025-07-14,Ancient,3,m1x,Sangal,m1x,76,51,m1x
+92909,2025-07-14,Train,4,Sangal,Sangal,m1x,76,51,Sangal
+92909,2025-07-14,Mirage,7,decider,Sangal,m1x,76,51,Sangal
+89870,2025-05-28,Mirage,3,Sangal,Iberian Soul,Sangal,51,76,Sangal
+89870,2025-05-28,Inferno,4,Iberian Soul,Iberian Soul,Sangal,51,76,Iberian Soul
+89870,2025-05-28,Anubis,7,decider,Iberian Soul,Sangal,51,76,Iberian Soul
+89202,2025-05-22,Inferno,3,ECLOT,ECLOT,Sangal,51,76,ECLOT
+89202,2025-05-22,Train,4,Sangal,ECLOT,Sangal,51,76,Sangal
+89202,2025-05-22,Mirage,7,decider,ECLOT,Sangal,51,76,Sangal
+89196,2025-05-20,Nuke,3,Sangal,CYBERSHOKE,Sangal,51,76,Sangal
+89196,2025-05-20,Anubis,4,CYBERSHOKE,CYBERSHOKE,Sangal,51,76,CYBERSHOKE
+89196,2025-05-20,Dust2,7,decider,CYBERSHOKE,Sangal,51,76,CYBERSHOKE
+89189,2025-05-20,Train,3,Sangal,RUSH B,Sangal,51,76,RUSH B
+89189,2025-05-20,Nuke,4,RUSH B,RUSH B,Sangal,51,76,RUSH B
+89631,2025-05-19,Nuke,3,Sangal,Hesta,Sangal,51,76,Sangal
+89631,2025-05-19,Dust2,4,Hesta,Hesta,Sangal,51,76,Hesta
+89631,2025-05-19,Mirage,7,decider,Hesta,Sangal,51,76,Sangal
+89003,2025-05-19,Anubis,3,Sangal,RUSH B,Sangal,51,76,RUSH B
+89003,2025-05-19,Inferno,4,RUSH B,RUSH B,Sangal,51,76,Sangal
+89003,2025-05-19,Nuke,7,decider,RUSH B,Sangal,51,76,Sangal
+88801,2025-05-14,Inferno,3,AMKAL,AMKAL,Sangal,51,76,AMKAL
+88801,2025-05-14,Mirage,4,Sangal,AMKAL,Sangal,51,76,AMKAL
+88988,2025-05-14,Nuke,3,TNL,Sangal,TNL,76,51,TNL
+88988,2025-05-14,Anubis,4,Sangal,Sangal,TNL,76,51,TNL
+88793,2025-05-12,Nuke,3,Sangal,500,Sangal,51,76,Sangal
+88793,2025-05-12,Inferno,4,500,500,Sangal,51,76,500
+88793,2025-05-12,Anubis,7,decider,500,Sangal,51,76,500
+88433,2025-05-09,Train,3,Sangal,RUBY,Sangal,51,76,Sangal
+88433,2025-05-09,Nuke,4,RUBY,RUBY,Sangal,51,76,RUBY
+88426,2025-05-07,Anubis,3,Sangal,FAVBET,Sangal,51,76,FAVBET
+88426,2025-05-07,Inferno,4,FAVBET,FAVBET,Sangal,51,76,FAVBET
+88401,2025-05-06,Nuke,3,Sangal,ENCE,Sangal,29,76,Sangal
+88401,2025-05-06,Mirage,4,ENCE,ENCE,Sangal,29,76,Sangal
+88143,2025-05-06,Nuke,3,Sangal,ECLOT,Sangal,51,76,ECLOT
+88143,2025-05-06,Inferno,4,ECLOT,ECLOT,Sangal,51,76,ECLOT
+98750,2025-09-11,Dust2,3,AMKAL,AMKAL,Metizport,51,78,Metizport
+98750,2025-09-11,Overpass,4,Metizport,AMKAL,Metizport,51,78,AMKAL
+98750,2025-09-11,Mirage,7,decider,AMKAL,Metizport,51,78,AMKAL
+98845,2025-09-10,Overpass,3,Metizport,Betclic,Metizport,51,78,Metizport
+98845,2025-09-10,Ancient,4,Betclic,Betclic,Metizport,51,78,Betclic
+98845,2025-09-10,Nuke,7,decider,Betclic,Metizport,51,78,Betclic
+98635,2025-09-07,Ancient,3,HAWAII,Metizport,HAWAII,78,51,Metizport
+98635,2025-09-07,Overpass,4,Metizport,Metizport,HAWAII,78,51,Metizport
+96765,2025-08-26,Overpass,3,Metizport,Metizport,SPARTA,78,51,Metizport
+96765,2025-08-26,Nuke,4,SPARTA,Metizport,SPARTA,78,51,Metizport
+95017,2025-08-17,Dust2,3,JiJieHao,JiJieHao,Metizport,51,78,JiJieHao
+95017,2025-08-17,Mirage,4,Metizport,JiJieHao,Metizport,51,78,Metizport
+95017,2025-08-17,Ancient,7,decider,JiJieHao,Metizport,51,78,JiJieHao
+95006,2025-08-14,Inferno,3,ECLOT,ECLOT,Metizport,51,78,Metizport
+95006,2025-08-14,Mirage,4,Metizport,ECLOT,Metizport,51,78,Metizport
+94995,2025-08-11,Overpass,3,Metizport,HOTU,Metizport,51,78,HOTU
+94995,2025-08-11,Dust2,4,HOTU,HOTU,Metizport,51,78,HOTU
+94888,2025-08-10,Overpass,3,Metizport,Metizport,SPARTA,78,51,Metizport
+94888,2025-08-10,Nuke,4,SPARTA,Metizport,SPARTA,78,51,SPARTA
+94888,2025-08-10,Mirage,7,decider,Metizport,SPARTA,78,51,SPARTA
+94884,2025-08-09,Overpass,3,Metizport,Metizport,SPARTA,78,51,Metizport
+94884,2025-08-09,Mirage,4,SPARTA,Metizport,SPARTA,78,51,Metizport
+93051,2025-07-18,Inferno,3,Partizan,Metizport,Partizan,78,51,Partizan
+93051,2025-07-18,Ancient,4,Metizport,Metizport,Partizan,78,51,Metizport
+93051,2025-07-18,Mirage,7,decider,Metizport,Partizan,78,51,Partizan
+93049,2025-07-17,Dust2,3,RUBY,Metizport,RUBY,78,51,RUBY
+93049,2025-07-17,Mirage,4,Metizport,Metizport,RUBY,78,51,RUBY
+87777,2025-05-10,Inferno,3,Alliance,Metizport,Alliance,78,51,Alliance
+87777,2025-05-10,Nuke,4,Metizport,Metizport,Alliance,78,51,Metizport
+87777,2025-05-10,Ancient,7,decider,Metizport,Alliance,78,51,Alliance
+87957,2025-05-04,Mirage,3,Astrum,Metizport,Astrum,78,51,Astrum
+87957,2025-05-04,Ancient,4,Metizport,Metizport,Astrum,78,51,Astrum
+87581,2025-04-28,Nuke,3,Metizport,Metizport,TNL,78,51,TNL
+87581,2025-04-28,Ancient,4,TNL,Metizport,TNL,78,51,TNL
+87769,2025-04-26,Ancient,3,Northern Lights,Northern Lights,Metizport,51,78,Metizport
+87769,2025-04-26,Anubis,4,Metizport,Northern Lights,Metizport,51,78,Northern Lights
+87769,2025-04-26,Inferno,7,decider,Northern Lights,Metizport,51,78,Metizport
+87768,2025-04-26,Ancient,7,decider,Metizport,Viperio,78,51,Metizport
+87574,2025-04-26,Anubis,3,CYBERSHOKE,Metizport,CYBERSHOKE,78,51,Metizport
+87574,2025-04-26,Nuke,4,Metizport,Metizport,CYBERSHOKE,78,51,Metizport
+87075,2025-04-18,Nuke,7,decider,Metizport,Nexus,78,51,Nexus
+87072,2025-04-18,Nuke,7,decider,ENCE,Metizport,29,78,Metizport
+87070,2025-04-18,Anubis,7,decider,Metizport,Spirit Academy,78,51,Spirit Academy
+87064,2025-04-17,Anubis,7,decider,Metizport,GTZ,78,51,GTZ
+86887,2025-04-14,Mirage,7,decider,BC.Game,Metizport,51,78,Metizport
+85900,2025-04-03,Mirage,7,decider,Metizport,Imperial Valkyries,78,51,Metizport
+85895,2025-04-02,Anubis,7,decider,Complexity,Metizport,51,78,Complexity
+98729,2025-09-12,Mirage,3,Eternal Fire,Eternal Fire,FORZE Reload,87,51,Eternal Fire
+98729,2025-09-12,Train,4,FORZE Reload,Eternal Fire,FORZE Reload,87,51,Eternal Fire
+98583,2025-09-12,Dust2,3,HOTU,HOTU,Eternal Fire,51,87,HOTU
+98583,2025-09-12,Train,4,Eternal Fire,HOTU,Eternal Fire,51,87,HOTU
+98728,2025-09-10,Dust2,3,3DMAX Academy,Eternal Fire,3DMAX Academy,87,51,Eternal Fire
+98728,2025-09-10,Mirage,4,Eternal Fire,Eternal Fire,3DMAX Academy,87,51,Eternal Fire
+98746,2025-09-10,Inferno,3,AaB,AaB,Eternal Fire,51,87,AaB
+98746,2025-09-10,Overpass,4,Eternal Fire,AaB,Eternal Fire,51,87,Eternal Fire
+98746,2025-09-10,Mirage,7,decider,AaB,Eternal Fire,51,87,Eternal Fire
+98572,2025-09-09,Nuke,3,Eternal Fire,Partizan,Eternal Fire,51,87,Partizan
+98572,2025-09-09,Dust2,4,Partizan,Partizan,Eternal Fire,51,87,Eternal Fire
+98572,2025-09-09,Mirage,7,decider,Partizan,Eternal Fire,51,87,Eternal Fire
+98725,2025-09-09,Nuke,3,Eternal Fire,Eternal Fire,FORZE Reload,87,51,Eternal Fire
+98725,2025-09-09,Train,4,FORZE Reload,Eternal Fire,FORZE Reload,87,51,FORZE Reload
+98725,2025-09-09,Overpass,7,decider,Eternal Fire,FORZE Reload,87,51,FORZE Reload
+98270,2025-09-08,Overpass,3,Eternal Fire,Eternal Fire,kONO,87,51,Eternal Fire
+98270,2025-09-08,Dust2,4,kONO,Eternal Fire,kONO,87,51,kONO
+98270,2025-09-08,Nuke,7,decider,Eternal Fire,kONO,87,51,Eternal Fire
+98633,2025-09-06,Dust2,3,SENZA,SENZA,Eternal Fire,51,87,SENZA
+98633,2025-09-06,Inferno,4,Eternal Fire,SENZA,Eternal Fire,51,87,SENZA
+98265,2025-09-05,Overpass,3,Eternal Fire,Eternal Fire,1win,87,51,Eternal Fire
+98265,2025-09-05,Dust2,4,1win,Eternal Fire,1win,87,51,1win
+98265,2025-09-05,Inferno,7,decider,Eternal Fire,1win,87,51,Eternal Fire
+97486,2025-09-04,Inferno,3,Rhyno,Eternal Fire,Rhyno,87,51,Eternal Fire
+97486,2025-09-04,Mirage,4,Eternal Fire,Eternal Fire,Rhyno,87,51,Eternal Fire
+97428,2025-08-29,Mirage,3,Eternal Fire,Eternal Fire,KHAN,87,51,Eternal Fire
+97428,2025-08-29,Train,4,KHAN,Eternal Fire,KHAN,87,51,Eternal Fire
+96760,2025-08-25,Inferno,3,Tricked,Tricked,Eternal Fire,51,87,Tricked
+96760,2025-08-25,Dust2,4,Eternal Fire,Tricked,Eternal Fire,51,87,Tricked
+97425,2025-08-25,Inferno,3,NIP Impact,Eternal Fire,NIP Impact,87,51,Eternal Fire
+97425,2025-08-25,Dust2,4,Eternal Fire,Eternal Fire,NIP Impact,87,51,Eternal Fire
+96756,2025-08-24,Mirage,3,Betclic,Betclic,Eternal Fire,51,87,Betclic
+96756,2025-08-24,Overpass,4,Eternal Fire,Betclic,Eternal Fire,51,87,Betclic
+96746,2025-08-21,Inferno,3,500,500,Eternal Fire,51,87,Eternal Fire
+96746,2025-08-21,Nuke,4,Eternal Fire,500,Eternal Fire,51,87,Eternal Fire
+96740,2025-08-20,Nuke,3,Eternal Fire,CYBERSHOKE,Eternal Fire,51,87,CYBERSHOKE
+96740,2025-08-20,Dust2,4,CYBERSHOKE,CYBERSHOKE,Eternal Fire,51,87,CYBERSHOKE
+95087,2025-08-15,Inferno,3,Eternal Fire,Eternal Fire,WOPA,87,51,Eternal Fire
+95087,2025-08-15,Train,4,WOPA,Eternal Fire,WOPA,87,51,WOPA
+95087,2025-08-15,Mirage,7,decider,Eternal Fire,WOPA,87,51,WOPA
+96416,2025-08-14,Nuke,3,Eternal Fire,Imperial Valkyries,Eternal Fire,51,87,Eternal Fire
+96416,2025-08-14,Mirage,4,Imperial Valkyries,Imperial Valkyries,Eternal Fire,51,87,Eternal Fire
+96414,2025-08-13,Overpass,3,Eternal Fire,Eternal Fire,HEROIC Academy,87,51,Eternal Fire
+96414,2025-08-13,Nuke,4,HEROIC Academy,Eternal Fire,HEROIC Academy,87,51,Eternal Fire
+94883,2025-08-10,Train,3,FAVBET,Eternal Fire,FAVBET,87,51,FAVBET
+94883,2025-08-10,Overpass,4,Eternal Fire,Eternal Fire,FAVBET,87,51,Eternal Fire
+94883,2025-08-10,Inferno,7,decider,Eternal Fire,FAVBET,87,51,FAVBET
+94881,2025-08-08,Nuke,3,Reason,Reason,Eternal Fire,51,87,Reason
+94881,2025-08-08,Overpass,4,Eternal Fire,Reason,Eternal Fire,51,87,Reason
+94572,2025-08-05,Overpass,3,Eternal Fire,Eternal Fire,Volt,87,51,Volt
+94572,2025-08-05,Inferno,4,Volt,Eternal Fire,Volt,87,51,Eternal Fire
+94572,2025-08-05,Train,7,decider,Eternal Fire,Volt,87,51,Volt
+94570,2025-08-04,Dust2,3,MANA,Eternal Fire,MANA,87,51,MANA
+94570,2025-08-04,Overpass,4,Eternal Fire,Eternal Fire,MANA,87,51,Eternal Fire
+94570,2025-08-04,Mirage,7,decider,Eternal Fire,MANA,87,51,Eternal Fire
+94559,2025-07-29,Overpass,3,Eternal Fire,Eternal Fire,AaB,87,51,Eternal Fire
+94559,2025-07-29,Inferno,4,AaB,Eternal Fire,AaB,87,51,Eternal Fire
+94093,2025-07-27,Dust2,3,Eternal Fire,Eternal Fire,TPuDCATb TPu,87,51,TPuDCATb TPu
+94093,2025-07-27,Nuke,4,TPuDCATb TPu,Eternal Fire,TPuDCATb TPu,87,51,TPuDCATb TPu
+94091,2025-07-24,Overpass,3,Eternal Fire,Eternal Fire,NIP Impact,87,51,Eternal Fire
+94091,2025-07-24,Inferno,4,NIP Impact,Eternal Fire,NIP Impact,87,51,NIP Impact
+94091,2025-07-24,Mirage,7,decider,Eternal Fire,NIP Impact,87,51,Eternal Fire
+94089,2025-07-23,Dust2,3,Eternal Fire,TPuDCATb TPu,Eternal Fire,51,87,TPuDCATb TPu
+94089,2025-07-23,Nuke,4,TPuDCATb TPu,TPuDCATb TPu,Eternal Fire,51,87,TPuDCATb TPu
+91612,2025-06-23,Ancient,3,RUSTEC,RUSTEC,Eternal Fire,51,87,RUSTEC
+91612,2025-06-23,Mirage,4,Eternal Fire,RUSTEC,Eternal Fire,51,87,Eternal Fire
+91612,2025-06-23,Anubis,7,decider,RUSTEC,Eternal Fire,51,87,Eternal Fire
+91570,2025-06-22,Dust2,3,Eternal Fire,FORZE Reload,Eternal Fire,51,87,Eternal Fire
+91570,2025-06-22,Ancient,4,FORZE Reload,FORZE Reload,Eternal Fire,51,87,Eternal Fire
+91017,2025-06-17,Inferno,3,Fire Flux,Eternal Fire,Fire Flux,87,51,Fire Flux
+91017,2025-06-17,Dust2,4,Eternal Fire,Eternal Fire,Fire Flux,87,51,Eternal Fire
+91017,2025-06-17,Anubis,7,decider,Eternal Fire,Fire Flux,87,51,Eternal Fire
+91014,2025-06-16,Dust2,3,Sangal Academy,Eternal Fire,Sangal Academy,87,51,Eternal Fire
+91014,2025-06-16,Inferno,4,Eternal Fire,Eternal Fire,Sangal Academy,87,51,Eternal Fire
+98581,2025-09-12,Nuke,3,ESC,ESC,GUN5,51,88,ESC
+98581,2025-09-12,Ancient,4,GUN5,ESC,GUN5,51,88,ESC
+98574,2025-09-10,Mirage,3,GUN5,GUN5,Tricked,88,51,GUN5
+98574,2025-09-10,Ancient,4,Tricked,GUN5,Tricked,88,51,GUN5
+98646,2025-09-08,Mirage,3,GUN5,Partizan,GUN5,51,88,GUN5
+98646,2025-09-08,Inferno,4,Partizan,Partizan,GUN5,51,88,GUN5
+97312,2025-08-28,Overpass,3,K27,GUN5,K27,88,51,K27
+97312,2025-08-28,Ancient,4,GUN5,GUN5,K27,88,51,K27
+97309,2025-08-27,Overpass,3,AMKAL,GUN5,AMKAL,88,51,AMKAL
+97309,2025-08-27,Ancient,4,GUN5,GUN5,AMKAL,88,51,AMKAL
+97145,2025-08-23,Train,3,1win,GUN5,1win,88,51,GUN5
+97145,2025-08-23,Ancient,4,GUN5,GUN5,1win,88,51,1win
+97145,2025-08-23,Mirage,7,decider,GUN5,1win,88,51,1win
+97143,2025-08-21,Nuke,3,SPARTA,GUN5,SPARTA,88,51,SPARTA
+97143,2025-08-21,Ancient,4,GUN5,GUN5,SPARTA,88,51,GUN5
+95004,2025-08-14,Inferno,3,GUN5,Nexus,GUN5,51,88,Nexus
+95004,2025-08-14,Mirage,4,Nexus,Nexus,GUN5,51,88,Nexus
+95000,2025-08-13,Nuke,3,GUN5,GUN5,9INE,88,51,9INE
+95000,2025-08-13,Overpass,4,9INE,GUN5,9INE,88,51,9INE
+96212,2025-08-12,Ancient,3,GUN5,Iberian Soul,GUN5,51,88,Iberian Soul
+96212,2025-08-12,Train,4,Iberian Soul,Iberian Soul,GUN5,51,88,Iberian Soul
+94988,2025-08-10,Ancient,3,GUN5,Betclic,GUN5,51,88,GUN5
+94988,2025-08-10,Mirage,4,Betclic,Betclic,GUN5,51,88,Betclic
+94988,2025-08-10,Train,7,decider,Betclic,GUN5,51,88,Betclic
+93057,2025-07-21,Dust2,3,Partizan,Partizan,GUN5,51,88,Partizan
+93057,2025-07-21,Ancient,4,GUN5,Partizan,GUN5,51,88,Partizan
+91721,2025-07-16,Inferno,3,EYEBALLERS,GUN5,EYEBALLERS,88,51,GUN5
+91721,2025-07-16,Ancient,4,GUN5,GUN5,EYEBALLERS,88,51,GUN5
+93044,2025-07-14,Mirage,3,Betera,Betera,GUN5,51,88,GUN5
+93044,2025-07-14,Dust2,4,GUN5,Betera,GUN5,51,88,Betera
+93044,2025-07-14,Ancient,7,decider,Betera,GUN5,51,88,GUN5
+92550,2025-07-12,Ancient,3,GUN5,ROSY,GUN5,51,88,GUN5
+92550,2025-07-12,Inferno,4,ROSY,ROSY,GUN5,51,88,GUN5
+92543,2025-07-10,Ancient,3,GUN5,GUN5,TPuDCATb TPu,88,51,GUN5
+92543,2025-07-10,Nuke,4,TPuDCATb TPu,GUN5,TPuDCATb TPu,88,51,GUN5
+92725,2025-07-09,Mirage,7,decider,GUN5,Hesta,88,51,Hesta
+91712,2025-07-09,Dust2,3,GUN5,GUN5,MANA,88,51,GUN5
+91712,2025-07-09,Ancient,4,MANA,GUN5,MANA,88,51,MANA
+91712,2025-07-09,Inferno,7,decider,GUN5,MANA,88,51,GUN5
+91601,2025-06-30,Ancient,3,GUN5,GUN5,Hesta,88,51,Hesta
+91601,2025-06-30,Nuke,4,Hesta,GUN5,Hesta,88,51,GUN5
+91601,2025-06-30,Mirage,7,decider,GUN5,Hesta,88,51,GUN5
+90389,2025-06-16,Ancient,3,GUN5,Nexus,GUN5,51,88,GUN5
+90389,2025-06-16,Dust2,4,Nexus,Nexus,GUN5,51,88,Nexus
+90389,2025-06-16,Inferno,7,decider,Nexus,GUN5,51,88,Nexus
+90523,2025-06-13,Dust2,3,RUBY,GUN5,RUBY,88,51,GUN5
+90523,2025-06-13,Ancient,4,GUN5,GUN5,RUBY,88,51,GUN5
+90510,2025-06-10,Train,3,FAVBET,GUN5,FAVBET,88,51,GUN5
+90510,2025-06-10,Ancient,4,GUN5,GUN5,FAVBET,88,51,GUN5
+90371,2025-06-10,Inferno,3,Marius,GUN5,Marius,88,51,Marius
+90371,2025-06-10,Ancient,4,GUN5,GUN5,Marius,88,51,GUN5
+90371,2025-06-10,Dust2,7,decider,GUN5,Marius,88,51,Marius
+90361,2025-06-06,Ancient,3,GUN5,Partizan,GUN5,51,88,Partizan
+90361,2025-06-06,Inferno,4,Partizan,Partizan,GUN5,51,88,GUN5
+90361,2025-06-06,Dust2,7,decider,Partizan,GUN5,51,88,Partizan
+88506,2025-05-16,Ancient,3,ECLOT,GUN5,ECLOT,88,51,ECLOT
+88506,2025-05-16,Dust2,4,GUN5,GUN5,ECLOT,88,51,ECLOT
+88503,2025-05-15,Mirage,3,Partizan,Partizan,GUN5,51,88,GUN5
+88503,2025-05-15,Ancient,4,GUN5,Partizan,GUN5,51,88,GUN5

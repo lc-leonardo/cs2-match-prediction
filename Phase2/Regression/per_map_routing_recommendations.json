@@ -1,0 +1,58 @@
+[
+  {
+    "map": "Ancient",
+    "global_logloss": 0.7081512926158928,
+    "per_map_logloss": 0.7262717036286161,
+    "recommendation": "global",
+    "test_count": 55
+  },
+  {
+    "map": "Anubis",
+    "global_logloss": 0.660025611517756,
+    "per_map_logloss": 0.8263027715411169,
+    "recommendation": "global",
+    "test_count": 26
+  },
+  {
+    "map": "Dust2",
+    "global_logloss": 0.6567595157756619,
+    "per_map_logloss": 0.7046846653707067,
+    "recommendation": "global",
+    "test_count": 59
+  },
+  {
+    "map": "Inferno",
+    "global_logloss": 0.7053210680213112,
+    "per_map_logloss": 0.9482285970971206,
+    "recommendation": "global",
+    "test_count": 53
+  },
+  {
+    "map": "Mirage",
+    "global_logloss": 0.6936139931743319,
+    "per_map_logloss": 1.0168762749381373,
+    "recommendation": "global",
+    "test_count": 64
+  },
+  {
+    "map": "Nuke",
+    "global_logloss": 0.6837321082321821,
+    "per_map_logloss": 0.8634052190593379,
+    "recommendation": "global",
+    "test_count": 51
+  },
+  {
+    "map": "Overpass",
+    "global_logloss": 0.5767836652764634,
+    "per_map_logloss": 0.5245071309725261,
+    "recommendation": "per_map",
+    "test_count": 16
+  },
+  {
+    "map": "Train",
+    "global_logloss": 0.6726875657556435,
+    "per_map_logloss": 0.7596513375135558,
+    "recommendation": "global",
+    "test_count": 39
+  }
+]

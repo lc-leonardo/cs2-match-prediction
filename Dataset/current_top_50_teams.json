@@ -1,0 +1,302 @@
+[
+  {
+    "name": "Spirit",
+    "id": 654,
+    "slug": "spirit",
+    "rank": 1
+  },
+  {
+    "name": "Vitality",
+    "id": 667,
+    "slug": "vitality",
+    "rank": 2
+  },
+  {
+    "name": "The MongolZ",
+    "id": 736,
+    "slug": "the-mongolz",
+    "rank": 3
+  },
+  {
+    "name": "MOUZ",
+    "id": 765,
+    "slug": "mousesports",
+    "rank": 4
+  },
+  {
+    "name": "Falcons",
+    "id": 2713,
+    "slug": "falcons-esports",
+    "rank": 5
+  },
+  {
+    "name": "Aurora",
+    "id": 3598,
+    "slug": "aurora-gaming",
+    "rank": 6
+  },
+  {
+    "name": "Natus Vincere",
+    "id": 787,
+    "slug": "natus-vincere",
+    "rank": 7
+  },
+  {
+    "name": "3DMAX",
+    "id": 696,
+    "slug": "3dmax",
+    "rank": 8
+  },
+  {
+    "name": "TYLOO",
+    "id": 757,
+    "slug": "tyloo-cs-go",
+    "rank": 9
+  },
+  {
+    "name": "FURIA",
+    "id": 648,
+    "slug": "furia",
+    "rank": 10
+  },
+  {
+    "name": "Astralis",
+    "id": 794,
+    "slug": "astralis",
+    "rank": 11
+  },
+  {
+    "name": "FaZe",
+    "id": 791,
+    "slug": "faze",
+    "rank": 12
+  },
+  {
+    "name": "Lynn Vision",
+    "id": 476,
+    "slug": "lynn-vision",
+    "rank": 13
+  },
+  {
+    "name": "HEROIC",
+    "id": 759,
+    "slug": "heroic",
+    "rank": 14
+  },
+  {
+    "name": "G2",
+    "id": 793,
+    "slug": "g2",
+    "rank": 15
+  },
+  {
+    "name": "GamerLegion",
+    "id": 594,
+    "slug": "gamerlegion",
+    "rank": 16
+  },
+  {
+    "name": "paiN",
+    "id": 637,
+    "slug": "pain-gaming",
+    "rank": 17
+  },
+  {
+    "name": "Virtus.pro",
+    "id": 720,
+    "slug": "virtus-pro",
+    "rank": 18
+  },
+  {
+    "name": "Legacy",
+    "id": 8118,
+    "slug": "legacy-br",
+    "rank": 19
+  },
+  {
+    "name": "BetBoom",
+    "id": 7498,
+    "slug": "betboom-team",
+    "rank": 20
+  },
+  {
+    "name": "fnatic",
+    "id": 786,
+    "slug": "fnatic",
+    "rank": 21
+  },
+  {
+    "name": "SAW",
+    "id": 312,
+    "slug": "saw",
+    "rank": 22
+  },
+  {
+    "name": "B8",
+    "id": 1539,
+    "slug": "b8",
+    "rank": 23
+  },
+  {
+    "name": "Ninjas in Pyjamas",
+    "id": 785,
+    "slug": "nip",
+    "rank": 24
+  },
+  {
+    "name": "Liquid",
+    "id": 790,
+    "slug": "liquid",
+    "rank": 27
+  },
+  {
+    "name": "MIBR",
+    "id": 755,
+    "slug": "mibr",
+    "rank": 28
+  },
+  {
+    "name": "ENCE",
+    "id": 754,
+    "slug": "ence",
+    "rank": 29
+  },
+  {
+    "name": "OG",
+    "id": 395,
+    "slug": "og",
+    "rank": 30
+  },
+  {
+    "name": "ECSTATIC",
+    "id": 2245,
+    "slug": "ecstatic",
+    "rank": 31
+  },
+  {
+    "name": "Passion UA",
+    "id": 7631,
+    "slug": "passion-ua",
+    "rank": 32
+  },
+  {
+    "name": "Imperial",
+    "id": 1430,
+    "slug": "imperial",
+    "rank": 34
+  },
+  {
+    "name": "PARIVISION",
+    "id": 8171,
+    "slug": "parivision",
+    "rank": 35
+  },
+  {
+    "name": "Rare Atom",
+    "id": 2506,
+    "slug": "rare-atom",
+    "rank": 36
+  },
+  {
+    "name": "M80",
+    "id": 7430,
+    "slug": "m80-cs-go",
+    "rank": 37
+  },
+  {
+    "name": "Nemiga",
+    "id": 655,
+    "slug": "nemiga",
+    "rank": 41
+  },
+  {
+    "name": "Monte",
+    "id": 3581,
+    "slug": "monte",
+    "rank": 44
+  },
+  {
+    "name": "BIG",
+    "id": 756,
+    "slug": "big",
+    "rank": 45
+  },
+  {
+    "name": "Fluxo",
+    "id": 3661,
+    "slug": "fluxo",
+    "rank": 46
+  },
+  {
+    "name": "9z",
+    "id": 324,
+    "slug": "9z",
+    "rank": 50
+  },
+  {
+    "name": "Sashi",
+    "id": 3081,
+    "slug": "sashi-esport",
+    "rank": 52
+  },
+  {
+    "name": "BESTIA",
+    "id": 5701,
+    "slug": "bestia",
+    "rank": 53
+  },
+  {
+    "name": "Zero Tenacity",
+    "id": 2163,
+    "slug": "zero-tenacity",
+    "rank": 59
+  },
+  {
+    "name": "Wildcard",
+    "id": 6062,
+    "slug": "wildcard-gaming",
+    "rank": 61
+  },
+  {
+    "name": "Sharks",
+    "id": 747,
+    "slug": "sharks",
+    "rank": 63
+  },
+  {
+    "name": "SINNERS",
+    "id": 200,
+    "slug": "sinners",
+    "rank": 74
+  },
+  {
+    "name": "RED Canids",
+    "id": 554,
+    "slug": "red-canids-cs-go",
+    "rank": 75
+  },
+  {
+    "name": "Sangal",
+    "id": 36,
+    "slug": "sangal",
+    "rank": 76
+  },
+  {
+    "name": "Metizport",
+    "id": 1578,
+    "slug": "metizport",
+    "rank": 78
+  },
+  {
+    "name": "Eternal Fire",
+    "id": 1527,
+    "slug": "eternal-fire",
+    "rank": 87
+  },
+  {
+    "name": "GUN5",
+    "id": 8211,
+    "slug": "gun5",
+    "rank": 88
+  }
+]

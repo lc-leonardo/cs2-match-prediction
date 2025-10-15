@@ -1,0 +1,170 @@
+{
+  "dataset_info": {
+    "total_samples": 2412,
+    "features": [
+      "map",
+      "map_number",
+      "team_A_rank",
+      "team_B_rank",
+      "rank_diff",
+      "abs_rank_diff",
+      "picked_by_is_A",
+      "is_decider",
+      "map_winrate_A",
+      "map_winrate_B",
+      "recent_form_A",
+      "recent_form_B"
+    ],
+    "target": "winner_is_A",
+    "train_size": 1688,
+    "val_size": 361,
+    "test_size": 363
+  },
+  "baseline_results": {
+    "Logistic Regression": {
+      "accuracy": 0.5817174515235457,
+      "f1_macro": 0.5589617870983923,
+      "roc_auc": 0.607942464040025,
+      "brier_score": 0.23717755613801714
+    },
+    "Random Forest": {
+      "accuracy": 0.592797783933518,
+      "f1_macro": 0.5795840760546643,
+      "roc_auc": 0.5920575359599749,
+      "brier_score": 0.24828005540166204
+    },
+    "XGBoost": {
+      "accuracy": 0.5429362880886427,
+      "f1_macro": 0.5290448065656206,
+      "roc_auc": 0.5420888055034396,
+      "brier_score": 0.3153644081203809
+    },
+    "LightGBM": {
+      "accuracy": 0.5595567867036011,
+      "f1_macro": 0.5478862922091732,
+      "roc_auc": 0.5666979362101314,
+      "brier_score": 0.2716595156282105
+    },
+    "MLP": {
+      "accuracy": 0.5318559556786704,
+      "f1_macro": 0.5211412424944075,
+      "roc_auc": 0.5348342714196372,
+      "brier_score": 0.2975737236044218
+    }
+  },
+  "tuned_results": {
+    "Logistic Regression": {
+      "accuracy": 0.590027700831025,
+      "f1_macro": 0.5671462829736211,
+      "roc_auc": 0.6137585991244529,
+      "brier_score": 0.23631654359062634,
+      "best_params": {
+        "solver": "liblinear",
+        "penalty": "l2",
+        "C": 0.1
+      }
+    },
+    "Random Forest": {
+      "accuracy": 0.6177285318559557,
+      "f1_macro": 0.5852647352647353,
+      "roc_auc": 0.6260162601626016,
+      "brier_score": 0.23426810117629496,
+      "best_params": {
+        "n_estimators": 100,
+        "min_samples_split": 2,
+        "min_samples_leaf": 2,
+        "max_depth": 5
+      }
+    },
+    "XGBoost": {
+      "accuracy": 0.628808864265928,
+      "f1_macro": 0.5835571625344352,
+      "roc_auc": 0.6191994996873045,
+      "brier_score": 0.23679062952484412,
+      "best_params": {
+        "subsample": 0.9,
+        "n_estimators": 100,
+        "max_depth": 3,
+        "learning_rate": 0.01
+      }
+    },
+    "LightGBM": {
+      "accuracy": 0.6121883656509696,
+      "f1_macro": 0.5926821405544809,
+      "roc_auc": 0.6016260162601627,
+      "brier_score": 0.24176164552928597,
+      "best_params": {
+        "num_leaves": 31,
+        "n_estimators": 100,
+        "max_depth": 3,
+        "learning_rate": 0.1
+      }
+    },
+    "MLP": {
+      "accuracy": 0.5373961218836565,
+      "f1_macro": 0.5268082100388525,
+      "roc_auc": 0.5399312070043778,
+      "brier_score": 0.2913755850798175,
+      "best_params": {
+        "learning_rate_init": 0.001,
+        "hidden_layer_sizes": [
+          100
+        ],
+        "alpha": 0.01
+      }
+    }
+  },
+  "final_test_results": {
+    "Logistic Regression": {
+      "accuracy": 0.5895316804407713,
+      "f1_macro": 0.5795246942852923,
+      "roc_auc": 0.6181928810465469,
+      "brier_score": 0.24077028114150664
+    },
+    "Random Forest": {
+      "accuracy": 0.581267217630854,
+      "f1_macro": 0.556975847893114,
+      "roc_auc": 0.6273197444478248,
+      "brier_score": 0.23834823132801658
+    },
+    "XGBoost": {
+      "accuracy": 0.5922865013774105,
+      "f1_macro": 0.5580744932877073,
+      "roc_auc": 0.6485244904167934,
+      "brier_score": 0.2385284869247198
+    },
+    "LightGBM": {
+      "accuracy": 0.6143250688705234,
+      "f1_macro": 0.6023474178403756,
+      "roc_auc": 0.6323699421965318,
+      "brier_score": 0.2400439363866154
+    },
+    "MLP": {
+      "accuracy": 0.5730027548209367,
+      "f1_macro": 0.5700662494555624,
+      "roc_auc": 0.5659263766352297,
+      "brier_score": 0.2873697862498287
+    }
+  },
+  "best_model": "Random Forest",
+  "feature_names": [
+    "map_number",
+    "team_A_rank",
+    "team_B_rank",
+    "rank_diff",
+    "abs_rank_diff",
+    "picked_by_is_A",
+    "is_decider",
+    "map_winrate_A",
+    "map_winrate_B",
+    "recent_form_A",
+    "recent_form_B",
+    "map_Anubis",
+    "map_Dust2",
+    "map_Inferno",
+    "map_Mirage",
+    "map_Nuke",
+    "map_Overpass",
+    "map_Train"
+  ]
+}

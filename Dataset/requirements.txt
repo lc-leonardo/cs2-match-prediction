@@ -1,0 +1,5 @@
+cs2api>=1.0.0
+pandas>=1.3.0
+datetime
+logging
+typing

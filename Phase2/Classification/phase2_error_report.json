@@ -1,0 +1,362 @@
+{
+  "Logistic Regression": {
+    "per_map": {
+      "accuracy": {
+        "Overpass": 0.5,
+        "Mirage": 0.5806451612903226,
+        "Nuke": 0.5970149253731343,
+        "Train": 0.6071428571428571,
+        "Anubis": 0.6521739130434783,
+        "Dust2": 0.6842105263157895,
+        "Inferno": 0.7090909090909091,
+        "Ancient": 0.7543859649122807
+      },
+      "count": {
+        "Overpass": 12,
+        "Mirage": 62,
+        "Nuke": 67,
+        "Train": 28,
+        "Anubis": 23,
+        "Dust2": 57,
+        "Inferno": 55,
+        "Ancient": 57
+      },
+      "error_rate": {
+        "Overpass": 0.5,
+        "Mirage": 0.4193548387096774,
+        "Nuke": 0.4029850746268657,
+        "Train": 0.3928571428571429,
+        "Anubis": 0.34782608695652173,
+        "Dust2": 0.3157894736842105,
+        "Inferno": 0.2909090909090909,
+        "Ancient": 0.24561403508771928
+      }
+    },
+    "per_team_A": {
+      "accuracy_A": {
+        "2GAME": 0.0,
+        "Chinggis Warriors": 0.0,
+        "RUSH B": 0.0,
+        "Nexus": 0.0,
+        "Keyd Stars": 0.0,
+        "KOLESIE": 0.0,
+        "Johnny Speeds": 0.0,
+        "JANO": 0.0,
+        "Fire Flux": 0.0,
+        "ODDIK": 0.0
+      },
+      "count": {
+        "2GAME": 1,
+        "Chinggis Warriors": 1,
+        "RUSH B": 1,
+        "Nexus": 1,
+        "Keyd Stars": 1,
+        "KOLESIE": 1,
+        "Johnny Speeds": 2,
+        "JANO": 1,
+        "Fire Flux": 1,
+        "ODDIK": 1
+      },
+      "error_rate_A": {
+        "2GAME": 1.0,
+        "Chinggis Warriors": 1.0,
+        "RUSH B": 1.0,
+        "Nexus": 1.0,
+        "Keyd Stars": 1.0,
+        "KOLESIE": 1.0,
+        "Johnny Speeds": 1.0,
+        "JANO": 1.0,
+        "Fire Flux": 1.0,
+        "ODDIK": 1.0
+      }
+    }
+  },
+  "Random Forest": {
+    "per_map": {
+      "accuracy": {
+        "Inferno": 0.32727272727272727,
+        "Dust2": 0.38596491228070173,
+        "Nuke": 0.3880597014925373,
+        "Anubis": 0.391304347826087,
+        "Mirage": 0.4838709677419355,
+        "Overpass": 0.5,
+        "Ancient": 0.5263157894736842,
+        "Train": 0.5357142857142857
+      },
+      "count": {
+        "Inferno": 55,
+        "Dust2": 57,
+        "Nuke": 67,
+        "Anubis": 23,
+        "Mirage": 62,
+        "Overpass": 12,
+        "Ancient": 57,
+        "Train": 28
+      },
+      "error_rate": {
+        "Inferno": 0.6727272727272727,
+        "Dust2": 0.6140350877192983,
+        "Nuke": 0.6119402985074627,
+        "Anubis": 0.6086956521739131,
+        "Mirage": 0.5161290322580645,
+        "Overpass": 0.5,
+        "Ancient": 0.4736842105263158,
+        "Train": 0.4642857142857143
+      }
+    },
+    "per_team_A": {
+      "accuracy_A": {
+        "2GAME": 0.0,
+        "AMKAL": 0.0,
+        "Eternal Fire": 0.0,
+        "Chinggis Warriors": 0.0,
+        "Astrum": 0.0,
+        "Iberian Soul": 0.0,
+        "HOTU": 0.0,
+        "Fluxo": 0.0,
+        "Fire Flux": 0.0,
+        "KOLESIE": 0.0
+      },
+      "count": {
+        "2GAME": 1,
+        "AMKAL": 1,
+        "Eternal Fire": 3,
+        "Chinggis Warriors": 1,
+        "Astrum": 1,
+        "Iberian Soul": 4,
+        "HOTU": 2,
+        "Fluxo": 3,
+        "Fire Flux": 1,
+        "KOLESIE": 1
+      },
+      "error_rate_A": {
+        "2GAME": 1.0,
+        "AMKAL": 1.0,
+        "Eternal Fire": 1.0,
+        "Chinggis Warriors": 1.0,
+        "Astrum": 1.0,
+        "Iberian Soul": 1.0,
+        "HOTU": 1.0,
+        "Fluxo": 1.0,
+        "Fire Flux": 1.0,
+        "KOLESIE": 1.0
+      }
+    }
+  },
+  "XGBoost": {
+    "per_map": {
+      "accuracy": {
+        "Inferno": 0.32727272727272727,
+        "Dust2": 0.38596491228070173,
+        "Nuke": 0.3880597014925373,
+        "Anubis": 0.391304347826087,
+        "Mirage": 0.4838709677419355,
+        "Overpass": 0.5,
+        "Ancient": 0.5263157894736842,
+        "Train": 0.5357142857142857
+      },
+      "count": {
+        "Inferno": 55,
+        "Dust2": 57,
+        "Nuke": 67,
+        "Anubis": 23,
+        "Mirage": 62,
+        "Overpass": 12,
+        "Ancient": 57,
+        "Train": 28
+      },
+      "error_rate": {
+        "Inferno": 0.6727272727272727,
+        "Dust2": 0.6140350877192983,
+        "Nuke": 0.6119402985074627,
+        "Anubis": 0.6086956521739131,
+        "Mirage": 0.5161290322580645,
+        "Overpass": 0.5,
+        "Ancient": 0.4736842105263158,
+        "Train": 0.4642857142857143
+      }
+    },
+    "per_team_A": {
+      "accuracy_A": {
+        "2GAME": 0.0,
+        "AMKAL": 0.0,
+        "Eternal Fire": 0.0,
+        "Chinggis Warriors": 0.0,
+        "Astrum": 0.0,
+        "Iberian Soul": 0.0,
+        "HOTU": 0.0,
+        "Fluxo": 0.0,
+        "Fire Flux": 0.0,
+        "KOLESIE": 0.0
+      },
+      "count": {
+        "2GAME": 1,
+        "AMKAL": 1,
+        "Eternal Fire": 3,
+        "Chinggis Warriors": 1,
+        "Astrum": 1,
+        "Iberian Soul": 4,
+        "HOTU": 2,
+        "Fluxo": 3,
+        "Fire Flux": 1,
+        "KOLESIE": 1
+      },
+      "error_rate_A": {
+        "2GAME": 1.0,
+        "AMKAL": 1.0,
+        "Eternal Fire": 1.0,
+        "Chinggis Warriors": 1.0,
+        "Astrum": 1.0,
+        "Iberian Soul": 1.0,
+        "HOTU": 1.0,
+        "Fluxo": 1.0,
+        "Fire Flux": 1.0,
+        "KOLESIE": 1.0
+      }
+    }
+  },
+  "LightGBM": {
+    "per_map": {
+      "accuracy": {
+        "Inferno": 0.32727272727272727,
+        "Dust2": 0.38596491228070173,
+        "Nuke": 0.3880597014925373,
+        "Anubis": 0.391304347826087,
+        "Mirage": 0.4838709677419355,
+        "Overpass": 0.5,
+        "Ancient": 0.5263157894736842,
+        "Train": 0.5357142857142857
+      },
+      "count": {
+        "Inferno": 55,
+        "Dust2": 57,
+        "Nuke": 67,
+        "Anubis": 23,
+        "Mirage": 62,
+        "Overpass": 12,
+        "Ancient": 57,
+        "Train": 28
+      },
+      "error_rate": {
+        "Inferno": 0.6727272727272727,
+        "Dust2": 0.6140350877192983,
+        "Nuke": 0.6119402985074627,
+        "Anubis": 0.6086956521739131,
+        "Mirage": 0.5161290322580645,
+        "Overpass": 0.5,
+        "Ancient": 0.4736842105263158,
+        "Train": 0.4642857142857143
+      }
+    },
+    "per_team_A": {
+      "accuracy_A": {
+        "2GAME": 0.0,
+        "AMKAL": 0.0,
+        "Eternal Fire": 0.0,
+        "Chinggis Warriors": 0.0,
+        "Astrum": 0.0,
+        "Iberian Soul": 0.0,
+        "HOTU": 0.0,
+        "Fluxo": 0.0,
+        "Fire Flux": 0.0,
+        "KOLESIE": 0.0
+      },
+      "count": {
+        "2GAME": 1,
+        "AMKAL": 1,
+        "Eternal Fire": 3,
+        "Chinggis Warriors": 1,
+        "Astrum": 1,
+        "Iberian Soul": 4,
+        "HOTU": 2,
+        "Fluxo": 3,
+        "Fire Flux": 1,
+        "KOLESIE": 1
+      },
+      "error_rate_A": {
+        "2GAME": 1.0,
+        "AMKAL": 1.0,
+        "Eternal Fire": 1.0,
+        "Chinggis Warriors": 1.0,
+        "Astrum": 1.0,
+        "Iberian Soul": 1.0,
+        "HOTU": 1.0,
+        "Fluxo": 1.0,
+        "Fire Flux": 1.0,
+        "KOLESIE": 1.0
+      }
+    }
+  },
+  "MLP": {
+    "per_map": {
+      "accuracy": {
+        "Train": 0.42857142857142855,
+        "Overpass": 0.5,
+        "Nuke": 0.5671641791044776,
+        "Ancient": 0.5789473684210527,
+        "Mirage": 0.5967741935483871,
+        "Dust2": 0.631578947368421,
+        "Inferno": 0.6545454545454545,
+        "Anubis": 0.7391304347826086
+      },
+      "count": {
+        "Train": 28,
+        "Overpass": 12,
+        "Nuke": 67,
+        "Ancient": 57,
+        "Mirage": 62,
+        "Dust2": 57,
+        "Inferno": 55,
+        "Anubis": 23
+      },
+      "error_rate": {
+        "Train": 0.5714285714285714,
+        "Overpass": 0.5,
+        "Nuke": 0.4328358208955224,
+        "Ancient": 0.42105263157894735,
+        "Mirage": 0.4032258064516129,
+        "Dust2": 0.368421052631579,
+        "Inferno": 0.34545454545454546,
+        "Anubis": 0.26086956521739135
+      }
+    },
+    "per_team_A": {
+      "accuracy_A": {
+        "2GAME": 0.0,
+        "AaB": 0.0,
+        "Alliance": 0.0,
+        "FUT": 0.0,
+        "BLUEJAYS": 0.0,
+        "Keyd Stars": 0.0,
+        "Nexus": 0.0,
+        "Imperial Valkyries": 0.0,
+        "Flamengo": 0.0,
+        "ODDIK": 0.0
+      },
+      "count": {
+        "2GAME": 1,
+        "AaB": 1,
+        "Alliance": 1,
+        "FUT": 1,
+        "BLUEJAYS": 1,
+        "Keyd Stars": 1,
+        "Nexus": 1,
+        "Imperial Valkyries": 1,
+        "Flamengo": 2,
+        "ODDIK": 1
+      },
+      "error_rate_A": {
+        "2GAME": 1.0,
+        "AaB": 1.0,
+        "Alliance": 1.0,
+        "FUT": 1.0,
+        "BLUEJAYS": 1.0,
+        "Keyd Stars": 1.0,
+        "Nexus": 1.0,
+        "Imperial Valkyries": 1.0,
+        "Flamengo": 1.0,
+        "ODDIK": 1.0
+      }
+    }
+  }
+}

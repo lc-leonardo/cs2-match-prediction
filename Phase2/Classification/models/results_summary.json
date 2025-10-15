@@ -1,0 +1,165 @@
+{
+  "dataset_info": {
+    "total_samples": 2412,
+    "features": [
+      "map",
+      "rank_diff",
+      "abs_rank_diff",
+      "picked_by_is_A",
+      "is_decider",
+      "map_winrate_A",
+      "map_winrate_B",
+      "recent_form_A",
+      "recent_form_B"
+    ],
+    "target": "winner_is_A",
+    "train_size": 1688,
+    "val_size": 361,
+    "test_size": 363
+  },
+  "baseline_results": {
+    "Logistic Regression": {
+      "accuracy": 0.590027700831025,
+      "f1_macro": 0.5659647754598037,
+      "roc_auc": 0.6100375234521576,
+      "brier_score": 0.23677402328103628
+    },
+    "Random Forest": {
+      "accuracy": 0.5678670360110804,
+      "f1_macro": 0.5542927694061035,
+      "roc_auc": 0.5619606003752344,
+      "brier_score": 0.25399916897506924
+    },
+    "XGBoost": {
+      "accuracy": 0.5235457063711911,
+      "f1_macro": 0.508579207293909,
+      "roc_auc": 0.5268605378361475,
+      "brier_score": 0.30944932669933695
+    },
+    "LightGBM": {
+      "accuracy": 0.556786703601108,
+      "f1_macro": 0.5409752686121178,
+      "roc_auc": 0.5212320200125078,
+      "brier_score": 0.28352025047667967
+    },
+    "MLP": {
+      "accuracy": 0.5373961218836565,
+      "f1_macro": 0.529070357843099,
+      "roc_auc": 0.5365228267667292,
+      "brier_score": 0.2851121974198553
+    }
+  },
+  "tuned_results": {
+    "Logistic Regression": {
+      "accuracy": 0.590027700831025,
+      "f1_macro": 0.5647484358706987,
+      "roc_auc": 0.6139774859287055,
+      "brier_score": 0.2362600959510438,
+      "best_params": {
+        "solver": "liblinear",
+        "penalty": "l2",
+        "C": 0.1
+      }
+    },
+    "Random Forest": {
+      "accuracy": 0.5955678670360111,
+      "f1_macro": 0.5612221112221112,
+      "roc_auc": 0.6020012507817386,
+      "brier_score": 0.2390268914503709,
+      "best_params": {
+        "n_estimators": 200,
+        "min_samples_split": 2,
+        "min_samples_leaf": 4,
+        "max_depth": 5
+      }
+    },
+    "XGBoost": {
+      "accuracy": 0.6038781163434903,
+      "f1_macro": 0.5564920058077099,
+      "roc_auc": 0.6139618511569732,
+      "brier_score": 0.23776569393028787,
+      "best_params": {
+        "subsample": 0.9,
+        "n_estimators": 100,
+        "max_depth": 3,
+        "learning_rate": 0.01
+      }
+    },
+    "LightGBM": {
+      "accuracy": 0.5650969529085873,
+      "f1_macro": 0.5402020038129234,
+      "roc_auc": 0.550703564727955,
+      "brier_score": 0.2536447969766322,
+      "best_params": {
+        "num_leaves": 15,
+        "n_estimators": 50,
+        "max_depth": 7,
+        "learning_rate": 0.1
+      }
+    },
+    "MLP": {
+      "accuracy": 0.5373961218836565,
+      "f1_macro": 0.47551437644090655,
+      "roc_auc": 0.518886804252658,
+      "brier_score": 0.28683644708336437,
+      "best_params": {
+        "learning_rate_init": 0.1,
+        "hidden_layer_sizes": [
+          50,
+          25
+        ],
+        "alpha": 0.0001
+      }
+    }
+  },
+  "final_test_results": {
+    "Logistic Regression": {
+      "accuracy": 0.5785123966942148,
+      "f1_macro": 0.56499024852553,
+      "roc_auc": 0.617493154852449,
+      "brier_score": 0.24109951809740834
+    },
+    "Random Forest": {
+      "accuracy": 0.5840220385674931,
+      "f1_macro": 0.5367119420520146,
+      "roc_auc": 0.6089747490112565,
+      "brier_score": 0.24252763232001195
+    },
+    "XGBoost": {
+      "accuracy": 0.5950413223140496,
+      "f1_macro": 0.5540950455005056,
+      "roc_auc": 0.6071797992090052,
+      "brier_score": 0.24212101226686494
+    },
+    "LightGBM": {
+      "accuracy": 0.5674931129476584,
+      "f1_macro": 0.5237613751263903,
+      "roc_auc": 0.6065561302099179,
+      "brier_score": 0.24279843085191416
+    },
+    "MLP": {
+      "accuracy": 0.5454545454545454,
+      "f1_macro": 0.4994944388270981,
+      "roc_auc": 0.5169151201703681,
+      "brier_score": 0.2884428219079538
+    }
+  },
+  "best_model": "Logistic Regression",
+  "feature_names": [
+    "rank_diff",
+    "abs_rank_diff",
+    "picked_by_is_A",
+    "is_decider",
+    "map_winrate_A",
+    "map_winrate_B",
+    "recent_form_A",
+    "recent_form_B",
+    "map_Anubis",
+    "map_Dust2",
+    "map_Inferno",
+    "map_Mirage",
+    "map_Nuke",
+    "map_Overpass",
+    "map_Train"
+  ]
+}

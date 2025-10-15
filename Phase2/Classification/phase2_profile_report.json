@@ -1,0 +1,40 @@
+{
+  "rows": 2412,
+  "columns": 21,
+  "missing_by_column": {
+    "match_id": 0,
+    "date": 0,
+    "map": 0,
+    "map_number": 0,
+    "team_A": 0,
+    "team_B": 0,
+    "winner": 0,
+    "team_A_rank": 0,
+    "team_B_rank": 0,
+    "rank_diff": 0,
+    "abs_rank_diff": 0,
+    "picked_by_is_A": 0,
+    "is_decider": 0,
+    "map_winrate_A": 0,
+    "map_winrate_B": 0,
+    "recent_form_A": 0,
+    "recent_form_B": 0,
+    "winner_is_A": 0,
+    "split_row": 0,
+    "split_match": 0,
+    "ym": 0
+  },
+  "class_balance": {
+    "1": 1310,
+    "0": 1102
+  },
+  "monthly_target": {
+    "2025-03": 56.75675675675676,
+    "2025-04": 56.470588235294116,
+    "2025-05": 53.901996370235935,
+    "2025-06": 52.218430034129696,
+    "2025-07": 58.309859154929576,
+    "2025-08": 53.84615384615385,
+    "2025-09": 47.5
+  }
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "map": "Ancient",
+    "test_count": 55,
+    "mean_diff": -0.01805267271329153,
+    "ci_low": -0.17893625949930408,
+    "ci_high": 0.12408601384400113,
+    "p_value": 0.577,
+    "global_logloss": 0.7081512926158928,
+    "per_map_logloss": 0.7262717036286161
+  },
+  {
+    "map": "Dust2",
+    "test_count": 59,
+    "mean_diff": -0.05034684954238802,
+    "ci_low": -0.21764411127154903,
+    "ci_high": 0.10026942570147994,
+    "p_value": 0.7215,
+    "global_logloss": 0.6567595157756619,
+    "per_map_logloss": 0.7046846653707067
+  },
+  {
+    "map": "Train",
+    "test_count": 39,
+    "mean_diff": -0.08522651735799598,
+    "ci_low": -0.27693173693504997,
+    "ci_high": 0.08618110154606876,
+    "p_value": 0.8155,
+    "global_logloss": 0.6726875657556435,
+    "per_map_logloss": 0.7596513375135558
+  },
+  {
+    "map": "Anubis",
+    "test_count": 26,
+    "mean_diff": -0.16438291953188935,
+    "ci_low": -0.4371876317365787,
+    "ci_high": 0.09522086615669385,
+    "p_value": 0.8915,
+    "global_logloss": 0.660025611517756,
+    "per_map_logloss": 0.8263027715411169
+  },
+  {
+    "map": "Nuke",
+    "test_count": 51,
+    "mean_diff": -0.17548588574470847,
+    "ci_low": -0.4213586678967049,
+    "ci_high": 0.05175829903702486,
+    "p_value": 0.939,
+    "global_logloss": 0.6837321082321821,
+    "per_map_logloss": 0.8634052190593379
+  },
+  {
+    "map": "Inferno",
+    "test_count": 53,
+    "mean_diff": -0.2403208267361523,
+    "ci_low": -0.4229948115323296,
+    "ci_high": -0.059503451886436506,
+    "p_value": 0.9965,
+    "global_logloss": 0.7053210680213112,
+    "per_map_logloss": 0.9482285970971206
+  },
+  {
+    "map": "Mirage",
+    "test_count": 64,
+    "mean_diff": -0.32384079759784207,
+    "ci_low": -0.5707163366849638,
+    "ci_high": -0.10051329399994308,
+    "p_value": 0.998,
+    "global_logloss": 0.6936139931743319,
+    "per_map_logloss": 1.0168762749381373
+  }
+]

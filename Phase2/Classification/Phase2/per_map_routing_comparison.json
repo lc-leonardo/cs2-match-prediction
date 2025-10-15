@@ -1,0 +1,17 @@
+{
+  "per_map": [],
+  "aggregate": {
+    "global": {
+      "tp": 0,
+      "tn": 0,
+      "fp": 0,
+      "fn": 0
+    },
+    "per_map": {
+      "tp": 0,
+      "tn": 0,
+      "fp": 0,
+      "fn": 0
+    }
+  }
+}
