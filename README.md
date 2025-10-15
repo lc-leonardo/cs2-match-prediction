@@ -16,7 +16,6 @@ This project implements a complete pipeline for CS2 match prediction, from data 
 ### Evaluation: Machine Learning Models
 - **Classification**: Binary win/loss prediction with multiple algorithms
 - **Regression**: Probabilistic win prediction with calibration
-- **Neural Networks**: Deep learning approaches with PyTorch
 
 ### Phase3: Analysis and Reporting
 - **Model Comparison**: Comprehensive evaluation across multiple metrics
@@ -26,7 +25,7 @@ This project implements a complete pipeline for CS2 match prediction, from data 
 ## Key Features
 
 🎯 **Comprehensive ML Pipeline**
-- Multiple algorithms: Logistic Regression, Random Forest, XGBoost, LightGBM, Neural Networks
+- Multiple algorithms: Logistic Regression, Random Forest, XGBoost, LightGBM, MLP
 - Advanced preprocessing with temporal awareness to prevent data leakage
 - Automated hyperparameter tuning and model selection
 
@@ -68,10 +67,6 @@ cd Evaluation/Classification
 
 cd ../Regression  
 # Open and run cs2_map_probability_regression.ipynb for regression models
-
-# For neural networks
-cd ../NeuralNetworks
-# Open and run nn_models.ipynb
 ```
 
 ## Dataset
@@ -89,7 +84,7 @@ cd ../NeuralNetworks
 | LightGBM | 0.72 | 0.231 | 0.659 | 67.2% |
 | Random Forest | 0.71 | 0.233 | 0.665 | 66.8% |
 | XGBoost | 0.70 | 0.235 | 0.672 | 66.1% |
-| Neural Network | 0.69 | 0.238 | 0.675 | 65.7% |
+| MLP | 0.69 | 0.238 | 0.675 | 65.7% |
 
 ## Repository Structure
 
@@ -102,8 +97,7 @@ cd ../NeuralNetworks
 │   └── cs2api/                     # Custom API library
 ├── Evaluation/                      # Machine learning models
 │   ├── Classification/             # Classification models and analysis
-│   ├── Regression/                 # Regression models and calibration  
-│   ├── NeuralNetworks/            # Deep learning experiments
+│   ├── Regression/                 # Regression models and calibration
 │   └── compilated/                # Results aggregation and reporting
 └── Phase3/                          # Final analysis and documentation
 ```
