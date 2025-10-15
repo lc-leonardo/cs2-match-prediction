@@ -8,17 +8,17 @@ This project implements a complete pipeline for CS2 match prediction, from data 
 
 ## Project Structure
 
-### Phase 1: Data Collection and Preprocessing
+### Dataset: Data Collection and Preprocessing
 - **Data Scraping**: Automated collection from BO3.gg API
 - **Feature Engineering**: Chronological winrates, recent form, and contextual features
 - **Dataset Extension**: Automated updates with new tournament data
 
-### Phase 2: Machine Learning Models
+### Evaluation: Machine Learning Models
 - **Classification**: Binary win/loss prediction with multiple algorithms
 - **Regression**: Probabilistic win prediction with calibration
 - **Neural Networks**: Deep learning approaches with PyTorch
 
-### Phase 3: Analysis and Reporting
+### Phase3: Analysis and Reporting
 - **Model Comparison**: Comprehensive evaluation across multiple metrics
 - **Calibration Analysis**: Probability reliability assessment
 - **Final Report**: Complete scientific analysis and findings
@@ -50,12 +50,12 @@ This project implements a complete pipeline for CS2 match prediction, from data 
 
 ### Prerequisites
 ```bash
-pip install -r Phase1/requirements.txt
+pip install -r Dataset/requirements.txt
 ```
 
 ### Data Collection
 ```bash
-cd Phase1
+cd Dataset
 python cs2_match_data_scraper.py      # Collect raw match data
 python create_ml_dataset.py           # Create ML-ready dataset
 python extend_dataset.py              # Update with new tournaments (optional)
@@ -63,7 +63,7 @@ python extend_dataset.py              # Update with new tournaments (optional)
 
 ### Model Training
 ```bash
-cd Phase2/Classification
+cd Evaluation/Classification
 # Open and run cs2_map_prediction.ipynb for classification models
 
 cd ../Regression  
@@ -94,13 +94,13 @@ cd ../NeuralNetworks
 ## Repository Structure
 
 ```
-├── Phase1/                          # Data collection and preprocessing
+├── Dataset/                         # Data collection and preprocessing
 │   ├── cs2_match_data_scraper.py   # Main data scraper
 │   ├── create_ml_dataset.py        # ML dataset transformation
 │   ├── extend_dataset.py           # Automated dataset updates
 │   ├── dataset_profiler.py         # Data quality analysis
 │   └── cs2api/                     # Custom API library
-├── Phase2/                          # Machine learning models
+├── Evaluation/                      # Machine learning models
 │   ├── Classification/             # Classification models and analysis
 │   ├── Regression/                 # Regression models and calibration  
 │   ├── NeuralNetworks/            # Deep learning experiments
